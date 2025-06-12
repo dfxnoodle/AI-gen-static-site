@@ -1,0 +1,12 @@
+# Calendar 2024-25 - Chunk 96
+
+<!-- Chunk tokens: 437, Enriched tokens: 440 -->
+
+The Constituent Colleges
+With the reorganisation of the  University  following  the  enactment  of The Chinese University of Hong Kong Ordinance 1976, the Boards of Trustees of the three original Colleges, viz. Chung Chi College, New Asia College, and The United College of Hong Kong, were reconstituted. Each college board is mainly concerned with the management of the movable property and of certain College buildings entrusted to it, as well as the promotion of scholastic and cultural activities of the College.
+Each College is governed by an Assembly of Fellows chaired by the College Head/Master, and this assembly is responsible for making and implementing decisions on various matters relating to the College.
+In January 1986 the University received a very generous donation from the Shaw Foundation (Hong Kong) Ltd. for the establishment of Shaw College with Sir Run Run Shaw as its patron. The Chinese University of Hong Kong (Declaration of Shaw College) Ordinance was enacted in July 1986. Shaw College admitted its first batch of students in 1988.
+In  2006,  the  University  received  very  generous  donations  from  the Morningside Foundation and Morningside Education Foundation Ltd., and from The S.H. Ho Foundation Ltd. in support of its visions to enhance the collegiate system in anticipation of the surge in undergraduate enrolment in 2012 when the University reverts to a normative four-year curriculum. In May the same year, the University Council endorsed the establishing of two new Colleges and named them respectively Morningside College and S.H. Ho College.
+In May 2007, C.W. Chu College and Wu Yee Sun College were established with generous donations from benefactors and Wu Yee Sun Charitable Foundation Ltd., respectively.
+In October 2007, the University Council further approved the establishment of  Lee Woo Sing College with very generous support from the Li Foundation (Bing Hua Tang).
+To give legal effect to the establishment of the five new Colleges, The Chinese University of Hong Kong (Declaration of Morningside College and S.H. Ho College as Constituent Colleges) Ordinance was enacted in July 2007, and The Chinese University of Hong Kong (Declaration of C.W. Chu College, Wu Yee Sun College and Lee Woo Sing College as Constituent Colleges) Ordinance was enacted in February 2008.

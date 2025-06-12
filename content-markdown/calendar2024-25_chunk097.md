@@ -1,0 +1,8 @@
+# Calendar 2024-25 - Chunk 97
+
+<!-- Chunk tokens: 279, Enriched tokens: 282 -->
+
+Chung Chi College
+Chung Chi College was founded in 1951 by representatives of Protestant Churches in Hong Kong, inheriting the educational mission of the 13 Christian universities in mainland China. The College moved to its permanent site in Ma Liu Shui in 1956 and was incorporated as one of the constituent Colleges of CUHK in 1963.
+Integrating Christianity and Chinese cultures, the College endeavours to cultivate love for humanity, freedom and inclusiveness, nurture talent with insightful knowledge, a liberal attitude and global horizon. The College organises diversified local and overseas experiential learning programmes, ranging from art and culture, language study, to career development, community service and leadership. The College General Education, which includes the Service-Learning Programme and the Exploration and Discovery Study Scheme, etc., fosters thinking and learning from multiple perspectives, and extends students' horizon stretching beyond the scope of their major and minor studies. Moreover, scholarships are set up to recognise students' outstanding achievements in academics and balanced education, etc., while the award schemes promote their creativity and potential exploration.
+Situated near the MTR station, the campus was designed in a manner that blends with its beautiful natural surroundings. Elements of Christian traditions and heritage as well as the liberal attitude and respect to diverse religions are found. Chung Chi's motto In Pursuit of Excellence means the continuous strive to improve themselves for serving the society in the best way possible.

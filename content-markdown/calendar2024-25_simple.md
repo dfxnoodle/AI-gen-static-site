@@ -1,0 +1,3694 @@
+# Calendar 2024-25 (Generated with Docling)
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+The Chinese University of Hong Kong Calendar 2024-2025
+
+<!-- image -->
+
+Unless otherwise specified, the information in this Calendar is accurate as at 16 September 2024.
+
+<!-- image -->
+
+## © The Chinese University of Hong Kong 2024
+
+<!-- image -->
+
+Communications and Public Relations Office The Chinese University of Hong Kong Shatin, New Territories Hong Kong Special Administrative Region The People's Republic of China
+
+<!-- image -->
+
+- ' (852) 3943 6000
+
+(852) 3943 7000
+
+<!-- image -->
+
+- 7 (852) 2603 5544
+
+<!-- image -->
+
+8
+
+www.cuhk.edu.hk
+
+## Contents
+
+| Part 1   | General Information   | General Information     | 1   |
+|----------|-----------------------|-------------------------|-----|
+| Part 2   | Establishment         | Establishment           | 59  |
+|          | 61                    | University Officers     |     |
+|          | 64                    | The Council             |     |
+|          | 66                    | Council Committees      |     |
+|          | 76                    | The Senate              |     |
+|          | 81                    | Senate Committees       |     |
+|          | 82                    | Graduates Honoris Causa |     |
+|          | 89                    | Honorary Fellows        |     |
+| Part 3   | Fees                  | Fees                    | 93  |
+| Part 4   | University Almanac    | University Almanac      | 111 |
+|          | 113                   | Calendar 2024-2025      |     |
+
+Part 1
+
+General Information
+
+<!-- image -->
+
+## The University
+
+## Origin
+
+The University has its origin in three post-secondary colleges: New Asia College (founded 1949), Chung Chi College (founded 1951), and The United College of Hong Kong (founded 1956), which drew, in their early days, a sizeable proportion of their teachers and some of their students from mainland China.
+
+In 1957, these three Colleges came together to form the Chinese Colleges Joint Council with the objective of securing government recognition of their efforts in providing higher education for the young people of Hong Kong. In 1959, Mr. John S. Fulton (later Lord Fulton of Falmer) was invited to advise on the general lines of development for the three Colleges as a whole. In 1960, the government introduced the Post-Secondary Colleges Ordinance and Regulations, which approved financial support to the three Colleges with a view to raising their academic standards.
+
+In 1961, a University Preparatory Committee, chaired by Dr. the Hon. Sir Choyiu Kwan, was appointed to advise on sites and buildings, and matters relating to the establishment of the University. A group of advisers from Britain and the US visited Hong Kong in the same year to advise the Colleges on the development of university level courses in arts, science, commerce, and social science. The report of these advisers was encouraging, and in 1962 the government appointed a  commission under the chairmanship of Mr. John S. Fulton to consider and determine whether and how a Chinese university could be created from the three Colleges.
+
+The Report of the Fulton Commission, known as the Fulton Report and published in April 1963, recommended the establishment of a new university. Shortly  after  its  publication,  the Report was  approved  in  principle  by  the government. A Provisional Council was set up in June 1963, and The Chinese University of Hong Kong Ordinance and Statutes were enacted in September of the same year. On 17 October 1963 the University was formally inaugurated.
+
+## The Ordinance
+
+In  November 1975, the Chancellor of the University appointed an external commission to review the constitutional arrangements governing the University and its constituent Colleges. Lord Fulton of Falmer was again invited to serve as chairman of the commission.
+
+The second Fulton Report was submitted to the Chancellor in March 1976 and published in May. The Report recommended important changes to the constitutional arrangements governing the University and the Colleges. Under the  new arrangements proposed by the commission, the University would be responsible for academic and development policy, financial management, the matriculation of students, the appointment of staff, the determination of the curriculum, the conduct of examinations, and the award of degrees. The participation of senior academics in the governing bodies of the University would be strengthened. In addition, the Report recommended that the University should strive to strike a balance between 'subject-orientated' teaching and small group 'student-orientated' teaching, and that the latter should be entrusted to the Colleges. This 'student-orientated' teaching would be designed to build in the students habits and frames of mind required of experts in their chosen fields and to equip them with the necessary skills for meeting new challenges in a rapidly changing world. A new ordinance to give effect to the recommendations in the second Fulton Report was enacted in December 1976.
+
+In  1986  the  University  received  a  generous  donation  from  the  Shaw Foundation (Hong Kong) Ltd. for the specific purpose of establishing a fourth College, Shaw College. The Ordinance and the Statutes were further revised to provide for its establishment, and it began admitting students in September 1988.
+
+The University cherishes its college system and the vital roles played by its constituent Colleges. To cater for the addition of more than 3,000 undergraduate students upon reversion to a four-year undergraduate curriculum in 2012, the University decided to establish more Colleges. With very generous support from a number of patrons, the University established Morningside College and S.H. Ho College in May 2006, C.W. Chu College and Wu Yee Sun College in May 2007, and Lee Woo Sing College in October 2007. In July 2007, the University has by Ordinance, in accordance with a special resolution of the Council, declared Morningside College and S.H. Ho College as constituent Colleges of the University. In February 2008, an Ordinance for the declaration of C.W. Chu College, Wu Yee Sun College, and Lee Woo Sing College as constituent Colleges of the University was enacted by the Legislative Council.
+
+The Ordinance and the Statutes of the University are printed in Part 1 of this Calendar .
+
+## Academic Structure and Policy
+
+The Chinese University of Hong Kong is a comprehensive research university offering  a wide range of full-time and part-time programmes which lead to bachelor's degrees, master's degrees, and doctorates.
+
+There  are  eight  Faculties  (Arts,  Business Administration,  Education, Engineering, Law, Medicine, Science, and Social Science), and 60 departments/ schools  offering  85  major  programmes  and  76  minor  programmes  for undergraduate students.
+
+Postgraduate programmes including 44 MPhil-PhD programmes, 26 doctoral programmes, 149 master's programmes, seven postgraduate diploma programmes, and one postgraduate certificate programme are offered by the Graduate School through its 60 graduate divisions.
+
+The Senate regulates instruction, education and research. The Faculties advise the Senate through the faculty boards on the programmes of study recommended by the departments/schools, which deliver disciplinary teaching. The Colleges, in turn, support the broader development of students as whole persons in addition to the provision of residential accommodation. All teaching staff and full-time undergraduate students, with a few exception of teachers belonging to research institutes or centres, belong to both a Faculty and to a College.
+
+## Undergraduate Studies n
+
+At  its  inception  the  University's  undergraduate  curriculum was  based  on  a combination of the credit unit system and the degree examination system. After a comprehensive review in the mid-1980s, the University decided to adopt a pure credit-unit-based curriculum structure. From 1991-92 onwards, greater flexibility was introduced into students' selection of courses and pace of study.
+
+## Full-time Undergraduate Studies
+
+Throughout the years the University has endeavoured to provide a wide variety of programmes to meet the changing needs of society. In 2024-25, one major and three minor programmes are introduced.
+
+| ProgrammeTitle                                                   | Faculty                                 | Major/Minor   |
+|------------------------------------------------------------------|-----------------------------------------|---------------|
+| Aerospace Science and Earth Informatics &XDouble Major Programme | Engineering, Science and Social Science | Major         |
+| Religion and Health                                              | Arts                                    | Minor         |
+| Applied Diversity Studies                                        | Social Science                          | Minor         |
+| Global Communication                                             | Social Science                          | Minor         |
+
+## General Education
+
+General Education plays a vital role in the University's mission to provide a balanced undergraduate education for all students. It equips students with the intellectual capacity for understanding critical issues, ideas, and values of humanity in modern society. It nurtures students to be educated persons capable of making informed judgment and meeting the challenges of the ever-changing world. Providing a firm foundation for the well-rounded intellectual development of students, it prepares them to be lifelong learners and engaged citizens with a global awareness.
+
+The General Education Programme at CUHK is composed of the General Education Foundation, the 'Four Areas' of University General Education, and College General Education. The General Education Foundation and the 'Four Areas' of University General Education are administered by the Office of University General Education, while the College General Education programme is offered by constituent Colleges, each with its distinctive mission and tradition.
+
+## Postgraduate Studies n
+
+Master's programmes were first offered in 1966-67, and the number of programmes in  2024-25 is 149. Doctoral programmes were first introduced in 1980-81 and the number of programmes is 26 in 2024-25. MPhil-PhD programmes were first introduced in 2004-05, and the number of programmes is 44 in 2024-25. In  addition,  seven  postgraduate diploma programmes and one postgraduate certificate programme are offered.
+
+## The Chinese University of Hong Kong Ordinance
+
+## Long title
+
+To repeal and replace The Chinese University of Hong Kong Ordinance, to repeal the Chung Chi College Incorporation Odinance, the Board of Trustees of The United College of Hong Kong Incorporation Ordinance and the New Asia College Incorporation Ordinance and to make new provision concerning the Chung Chi College, The United College of Hong Kong and the New Asia College, to make provision for Shaw College, Morningside College, S.H. Ho College, C.W. Chu College, Wu Yee Sun College and Lee Woo Sing College, and for purposes connected therewith.
+
+(Amended 59 of 1986 s. 4; 18 of 2007 s. 5; 2 of 2008 s. 5; E.R. 3 of 2021) [24 December 1976] (Originally 86 of 1976)
+
+## Preamble
+
+## WHEREAS-
+
+- (a) The Chinese University of Hong Kong was established and incorporated in 1963 by The Chinese University of Hong Kong Ordinance (Cap. 1109  1965 , Ed.) as a University with a federal constitution;
+- (b) the original Colleges of the University are Chung Chi College, New Asia College and The United College of Hong Kong; (Replaced 59 of 1986 s. 4)
+- (c) it is considered desirable that some of the powers and functions conferred on the said Colleges under their respective constitutions and Ordinances should be vested in The Chinese University of Hong Kong and that the principal role of the said Colleges be the provision of student-orientated teaching under the direction of The Chinese University of Hong Kong;
+- (d) it is also considered desirable to make certain alterations in the constitution of The Chinese University of Hong Kong;
+- (da)  the Council of the University has, by special resolutions, resolved that Shaw College, Morningside College, S.H. Ho College, C.W. Chu College, Wu Yee Sun College and Lee Woo Sing College shall be constituent Colleges of the University; (Added 59 of 1986 s. 4.; Amended 18 of 2007 s. 5; 2 of 2008 s. 5)
+- (e) it  is  declared  that The  Chinese  University  of  Hong Kong, in which the principal language of instruction shall be Chinese, shall continue to-
+- (i) assist in the preservation, dissemination, communication and increase in knowledge;
+
+- (ii) provide regular courses of instruction in the humanities, the sciences and other branches of learning of a standard required and expected of a University of the highest standing;
+- (iii) stimulate the intellectual and cultural development of Hong Kong and thereby to assist in promoting its economic and social welfare:
+
+## 1. Short title
+
+This Ordinance may be cited as The Chinese University of Hong Kong Ordinance.
+
+## 2. Definitions
+
+- (1) In this Ordinance, unless the context otherwise requires-
+- 'additional College' ( 新增書院 ) means a constituent College other than an original College or Shaw College; (Added 28 of 2023 s. 3)
+- 'approved course of study' ( 認可課程 ) means a course of study approved by the Senate;
+- 'Assembly of Fellows' ( 院務委員會 ) means the Assembly of Fellows of a constituent College; (Amended 59 of 1986 s. 4)
+- 'Board of Trustees' ( 書院校董會 ) means the Board of Trustees of an original College or Shaw College; (Amended 59 of 1986 s. 4; 18 of 2007 s. 5)
+- 'Chancellor' ( 監督 ),  'Pro-Chancellor' ( 副監督 ),  'Vice-Chancellor' ( 校長 ),  'ProVice-Chancellors' ( 副校長 ) and 'Treasurer' ( 司庫 ) respectively mean the Chancellor, Pro-Chancellor, Vice-Chancellor, Pro-Vice-Chancellors and the Treasurer of the University;
+- 'constituent  College'  ( 成員書院 )  means  a  constituent  College  of  the University  as  provided  by  section  3;  (Replaced  59  of  1986  s.  4. Amended 18 of 2007 s. 5)
+- 'Council'  ( 大學校董會 ),  'Senate'  ( 教務會 ),  'Convocation'  ( 校友評議會 ), 'Faculties'  ( 學院 ),  'Schools  of  Studies'  ( 專業學院 )  and  'Boards of  Studies'  ( 學務委員會 )  respectively  mean the  Council,  Senate, Convocation, Faculties, Schools of Studies and Boards of Studies of the University; (Amended 10 of 2005 s. 21)
+- 'Fellow' ( 院務委員 )  means a Fellow of a constituent College; (Amended 59 of 1986 s. 4)
+- 'graduates' ( 畢業生 ) and 'students' ( 學生 ) respectively mean the graduates and students of the University;
+- 'Head' ( 院長 ) means, in relation to an original College or Shaw College, the Head of the College concerned; (Replaced 18 of 2007 s. 5)
+- 'Master of an additional College' ( 新增書院的院長 ) means, in relation to an additional College, the Master of the College concerned; (Added 28 of 2023 s. 3)
+- 'members' ( 成員 ) means such persons as are prescribed by the Statutes to be members of the University;
+- 'officers' ( 主管人員 )  means the officers of the University as provided by section 5;
+- 'original College' ( 原有書院 ) means any of the following-
+- (a) Chung Chi College;
+
+- (b) The United College of Hong Kong;
+- (c) New Asia College; (Added 59 of 1986 s. 4)
+- 'precincts' ( 院校範圍 ) means, in relation to the University, the boundaries of Lot No. 725 in Demarcation District 42;
+- 'repealed Ordinance' ( 已廢除條例 ) means The Chinese University of Hong Kong Ordinance (Cap. 1109, 1965 Ed.) repealed by section 21;
+- 'Statutes' ( 規程 ) means the Statutes of the University contained in Schedule 1 as the same may from time to time be amended or replaced under section 13(1);
+- 'teacher' ( 教師 )  means a member of the full-time teaching staff of the University of the rank of Assistant Lecturer and above;
+- 'University' ( 香港中文大學 ) means The Chinese University of Hong Kong ( 香港中文大學 ) continued under section 4.
+- (2) A special resolution is a resolution passed at one meeting of the Council and confirmed at a subsequent meeting held not less than 1 month nor more than 6 months thereafter and which is approved at each such meeting by-
+- (a) not less than three-fourths of those present and voting; and
+- (b) not less than half the whole membership of the Council for the time being. (Amended 28 of 2023 s. 3)
+
+## 3. University to have constituent Colleges
+
+- (1) The constituent Colleges of the University are the original Colleges, Shaw College and such other institutions as may from time to time by Ordinance, in accordance with a special resolution of the Council, be declared to be constituent Colleges of the University. (Amended 59 of 1986 s. 4)
+- (2) No provision in the constitution of any constituent College shall be of effect if it is in conflict with or inconsistent with this Ordinance. (Amended 59 of 1986 s. 4)
+- (3) No person shall be excluded from being a member of the University by reason of sex, race or religion.
+
+## 4. Continuation of incorporation of the University
+
+- (1) The constituent Colleges and members of the University shall be or continue to be a body corporate called The Chinese University of Hong Kong ( 香港 中文大學 ) which shall be the same University as that established by The Chinese University of Hong Kong Ordinance 1963 (28 of 1963). (Amended 59 of 1986 s. 4)
+- (2) The University shall have perpetual succession and may sue and be sued in that name and shall have and may use a common seal and may take by gift or otherwise purchase and hold, grant, demise or otherwise dispose of real or personal estate.
+- (3) No dividend or bonus shall be paid and no gift or division of money shall be made by or on behalf of the University to any of its members except by way of prize, reward or special grant.
+
+## 5. Officers
+
+Remarks: For the transitional  provision  relating  to  the  amendments  made  by  the  Statute  Law (Miscellaneous Provisions) Ordinance 2002 (23 of 2002), see section 65 of that Ordinance.
+
+- (1) The officers of the University shall be the Chancellor, the Pro-Chancellor, the Vice-Chancellor, the Pro-Vice-Chancellors, the Treasurer, the Heads of the original Colleges and of Shaw College, the Masters of the additional Colleges, the Dean of each Faculty and of the Graduate School, the Secretary, the Registrar, the Librarian, the Bursar and such other persons as may by special resolution be designated as officers. (Amended 59 of 1986 s. 4; 18 of 2007 s. 5; 28 of 2023 s. 4)
+- (2) The Chancellor shall be the head of the University and may confer degrees in the name of the University.
+- (3) The Chief Executive shall be the Chancellor. (Amended 53 of 2000 s. 3)
+- (4) The Chancellor may appoint a person to be the Pro-Chancellor of the University; and the Pro-Chancellor shall exercise such powers and perform such duties as may be prescribed in the Statutes and may confer degrees in the name of the University. (Amended 23 of 2002 s. 56)
+- (5) The Vice-Chancellor shall be the chief academic and administrative officer of the University and shall be a member of the Council and the Chairman of the Senate, and may confer degrees in the name of the University.
+- (6) The Council shall appoint, after consultation with the Vice-Chancellor, one or more Pro-Vice-Chancellors from among the regular staff of the University to exercise such powers and perform such duties as the Council may direct.
+- (7) A Pro-Vice-Chancellor shall carry out all the functions and duties of the Vice-Chancellor in the absence of the Vice-Chancellor. (Amended 23 of 2002 s. 56)
+- (8) The manner and period of appointment of the Treasurer shall be prescribed by the Statutes, and his duties shall be such as the Council may determine.
+
+## 6. Provision for Council, Senate and Convocation
+
+There shall be a Council, a Senate and a Convocation whose respective constitutions, powers and duties shall be as prescribed by this Ordinance and the Statutes.
+
+## 7. Powers and duties of the Council
+
+Subject to this Ordinance and the Statutes, the Council shall-
+
+- (a) be the governing and executive body of the University;
+- (b) have the management and control of the affairs, purposes and functions of the University;
+- (c) have the control and management of the property and financial affairs of the University including the property of the constituent Colleges, but in the exercise of such power of control and management in respect of any immovable property of any original College or Shaw College, the Council shall not alter the use of any such property without the prior consent of the Board of Trustees of the College concerned; (Amended 59 of 1986 s. 4; 18 of 2007 s. 5)
+
+- (d) make such University appointments as it thinks proper;
+- (e) have power to approve the fees charged by the University in respect of approved courses of study;
+- (f) provide for the custody and use of the University's seal.
+
+## 8. Powers and duties of Senate
+
+Subject to this Ordinance and the Statutes and subject also to review by the Council, the Senate shall have the control and regulation of-
+
+- (a) instruction, education and research;
+- (b) the conducting of examinations for students;
+- (c) the award of degrees other than degrees honoris causa ;
+- (d) the award of diplomas, certificates and other academic distinctions of the University.
+
+## 9. Composition and function of the Convocation
+
+Subject to this Ordinance and the Statutes, the Convocation shall consist of the graduates and such other persons as may be prescribed by the Statutes and may make representations to the Council and the Senate upon any matters affecting or concerning the interests of the University.
+
+## 10. Committees
+
+- (1) The Council and the Senate may establish such committees as they think fit.
+- (2) Unless otherwise provided, any committee may consist partly of persons who are not members of the Council or the Senate, as the case may be.
+- (3) Subject to this Ordinance and the Statutes, the Council and the Senate may, subject to such conditions as they may impose, delegate any of their powers and duties to any Board or committee or to any officer.
+- (4) Any committee established under this section may make such Standing Orders, including provision allowing a casting vote to the chairman thereof, for the conduct of meetings as it thinks fit.
+
+## 11. Appointment of staff
+
+Subject to this Ordinance and the Statutes, the Council shall appoint, on such terms and conditions as it thinks fit, the staff of the University.
+
+## 12. Faculties, etc.
+
+- (1) The Council may establish such Faculties, Schools of Studies and other institutions as it thinks fit.
+- (2) The Council, on the recommendation of the Senate, may form such institutions for the promotion of study and learning as the Council may from time to time determine.
+- (3) The Senate may establish such Boards of Studies as it may from time to time determine.
+
+## 13. Statutes
+
+- (1) The Council may by special resolution make Statutes, subject to the approval thereof by the Chancellor, prescribing or providing for-
+- (a) the administration of the University;
+- (b) the membership of the University;
+- (c) appointments, elections, resignation and retirement and removal of officers and teachers of the University;
+- (d) examinations;
+- (e) the conferring of degrees and the award of other academic distinctions;
+- (f) the composition, powers and duties of the Council and the Senate;
+- (g) the Faculties and Schools of Studies, their membership and functions;
+- (h) the Boards of Studies, their membership and functions;
+- (i) the Convocation;
+- (j) the  exercise  of  any  function  by  the  University,  the  Council,  the Senate, the Chancellor, the Pro-Chancellor, the Vice-Chancellor, the Pro-Vice-Chancellors, other officers, teachers and other members;
+- (k) financial procedure;
+- (l) fees payable to the University as a condition of admission to any examinations held by the University or for the conferring of any of the degrees of the University or for the award of any diploma or certificate or other academic distinction or for attendance at a University Extension Course or any similar purpose;
+- (m) the admission, welfare and discipline of students; and
+- (n) generally, the carrying into effect of this Ordinance.
+- (2) The Statutes contained in Schedule 1 shall have effect as if made and approved under subsection (1).
+
+## 14. Decrees and regulations
+
+Subject to this Ordinance and the Statutes, the Council and the Senate may from time to time make decrees and regulations respectively to direct and regulate the affairs of the University.
+
+## 15. Degrees and other awards
+
+The University may-
+
+- (a) confer such degrees as may be specified in the Statutes;
+- (b) award diplomas and certificates and such other academic distinctions as may be specified in the Statutes;
+- (c) provide such lectures and instruction for persons not being members of the University as the University may determine;
+- (d) confer degrees honoris causa of Master or Doctor in accordance with the Statutes; and
+- (e) subject to the Statutes, deprive any person of any degree conferred or diploma, certificate or other academic distinction awarded by the University.
+
+## 16. Honorary Degrees Committee
+
+There shall be an Honorary Degrees Committee which shall be constituted as provided by the Statutes for the purpose of advising the Council with regard to the award of degrees honoris causa .
+
+## 17. Execution and authentication of documents
+
+Any instrument purporting to be executed under the seal of the University and signed by the Chancellor, Pro-Chancellor, Vice-Chancellor, a Pro-Vice-Chancellor or Treasurer and countersigned by the Secretary shall be received in evidence upon its production without further proof and shall, unless the contrary is proved, be deemed to be an instrument so executed.
+
+## 18. Government rent
+
+Rent payable to the Government in respect of all land granted to the University by the Government shall be limited in total to $10 a year. (Amended 53 of 2000 s. 3)
+
+## 19. (Omitted as spent-E.R. 3 of 2021)
+
+## 20.  Miscellaneous provisions (Amended 18 of 2007 s. 5)
+
+- (1) The Chung Chi College Incorporation Ordinance (Cap. 1081  1964 Ed.), , the Board of Trustees of The United College of Hong Kong Incorporation Ordinance (Cap. 1092, 1964 Ed.) and the New Asia College Incorporation Ordinance (Cap. 1118, 1967 Ed.) are repealed.
+- (2) The constitution and powers of the Boards of Trustees of the original Colleges are set out in Schedule 3. (Replaced 18 of 2007 s. 5)
+- (3) The constitution and powers of the Board of Trustees of Shaw College are set out in Schedule 4. (Replaced 18 of 2007 s. 5)
+
+## 21. Repeal of The Chinese University of Hong Kong Ordinance and the Statutes
+
+The Chinese University of Hong Kong Ordinance (Cap. 1109, 1965 Ed.) and the Statutes of The Chinese University of Hong Kong (Cap. 1109, sub. leg. 1968 Ed.) are repealed.
+
+## 22.  Savings and transitional
+
+- (1) The Council and Senate appointed under the repealed Ordinance shall continue to be the Council and the Senate of the University until a new Council and Senate are constituted under the Statutes.
+- (2) No other appointment made under the repealed Ordinance shall be affected by the repeal but shall, unless otherwise varied, continue on the same terms and conditions as if this Ordinance had not been enacted.
+- (3) All property, whether movable or immovable, rights and privileges vested in the University immediately prior to the commencement* of this Ordinance shall continue to be vested in the University on the terms and conditions, if any, on which the same were then vested at that date, and the University shall continue to be subject to the obligations and liabilities to which it was subject immediately prior to the commencement of this Ordinance.
+
+* Commencement: 24 December 1976
+
+- (4) Nothing in this Ordinance shall affect or be deemed to affect the rights of the Central Authorities or the Government of the Hong Kong Special Administrative Region under the Basic Law and other laws or the rights of any body politic or corporate or of any other persons except such as are mentioned in this Ordinance and those claiming by, from or under them. (Added 59 of 1986 s. 4.; Amended 53 of 2000 s. 3)
+
+## Schedule 1
+
+[ss. 2 &amp; 13(2)]
+
+## STATUTES OF THE CHINESE UNIVERSITY OF HONG KONG
+
+Remarks: For the transitional  provision  relating  to  the  amendments  made  by  the  Statute  Law (Miscellaneous Provisions) Ordinance 2002 (23 of 2002), see section 65 of that Ordinance.
+
+## STATUTE 1 Interpretation
+
+- 1. In these Statutes, unless the context otherwise requires- (Amended 28 of 2023 s. 5) 'Committee of Overseers' ( 院監會 ) means the Committee of Overseers of an additional College; (Added 28 of 2023 s. 5)
+- 'College' ( 書院 ) means a constituent College of the University as provided by section 3; (Added 59 of 1986 s. 4. Amended 18 of 2007 s. 5)
+- 'Dean' ( 院長 ) means the Dean of a Faculty or of the Graduate School, as the case may be; (Added L.N. 101 of 1995)
+- 'Department' ( 學系 ) means a Department of a Faculty established by the Council on the recommendation of the Senate and 'Departments' ( 各學系 ) shall be construed accordingly and, where the context permits, a Department also refers to a School of Studies and Chairman in relation to a Department also refers to Director of a School; (Added L.N. 452 of 1994. Amended L.N. 53 of 2012)
+- 'Director of a School' ( 專業學院院長 )  means the Director of a School of Studies; (Added L.N. 174 of 2010)
+- 'Graduate School' ( 研究院 )  means the Graduate School of the University; (Added L.N. 101 of 1995)
+- 'Ordinance' ( 條例 )  means The Chinese University of Hong Kong Ordinance (Cap. 1109); (Amended L.N. 38 of 2007)
+- 'Professor' ( 教授 )  means Professors carrying the Chinese title of ' 教授 ' and those appointed before 1 January 2010 carrying the Chinese title of ' 講座教授 '; (Added L.N. 174 of 2010)
+- 'Provost' ( 常務副校長 ) means the Provost of the University appointed under paragraph 1 of Statute 7; (Added L.N. 53 of 2012 . Amended 28 of 2023 s. 5)
+- 'unit' ( 單位 ) means an institution established or formed by the Council under section 12 of the Ordinance. (L.N. 25 of 2002)
+- (Amended 28 of 2023 s. 5)
+- 2. The Provost is at all times one of the Pro-Vice-Chancellors. (Added 28 of 2023 s. 5)
+
+## STATUTE 2
+
+## Congregations
+
+- 1. The time, place and procedure of the Congregations of the whole University shall be determined by the Chancellor.
+- 2. The Chancellor, or in his absence, one of the following persons, shall preside at Congregations-
+- (a) the Pro-Chancellor;
+- (b) the Chairman of the Council;
+- (c) the Vice-Chancellor;
+- (d) the Pro-Vice-Chancellor who is carrying out the functions and duties of the Vice-Chancellor in the absence of the Vice-Chancellor. (Replaced 23 of 2002 s. 57)
+- 3. At least one Congregation shall be held in each academic year.
+
+## STATUTE 3
+
+## Members of the University
+
+The members of the University shall be-
+
+- (a) the Chancellor;
+- (b) the Pro-Chancellor;
+- (c) the Vice-Chancellor;
+- (d) the Pro-Vice-Chancellors;
+- (e) the Treasurer;
+- (f) the members of the Council;
+- (g) the Heads of the original Colleges and of Shaw College; (Amended 18 of 2007 s. 5)
+- (ga)  the Masters of the additional Colleges; (Added 28 of 2023 s. 6)
+- (h) the members of the Senate;
+- (i) Emeriti, Honorary and Research Professors;
+- (j) the teachers;
+- (k) the Secretary, Registrar, Librarian and Bursar;
+- (ka) the University Dean of Students; (Added L.N. 251 of 1988; Amended L.N. 114 of 1991)
+- (l) such other persons holding such other offices or appointments at or made by the University as the Council may from time to time determine;
+- (m) the graduates and such other persons as are entitled in accordance with Statute 18 to have their names placed upon the Convocation roll;
+- (n) the students.
+
+## STATUTE 4
+
+## The Chancellor
+
+- 1. The Chancellor, when present, shall preside at Congregations of the University.
+- 2. The Chancellor shall be entitled-
+
+- (a) to call for information in regard to any matter relating to the welfare of the University from the Vice-Chancellor and the Chairman of the Council, whose duty it shall be to provide such information; and
+- (b) on the receipt of such information to recommend to the Council such action as he deems proper.
+
+## STATUTE 5
+
+## The Pro-Chancellor
+
+- 1. The Pro-Chancellor may, on the authorization of the Chancellor and on his behalf, exercise any of the powers or perform any of the duties conferred or imposed on the Chancellor by the Statutes.
+- 2. The Pro-Chancellor may resign by written notice addressed to the Chancellor.
+
+## STATUTE 6
+
+## The Vice-Chancellor
+
+(Amended 28 of 2023 s. 7)
+
+- 1. The Vice-Chancellor is to be appointed by resolution of the Council passed by the votes of not less than three-fourths of the whole membership of the Council for the time being after receiving the advice of a committee established by the Council and composed of the Chairman of the Council, 3 members nominated by the Council from among its number and 3 members nominated by the Senate from among its number.
+- 2. The Vice-Chancellor is to hold office for such period and on such terms as may be determined by resolution of the Council passed by the votes of not less than three-fourths of the whole membership of the Council for the time being.
+- 3. The Vice-Chancellor is to- (Amended 28 of 2023 s. 7)
+- (a) have the right and duty to advise the Council on any matter affecting the policy, finance and administration of the University;
+- (b) be generally responsible to the Council for the maintenance of the efficiency and good order of the University and for ensuring the proper enforcement of the Statutes, decrees and regulations;
+- (c) eport to the Senate at its next meeting if he has suspended or expelled r any student;
+- (d) have power to appoint a person to discharge the functions and duties of the Pro-Vice-Chancellors, a Dean of a Faculty, the Chairman of a Department, the Director of a School, the Secretary, Registrar, the Librarian or the Bursar during a temporary vacancy in any such appointment or during the temporary absence or inability of the holder of any such appointment; (Amended L.N. 452 of 1994; L.N. 174 of 2010)
+- (e) have power in case of emergency to appoint external examiners.
+
+## STATUTE 7
+
+## The Provost and the Pro-Vice-Chancellors
+
+(Replaced 28 of 2023 s. 8)
+
+- 1. The Provost is to be appointed by resolution of the Council passed by the votes of not less than three-fourths of the whole membership of the Council for the time
+
+being, for such period and on such terms as may be determined by resolution of the Council passed by the votes of not less than three-fourths of the whole membership of the Council for the time being.
+
+- 2. The Pro-Vice-Chancellors are to be appointed by the Council for such period and on such terms as may be determined by the Council.
+
+## STATUTE 8 The Treasurer
+
+(Replaced 28 of 2023 s. 9)
+
+The Treasurer is to be appointed by the Chancellor and is to hold office for a period of 3 years and may be re-appointed for further periods of 3 years.
+
+## STATUTE 9 The Heads of Original Colleges and of
+
+## Shaw College
+
+(Amended 18 of 2007 s. 5)
+
+- 1A. This Statute only applies to and in relation to the original Colleges and Shaw College. (Added 18 of 2007 s. 5)
+- 1. The Head of each College, other than the first Head, shall be appointed or re-appointed by the Council on the recommendation of a committee consisting of-
+- (a) the Vice-Chancellor, who shall be Chairman;
+- (b) one member of the Board of Trustees of the College for which the Head is to be appointed or re-appointed, elected by the Board; and
+- (c) 6 Fellows of that College elected under paragraph 6(b) of Statute 16 for the purpose by the Assembly of Fellows of that College.
+- 2. The first  Head of  each College shall be appointed by the Council on the recommendation of the Vice-Chancellor in consultation with the Chairman of the Board of Trustees of the College concerned for such term as the Council shall determine.
+- 3. The Head of a College, other than the first Head, shall be appointed for a period of 4 years and shall be eligible for re-appointment for a maximum of 2 further periods, each of 3 years.
+- 4. The Head of a College shall be responsible for the welfare of the College and the students assigned to it and shall collaborate closely with the Vice-Chancellor in the conduct of the College and its work.
+- 5. The Head of a College shall be the Chairman of the Assembly of Fellows of that College.
+- 6. A Head of a College shall be an academic, but need not be on the academic staff of the University at the time of his appointment.
+
+## STATUTE 10
+
+The Secretary and Other Officers
+
+- 1. The Secretary-
+- (a) shall be appointed by the Council on the recommendation of a Board of Advisers;
+
+- (b) shall be the custodian of the common seal of the University;
+- (c) shall be with the Registrar, the joint custodian of the records of the University;
+- (d) shall be the Secretary of the Council;
+- (e) shall discharge such duties as are specified in the Ordinance and Statutes and such other duties as may be determined by the Council.
+
+## 2. The Registrar-
+
+- (a) shall be appointed by the Council on the recommendation of a Board of Advisers;
+- (b) shall keep a register of all members of the University under their respective qualifications as specified in Statute 3;
+- (c) shall be, with the Secretary of the Council, the joint custodian of the records of the University;
+- (d) shall be the Secretary of the Senate;
+- (e) shall discharge such duties as are specified in the Ordinance and Statutes and such other duties as may be determined by the Council and Senate;
+- (f) may exercise his functions as Secretary of the Boards of the Faculties by deputy.
+
+## 3. The Librarian-
+
+- (a) shall be appointed by the Council on the recommendation of a Board of Advisers;
+- (b) shall be responsible for administering the library services of the University;
+- (c) shall discharge such duties as may be determined by the Council after consultation with the Senate.
+
+## 4. The Bursar-
+
+- (a) shall be appointed by the Council on the recommendation of a Board of Advisers;
+- (b) shall be responsible for the keeping of all University accounts and such inventories as the Council may determine;
+- (c) shall discharge such other duties in connection with University finance and otherwise as may be determined by the Council;
+- (d) shall be Secretary of the Finance Committee.
+- 5. The University Dean of Students- (Amended L.N. 114 of 1991)
+- (a) shall be appointed by the Council on the recommendation of the ViceChancellor;
+- (b) shall hold office for such period as may be determined by the Council;
+- (c) shall be responsible to the Vice-Chancellor for such duties in connection with student affairs as may be determined by the Council;
+- (d) may be designated as an officer. (Added L.N. 251 of 1988)
+
+## STATUTE 11
+
+## The Council
+
+(Amended 28 of 2023 s. 10)
+
+- 1. The Council is to consist of-
+- (a) he Chairman, who is to be appointed by the Chancellor; (Amended 28 of t 2023 s. 10)
+
+- (ab)    the Vice-Chairman, who is to be appointed by the Chancellor; (Added 28 of 2023 s. 10)
+- (b) the Vice-Chancellor;
+- (c) the Provost; (Replaced 28 of 2023 s. 10)
+- (ca) one Pro-Vice-Chancellor (other than the Provost) as determined by the Council; (Added 28 of 2023 s. 10)
+- (d) the Treasurer;
+- (da)  (Repealed 28 of 2023 s. 10)
+
+(e)
+
+- 6 persons appointed by the Council on the nomination of the Boards of Trustees of the original Colleges and of Shaw College and the Committees of Overseers of the additional Colleges, subject to the following-
+- (i) he Boards of Trustees of the original Colleges and of Shaw College t are to each nominate 1 person from among their own members; and
+- (ii) he Committees of Overseers of the additional Colleges are to jointly t nominate 2 persons from among their own members; (Replaced 28 of 2023 s. 10)
+- (f) 2 persons elected by, and from among, the Heads of the original Colleges and of Shaw College and the Masters of the additional Colleges, in a manner to be determined by the Council; (Replaced 28 of 2023 s. 10)
+- (g) 2 persons elected by, and from among, the Deans of the Faculties and the Dean of the Graduate School, in a manner to be determined by the Council; (Replaced 28 of 2023 s. 10)
+
+(h)-(i)(Repealed 28 of 2023 s. 10)
+
+- (j) (Repealed L.N. 481 of 1997)
+- (k) 6 persons appointed by the Chancellor; (Amended L.N. 481 of 1997; 28 of 2023 s. 10)
+- (l) 3 persons elected by, and from among, the Members of the Legislative Council; (Replaced 28 of 2023 s. 10)
+- (m) not more than 4 persons (other than the persons referred to in subparagraph (a), (ab), (b), (c), (ca), (d), (e), (f), (g), (k) or (l)), ordinarily resident in Hong Kong, appointed by the Council, and at least one of those persons is a graduate of the University; (Replaced 28 of 2023 s. 10)
+- (n) member of the Convocation elected by the Convocation, in a manner to 1 be determined by the Council; (Replaced 28 of 2023 s. 10)
+- (o) person elected by, and from among, full-time employees of the University 1 who are members of the academic staff of the University, in a manner to be determined by the Council, and appointed by the Council; (Added 28 of 2023 s. 10)
+- (p) person elected by, and from among, full-time employees of the University 1 who are not members of the academic staff of the University, in a manner to be determined by the Council, and appointed by the Council; (Added 28 of 2023 s. 10)
+- (q) student elected by, and from among, full-time undergraduate students 1 pursuing approved courses of study for a degree of Bachelor of the University, in a manner to be determined by the Council, and appointed by
+
+- the Council; and (Added 28 of 2023 s. 10)
+- (r) student  elected  by,  and  from  among, full-time postgraduate students 1 pursuing approved courses of study for a degree of Master or Doctor of the University, or for any other academic award higher than a degree of Bachelor of the University, in a manner to be determined by the Council, and appointed by the Council. (Added 28 of 2023 s. 10)
+- 2. (1) Persons who hold salaried appointments in the University or who are students of the University are not eligible for appointment or election under paragraph 1(a), (ab), (e), (k), (l), (m) or (n). (Replaced 28 of 2023 s. 10)
+- (2) (Repealed L.N. 481 of 1997)
+- (3) o  be eligible for election and appointment under paragraph 1(q) or (r), the T student must be a full-time student pursuing an approved course of study of the University for a period of not less than 12 months. (Added 28 of 2023 s. 10)
+- 3. The Chairman of the Council is to hold office for 3 years and may be re-appointed for further periods of 3 years. (Amended 28 of 2023 s. 10)
+- 3A. The Chairman of the Council may confer degrees in the name of the University. (Added 23 of 2002 s. 61)
+- 4. (1) Subject to subparagraph (4), members of the Council appointed or elected under paragraph 1(k), (l), (m) or (n)-
+- (a) hold office for a period of 3 years from the date of their appointment or election, as the case may be; and
+- (b) are eligible for re-appointment or re-election, as the case may be, for further periods of 3 years.
+- (2) Subject to subparagraph (5), a member of the Council elected and appointed under paragraph 1(o) or (p)-
+- (a) holds  office  for  a  period  of  3  years  from  the  date  of  his  or  her appointment; and
+- (b) s eligible for re-election and re-appointment for further periods of 3 i years.
+- (3) Subject to subparagraphs (4) and (5), members of the Council appointed or elected under paragraph 1(e), (f) or (g)-
+- (a) hold office for a period of 1 year from the date of their appointment or election, as the case may be; and
+- (b) are eligible for re-appointment or re-election, as the case may be, for further periods of 1 year.
+- (4) A member of the Council appointed or elected under paragraph 1(e), (l) or (n) ceases to be a member of the Council if the member ceases to be a member of the body from among whose members the member was appointed or elected, as the case may be.
+- (5) A member of the Council elected under paragraph 1(f) or (g), or elected and appointed under paragraph 1(o) or (p), ceases to be a member of the Council if the member ceases to meet the criteria of eligibility for election.
+- (6) f a member of the Council elected under paragraph 1(l) or (n) dies or resigns I during the member's period of membership, or ceases to be a member of the Council under subparagraph (4), the body that elected the member, or from among whose members the member was elected, as the case may
+
+be, must duly elect a successor under the same paragraph-
+
+- (a) whose membership of the Council must be for a period not exceeding 3 years; and
+- (b) who is eligible for re-election under subparagraph (1)(b).
+- (7) f a member of the Council elected and appointed under paragraph 1(o) or (p) I dies or resigns during the member's period of membership, or ceases to be a member of the Council under subparagraph (5), the full-time employees of the University from among whom the member was elected must duly elect a successor under the same paragraph-
+- (a) whose membership of the Council must be for a period not exceeding 3 years; and
+- (b) who is eligible for re-election and re-appointment under subparagraph (2)(b).
+- (8) f a member of the Council appointed under paragraph 1(e) dies or resigns I during the member's period of membership, or ceases to be a member of the Council under subparagraph (4), the Council must duly appoint a successor under paragraph 1(e)-
+- (a) whose membership of the Council must be for a period not exceeding 1 year; and
+- (b) who is eligible for re-appointment under subparagraph (3)(b).
+- (9) f a member of the Council elected under paragraph 1(f) or (g) dies or resigns I during the member's period of membership, or ceases to be a member of the Council under subparagraph (5), the Heads and the Masters, or the Deans, as the case may be, from among whom the member was elected must duly elect a successor under the same paragraph-
+- (a) whose membership of the Council must be for a period not exceeding 1 year; and
+- (b) who is eligible for re-election under subparagraph (3)(b). (Replaced 28 of 2023 s. 10)
+- 5. f a member of the Council appointed under paragraph 1(k) or (m) dies or resigns I during the member's period of membership, the Chancellor or the Council, as the case may be, must duly appoint a successor under the same paragraph-
+- (a) whose membership of the Council must be for a period not exceeding 3 years; and
+- (b) who is eligible for re-appointment under paragraph 4(1)(b). (Replaced 28 of 2023 s. 10)
+- 6. Members of the Council whose membership derives from paragraph 1(b), (c), (ca) and (d) are to remain members of the Council for so long as they hold the office by reason of which they became members of the Council. (Amended 28 of 2023 s. 10)
+- 6A. (1) Subject to subparagraph (3), a student member of the Council elected and appointed under paragraph 1(q) or (r)-
+- (a) holds office for a period of 1 year from the date of his or her appointment; and
+- (b) s eligible for re-election and re-appointment, but no student may be i a member of the Council for more than 2 consecutive terms of office.
+
+- (2) If  a  student member of the Council elected and appointed under paragraph 1(q) or (r) dies or resigns during the student member's period of membership, or ceases to be a member of the Council under subparagraph (3)-
+- (a) if the student member's unexpired period of membership is 6 months ( or longer) a successor is to be elected in a manner to be determined by the Council and appointed by the Council for that unexpired period of membership; or
+- (b) if the student member's unexpired period of membership is shorter ( than 6 months) no successor is to be elected and appointed for that unexpired period of membership.
+- (3) A student member of the Council elected and appointed under paragraph 1(q) or (r) ceases to be a member of the Council if the student member ceases to meet the criteria of eligibility for election and appointment. (Added 28 of 2023 s. 10)
+- 7. The Vice-Chairman of the Council is to hold office for a period of 3 years and may be re-appointed for further periods of 3 years. (Replaced 28 of 2023 s. 10)
+- 8. Subject to the Ordinance and the Statutes and without derogating from the generality of its power, it is specifically prescribed-
+- (1) that the Council is to have the power- (Amended 28 of 2023 s. 10)
+- (a) o make Statutes, provided that no Statute is to be made until the t Senate is to have had an opportunity of reporting thereon to the Council; (Amended 28 of 2023 s. 10)
+- (b) o make decrees for any purpose for which decrees are or may be t authorized to be made, provided that no decree is to be made until the Senate is to have had an opportunity of reporting thereon to the Council; (Amended 28 of 2023 s. 10)
+- (c) to invest any money belonging to the University;
+- (d) to borrow money on behalf of the University;
+- (e) o sell, buy, exchange, lease or accept leases of any real or personal t property on behalf of the University;
+- (f) o  enter  into, vary,  perform  and  cancel  contracts on behalf of the t University;
+- (g) n relation to the original Colleges and Shaw College, to require the i Board of Trustees of each College annually to produce its audited accounts in such form and at such time as the Council may determine; (Amended 18 of 2007 s. 5)
+- (h) to  receive  from  public  sources  grants  for  capital  and  recurrent expenditure;
+- (i) o receive annually and for such longer periods as the Council may t determine from time to time from the Vice-Chancellor, after he has consulted the Senate, and to approve, estimates of expenditure;
+- (j) o  receive gifts and to approve, subject to such conditions as the t Council thinks fit, the receipt of gifts by the Colleges;
+- (k) o provide for the welfare of persons employed by the University and t the wives, widows and dependants of such persons, including the payment of money, pensions, or other payments and to subscribe to
+
+- benevolent and other funds for the benefit of such persons;
+- (l) to provide for the discipline and welfare of students;
+- (m) to recommend the award of degrees honoris causa ;
+- (n) after  report  from  the  Senate  to  establish  additional  Faculties, Departments or Schools of Studies or to abolish, combine or subdivide any Faculty, Department or School of Studies; (Amended L.N. 452 of 1994; L.N. 174 of 2010)
+- (na)    on the recommendation of the Senate, to determine the organization or structure of each Faculty and its Departments and each School of Studies and to make such alterations to such organization or structure as deemed fit by the Council; (Added L.N. 452 of 1994. Amended L.N. 174 of 2010)
+- (o) to prescribe fees of the University;
+- (2) that it is to be the duty of the Council- (Amended 28 of 2023 s. 10)
+- (a) o appoint bankers, auditors and any other agents whom it deems t expedient to appoint;
+- (b) to appoint an Administrative and Planning Committee;
+- (c) o cause proper books of account to be kept for all sums of money t received and expended by the University and for the assets and liabilities  of  the  University  so  that  such  books  give  a  true  and  fair statement of financial transactions and position of the University;
+- (d) o cause the accounts of the University to be audited within 6 months t after  the  termination  of  each  financial year  as  the  Council  may determine;
+- (e) o  provide the buildings, libraries, laboratories, premises, furniture, t apparatus and other equipment needed for the University;
+- (f) n consultation with the Senate to encourage and provide for research i by members of the University;
+- (g) o review the instruction and teaching in courses of study leading to t degrees, diplomas, certificates and other awards of the University;
+- (h) after consultation with the Senate, to institute all teaching posts;
+- (i) o administer or cause to be administered a Superannuation Fund or t Funds for the benefit of persons employed by the University;
+- (ia) o make, on such terms and conditions and in accordance with such t procedures as the Council may determine from time to time, such University appointments as the Council deems necessary, and for the appointment of teachers, after consulting the Senate or member or members of the Senate designated by the Senate for the purpose of appointment of teachers; (Added L.N. 174 of 2010)
+- (j)-(l) (Repealed L.N. 174 of 2010)
+- (m) on the recommendation of the Senate, to appoint a Chairman for each Department, a Director for each School and a Director of Studies for each academic subject not subsumed under a Department or a School of Studies; (Amended L.N. 452 of 1994; L.N. 174 of 2010)
+- (n) o appoint external examiners on the recommendation of the Senate; t
+
+- (o) o  provide for the printing and publication of works which may be t issued by the University; and
+- (p) o consider reports from the Senate, and if the Council deems it proper t to do so, to take action thereon.
+- 9. The Council must meet at least 3 times in each academic year and additionally on the written request of the Chairman of the Council or the Vice-Chancellor or any 5 members of the Council. (Amended 28 of 2023 s. 10)
+- 9A. The Council may transact any of its business by circulation of papers, and unless the Vice-Chancellor or 5 members of the Council in writing request the Chairman of the Council to refer any particular item of the business being so transacted to the next meeting of the Council, a resolution in writing which is approved in writing by a majority of the members of the Council for the time being is to be as valid and effectual as if it had been passed at a meeting of the Council. (Added L.N. 256 of 1998. Amended 28 of 2023 s. 10)
+- 9B. (1) The Council may determine-
+- (a) whether student members of the Council or of any committees or other bodies as the Council may establish are allowed to participate in that part of meetings considering any reserved areas of business; and
+- (b) (if they are so allowed) the manner of their participation.
+- (2) Those student members who are allowed to participate in that part of meetings considering any reserved areas of business may, subject to any conditions as the Council may determine, access and read the papers relating to those areas.
+- (3) For the purposes of this Statute, the reserved areas of business are the following-
+- (a) matters affecting the appointment, promotion and other affairs relating to teachers and members of the University staff as individuals;
+- (b) matters affecting the admission and academic assessment of students as individuals;
+- (c) expenditure estimates and other matters concerning the finances of the University.
+- (4) The Chairman of the Council, or the Chairman of the committee or other body established by the Council, as the case may be, may decide in any case of doubt whether or not a matter falls within one of the reserved areas of business referred to in subparagraph (3) and the Chairman's decision is final. (Added 28 of 2023 s. 10)
+- 10. 7 days' notice in writing of any meeting of the Council must be sent by the Secretary to each person entitled to receive notice of the meeting with the agenda thereof, and no business not included in the agenda is to be transacted if the Chairman or any 2 members present object. (Amended 28 of 2023 s. 10)
+- 11. The Council may make for the proper conduct of its business Standing Orders which it may amend or rescind by simple majority at any of its meetings provided that not less than 7 days' notice has been given in writing by the Secretary to members of the Council of the proposal so to amend or rescind.
+- 12. The quorum at any meeting of the Council is not less than one-half of the whole membership of the Council for the time being. (Amended 28 of 2023 s. 10)
+
+## STATUTE 11A
+
+## Constitutions of Additional Colleges
+
+- 1. There shall be a constitution for each additional College. The constitution shall be subject to the approval of the Council.
+- 2. The name, structure and organization of each additional College shall be determined by the Council. (Added 18 of 2007 s. 5)
+
+## STATUTE 12 Financial Procedure
+
+- 1. The Council shall fix the financial year.
+- 2. There shall be a Committee of the Council known as the Finance Committee, which shall consist of-
+- (a) the Treasurer, who shall be Chairman;
+- (b) the Vice-Chancellor or his representative;
+- (c) the Heads of the original Colleges and of Shaw College; and (Amended 18 of 2007 s. 5)
+- (d) 3 other persons, including persons who are not members of the Council, as the Council shall appoint.
+
+There shall be referred to the Finance Committee all matters within the jurisdiction of the Council which have important financial implications.
+
+- 3. The Finance Committee shall submit to the Council, before the beginning of the financial year, draft estimates of income and expenditure of the University and such estimates, amended as the Council may think fit, shall be approved by the Council before the beginning of the financial year.
+- 4. The estimates shall show the income and expenditure of the University and the estimated surplus or deficit for the year. The estimated expenditure shall be shown under votes, heads and (where applicable) sub-heads. Any transfer between votes or heads shall require the sanction of the Finance Committee. Any transfer between sub-heads shall require the sanction of the Vice-Chancellor and the Treasurer, with the exception of transfers between sub-heads solely concerning an original College or Shaw College, which shall require the sanction of the Head of the College concerned, subject to any rules and directions that the Finance Committee may issue. (Amended 18 of 2007 s. 5)
+- 5. The Finance Committee shall report to the Council, at such times as the Council may determine, any transfer between votes or heads. The Council may revise the estimates during the course of the financial year.
+- 6. As soon as practicable after the end of the financial year, a balance sheet and income and expenditure account with supporting schedules shall be submitted to the auditors.
+- 7. The audited accounts, with any comments thereon made by the auditors, shall be submitted to the Council.
+- 8. Nothing in this Statute shall deprive the Council of power to invest surpluses or prospective surpluses at any time.
+
+## STATUTE 13 The Administrative and Planning
+
+## Committee
+
+- 1. There shall be a Committee of the Council known as the Administrative and Planning Committee, which shall consist of-
+- (a) the Vice-Chancellor, who shall be the Chairman;
+- (b) the Pro-Vice-Chancellors;
+- (c) the Heads of the original Colleges and of Shaw College; (Amended 18 of 2007 s. 5)
+- (ca) the Masters of the additional Colleges; (Added 28 of 2023 s. 11)
+- (d) the Dean of each Faculty and of the Graduate School;
+- (e) the Secretary;
+- (f) the Registrar;
+- (g) the Bursar; and
+- (h) the University Dean of Students. (Added L.N. 103 of 1999)
+
+The Secretary or his deputy shall serve as secretary of the Committee. (Amended L.N. 103 of 1999)
+
+- 2. Subject to the Ordinance and the Statutes, it shall be the duty of the Administrative and Planning Committee-
+- (a) to assist the Vice-Chancellor in the performance of his duties;
+- (b) to initiate plans of University development;
+- (c) to assist the Vice-Chancellor in reviewing and co-ordinating the annual and supplementary estimates of recurrent and capital expenditures of the University, before transmitting them to the Finance Committee of the Council;
+- (d) to review or propose academic and administrative appointments that are at and above the level of Tutors and Demonstrators or their equivalent before these appointments are made;
+- (e) to deal with other matters referred to it by the Council.
+- 3. The Administrative and Planning Committee shall report to the Council through the Vice-Chancellor.
+
+## STATUTE 14
+
+## The Senate
+
+- 1. The Senate shall consist of-
+- (a) the Vice-Chancellor who shall be Chairman;
+- (b) the Pro-Vice-Chancellors;
+- (c) the Heads of the original Colleges and of Shaw College; (Amended 18 of 2007 s. 5)
+- (ca) the Masters of the additional Colleges; (Added 28 of 2023 s. 12)
+- (d) the Dean of each Faculty and of the Graduate School;
+- (e) the Professors who carry the Chinese title of ' 講座教授 ', or the Readers and any other professors who are determined by the Council to be of a grade equivalent to or higher than Readers in each Department and each School
+
+- of Studies in which there is no professor who carries the Chinese title of ' 講座教授 '; (Replaced L.N. 174 of 2010; Amended L.N. 53 of 2012)
+- (f) the Chairman of each Department and the Directors of Studies if not a member under subparagraph (e); (Amended L.N. 452 of 1994)
+- (fa) the Director of the School of Continuing and Professional Studies of the University; (Added L.N. 257 of 2000. Amended L.N. 38 of 2007)
+- (g) in relation to the original Colleges and Shaw College, 2 Fellows of each College elected by the College's Assembly of Fellows; (Replaced L.N. 25 of 1987. Amended 18 of 2007 s. 5)
+- (h) the Registrar;
+- (i) the Librarian; (Amended L.N. 452 of 1994)
+- (j) the University Dean of Students; (Added L.N. 251 of 1988. Amended L.N. 114 of 1991)
+- (k) the President of the University Students Union; (Added L.N. 251 of 1988)
+- (l) 1 student of each Faculty of the University elected by, and from among, fulltime students in that Faculty pursuing approved courses of study for a degree of the University; (Replaced L.N. 175 of 1996. Amended L.N. 357 of 2000)
+- (m) in relation to the original Colleges and Shaw College, 1 student representing the Students Union of each College of the University elected by, and from among, full-time students pursuing approved courses of study for a degree of the University who are members of that Students Union. (Added L.N. 357 of 2000. Amended 18 of 2007 s. 5)
+- 2. Members of the Senate (other than Fellows elected under paragraph 1(g) and student members elected under paragraph 1(l) or (m)) shall remain members of the Senate for so long as they hold the office or appointment by reason of which they became members of the Senate. (Amended L.N. 251 of 1988; L.N. 357 of 2000; 18 of 2007 s. 5)
+- 3. (a) Fellows elected under paragraph 1(g) shall hold office for 2 years from the date of their election and shall be eligible for re-election provided that they shall cease to be members of the Senate if they cease to be assigned to the College by whose Assembly of Fellows they were elected. Should an elected member die or resign from the Senate or cease to be a Fellow within the College by whose members he was elected a successor shall be duly elected who shall be a member of the Senate for the unexpired period of membership of his predecessor.
+- (b) Student members under paragraph 1(l) or (m) shall be elected in such manner as may be determined by the Senate. (Added L.N. 251 of 1988; Amended L.N. 357 of 2000)
+- (c) Student members elected under paragraph 1(l) or (m) shall hold office for a period of one year and shall be eligible for re-election provided that no student shall be a member of the Senate for more than 2 consecutive terms of office. If a student member resigns or ceases to be a member of the Senate and his unexpired period of membership is 6 months or longer, then a successor shall be elected in accordance with subparagraph (b) for that unexpired period of membership, but if his unexpired period of membership is shorter than 6 months, then no successor shall be elected
+
+- for that unexpired period of membership. (Added L.N. 251 of 1988; Amended L.N. 357 of 2000)
+- (d) A student member shall cease to be a member of the Senate if he ceases to be a registered student of the University or if he is suspended from pursuing full-time study at the University. (Added L.N. 251 of 1988)
+- 4. Subject to the Ordinance and Statutes, the Senate shall have the following powers and duties-
+- (a) to promote research by members of the University;
+- (b) to regulate the admission of persons to approved courses of study and their attendance at such courses; and to assign students to Colleges with due regard to the preferences of both the students and the Colleges;
+- (c) to direct and regulate the instruction and teaching in approved courses of study and to conduct the examinations leading to degrees, diplomas, certificates and other awards of the University;
+- (d) to consider, upon the advice of the Assembly of Fellows of each College, measures necessary for the conduct of student-orientated teaching, and to consider also measures necessary for the conduct of subject-orientated teaching;
+- (e) to make, after report from the Faculties concerned, all regulations for giving effect to the Statutes and decrees relating to approved courses of study and examinations;
+- (f) to  appoint  internal  examiners  after  report  from  the  Boards  of  the Departments and the Boards of the Schools of Studies concerned; (Amended L.N. 452 of 1994; L.N. 174 of 2010)
+- (g) to  recommend after report from the Boards of the Departments and the Boards of the Schools of Studies concerned external examiners for appointment by the Council; (Amended L.N. 452 of 1994; L.N. 174 of 2010)
+- (h) to  recommend the conferment of degrees (other than degrees honoris causa ) and to award diplomas, certificates and other distinctions;
+- (i) to fix, subject to any conditions made by the donors and accepted by the Council, the times, the mode and the conditions of competition for University scholarships, bursaries and prizes, and to award the same;
+- (j) (Repealed L.N. 53 of 2012)
+- (ja) to assign teachers-
+- (i) to Faculties, Departments and Schools of Studies; and
+- (ii) to units, if the Senate thinks it fit in relation to such units; (Added L.N. 25 of 2002)
+- (k) (Repealed L.N. 174 of 2010)
+- (l) to report to the Council on all Statutes and Decrees and proposed changes thereof;
+- (m) to report to the Council on any academic matter;
+- (n) to discuss any matter relating to the University and to report its views to the Council;
+- (o) to report to the Council on any matters referred to the Senate by the Council;
+
+- (p) to consider estimates of expenditure prepared in respect of the University, and to report thereon to the Council;
+- (q) to formulate, modify or revise schemes for the organization of Faculties and to assign to such Faculties their respective subjects; also to report to the Council on the expediency of establishing at any time other Faculties or as to the expediency of abolishing, combining or sub-dividing any Faculties;
+- (r) (Repealed L.N. 452 of 1994)
+- (s) to supervise the libraries and laboratories;
+- (t) to require any undergraduate or student on academic grounds to terminate his studies at the University;
+- (u) to determine-
+- (i) the  academic year which  shall  be  a  period  not  exceeding  12 consecutive months; and
+- (ii) the academic terms which shall be part of an academic year;
+- (v) to exercise such other powers and perform such other duties as the Council may authorize or require.
+- 5. The Senate shall hold at least 3 meetings in each academic year and additionally at any time at the direction of the Chairman or on the written request of any 10 members of the Senate. (Amended L.N. 251 of 1988)
+- 5A. (a) The Senate may determine-
+- (i) whether student members of the Senate and of such committees and other bodies as the Senate may establish are allowed to participate in that part of meetings considering reserved areas of business; and
+- (ii) (if they are so allowed) the manner of their participation. (Replaced L.N. 5 of 2006)
+- (aa) Those student members who are allowed to participate in that part of meetings considering reserved areas of business may, subject to such conditions as the Senate may determine, access and read the papers relating to those areas. (Added L.N. 5 of 2006)
+- (b) The reserved areas of business are the following-
+- (i) matters affecting the appointment, promotion and other affairs relating to teachers and members of the University staff as individuals;
+- (ii) matters affecting the admission and academic assessment of students as individuals;
+- (iii) expenditure estimates and other matters concerning the finances of the University.
+
+The Chairman of the Senate, or the Chairman of the committee or other body established by the Senate, as the case may be, may decide in any case of doubt whether or not a matter falls within one of the reserved areas of business referred to above and his decision shall be final. (Added L.N. 251 of 1988)
+
+- 6. 7 days' notice in writing of any meeting of the Senate shall be sent by the Registrar to each person entitled to receive notice of the meeting with the agenda therefor and no business not on such agenda shall be transacted if the Chairman or any 4 members present object. (Amended L.N. 251 of 1988)
+
+- 7. The Senate may make for the proper conduct of its business Standing Orders which it may amend or rescind by simple majority at any of its meetings provided that not less than 7 days' notice has been given in writing by the Registrar to members of the Senate of the proposal so to amend or rescind.
+- 8. The quorum at any meeting of the Senate shall be 24. (Amended L.N. 251 of 1988)
+
+## STATUTE 15
+
+## The Faculties and the Graduate School
+
+- 1. The Vice-Chancellor shall be a member of each Faculty. (Amended L.N. 452 of 1994)
+- 2. Each teacher assigned by the Senate to a Faculty or Faculties shall be a member of such Faculty or Faculties during the tenure of his appointment. (Amended L.N. 25 of 2002)
+- 3. (1) Unless otherwise provided in subparagraph (2), the Dean of each Faculty shall be appointed by the Council-
+- (a) on the recommendation of the Vice-Chancellor after he has received the advice of the search committee concerned composed of such members as may be elected or nominated in accordance with regulations approved by the Council from time to time;
+- (b) for a period of 5 years or such shorter period as may be determined by the Council;
+- (c) on such terms and conditions as may be determined by the Council; and
+- (d) subject to sub-subparagraphs (a), (b) and (c), in accordance with regulations approved by the Council from time to time.
+- (2) The first Dean of a newly-established Faculty shall be appointed by the Council on the recommendation of the Vice-Chancellor for a period of 5 years or such shorter period and on such terms and conditions as may be determined by the Council.
+- (3) On the recommendation of the Vice-Chancellor, the Dean of each Faculty shall  be eligible for re-appointment by the Council, and each period of re-appointment shall be for a period of 5 years or such shorter period as may be determined by the Council, provided that a Dean's total period of appointment (not including any period he has previously served as a Dean elected under paragraphs 3 and 4 as repealed by the Statutes of The Chinese University of Hong Kong (Amendment) (No. 2) Statute 2007 (L.N. 109 of 2007) ('the Amendment Statute')) shall not exceed 10 years. (Replaced L.N. 109 of 2007)
+- 4. The Dean of any Faculty elected under paragraph 3 or 4 as repealed by the Amendment Statute and holding office as such Dean immediately before the commencement* of the Amendment Statute shall continue to hold that office until the expiry of his current term of office or until such time when he vacates the office before such expiry. (Replaced L.N. 109 of 2007)
+- 5. Each Faculty shall meet at least once a year, and shall have the power to discuss any matters relating to the Faculty and to express its opinion thereon to the Senate.
+
+* Commencement: 8 June 2007
+
+- 6. A Board of Faculty shall be established for each Faculty and shall consist of-
+- (a) the Vice-Chancellor;
+- (b)-(c) (Repealed L.N. 452 of 1994)
+- (d) the Dean of the Faculty, who shall be Chairman; (Amended 28 of 2023 s. 13)
+- (da)  the Associate Deans and Assistant Deans of the Faculty; (Added L.N. 174 of 2010)
+- (e) the Chairman of each Department, the Director of each School and the Directors of Studies within the Faculty; (Amended L.N. 452 of 1994; L.N. 174 of 2010)
+- (ea)  such  number of teachers as determined by the Senate, representing varying teacher grades within the Faculty nominated in accordance with regulations approved by the Senate from time to time; (Added L.N. 174 of 2010; Amended L.N. 53 of 2012)
+- (f) (Repealed L.N. 174 of 2010)
+- (g) in relation to the original Colleges and Shaw College, one representative of each Assembly of Fellows who shall be a member of the Faculty; (Amended L.N. 452 of 1994; 18 of 2007 s. 5)
+- (h)-(i) (Repealed L.N. 174 of 2010)
+- (j) 1  student elected by, and from among, full-time students of the Faculty pursuing approved courses of study for a degree of the University. (Added L.N. 174 of 2010)
+- 6A. (1) A student member elected under paragraph 6(j) is to be elected in such manner and for such period as the Senate may in its absolute discretion determine. (Replaced L.N. 174 of 2010)
+- (2) The Senate may determine-
+- (a) whether student members of the Boards of Faculties are allowed to participate in that part of meetings considering reserved areas of business; and
+- (b) (if they are so allowed) the manner of their participation.
+- (3) Those student members who are allowed to participate in that part of meetings considering reserved areas of business may, subject to such conditions as the Senate may determine, access and read the papers relating to those areas.
+- (4) For the purposes of this Statute, reserved areas of business are the following-
+- (a) matters affecting the appointment, promotion and other affairs relating to teachers and members of the University staff as individuals;
+- (b) matters affecting the admission and academic assessment of students as individuals;
+- (c) expenditure estimates and other matters concerning the finances of the University.
+
+The Chairman of the Board of the Faculty may decide in any case of doubt whether or not a matter falls within a reserved area of business and his decision shall be final.
+
+- (5) The Senate may-
+- (a) delegate its power under subparagraphs (2) and (3) to the Board of a Faculty; and
+- (b) impose conditions subject to which the delegated power may be exercised.
+- (6) The Board of a Faculty may make Standing Orders for the proper conduct of its business. (Added L.N. 38 of 2007)
+- 7. The Board of Faculty shall co-ordinate the activities of the Departments and Schools of Studies within the Faculty and it shall be its function to consider and deal with the recommendations of the Departments and Schools of Studies(Amended L.N. 452 of 1994; L.N. 174 of 2010)
+- (a) on the content of courses for the degree or degrees; and
+- (b) on the details of syllabuses.
+- 8. The Dean of the Graduate School shall be appointed by the Council on the recommendation of the Vice-Chancellor for a period to be determined by the Council.
+- 9. The Council of the Graduate School shall consist of-
+- (a) the Dean of the Graduate School, who shall be Chairman;
+- (b) the Deans of the Faculties;
+- (c) the Heads of the Divisions in the Graduate School;
+- (d) the Librarian;
+- (e) the Master of the Postgraduate Hall Complex.
+- 10. Subject to the Ordinance and the Statutes, the Council of the Graduate School shall have the following powers and duties-
+- (a) to advise the Senate on all graduate programmes of studies;
+- (b) to co-ordinate the activities of the Divisions within the Graduate School;
+- (c) to consider and deal with the recommendations of the various Divisions on the content of courses and on the details of syllabuses.
+
+## STATUTE 16
+
+## Fellows
+
+- 1. The  Council  shall  initially  appoint  6  Fellows  for  each  College  on  the recommendation of a Committee consisting of-
+- (a) the Vice-Chancellor, who shall be Chairman;
+- (b) 3 Professors nominated by Professors who are on the existing staff of that College; and
+- (c) 3 Associate Professors or Assistant Professors nominated by staff in those grades, who are on the existing staff of that College. (Amended L.N. 174 of 2010)
+- At least 3 of the 6 Fellows so appointed shall be drawn from the existing staff of that College.
+- 2. (Repealed 18 of 2007 s. 5)
+- 2A. In relation to the original Colleges and Shaw College, the Fellows of each College appointed under paragraph 1 shall, together with the Head of that College, form an Assembly of Fellows of that College. (Added 18 of 2007 s. 5)
+
+- 2B. In relation to the additional Colleges, the Fellows of each College appointed under paragraph 1 shall form an Assembly of Fellows of that College. (Added 18 of 2007 s. 5)
+- 3. In relation to the original Colleges and Shaw College, the Head of a College shall be the Chairman of the Assembly of Fellows of that College. (Replaced 18 of 2007 s. 5)
+- 4. Subject to paragraph 6, the Assembly of Fellows of each College may elect additional Fellows to that Assembly from the academic staff of the University who have been assigned to the College concerned.
+- 5. A Fellow shall hold office for 5 years and shall be eligible to hold office again as a Fellow.
+- 6. In relation to the original Colleges and Shaw College, the Assembly of Fellows of each College shall-
+- (a) (Repealed 28 of 2023 s. 14)
+- (b) when necessary, elect 6 Fellows of varying academic seniority for the purposes of serving on the Committee constituted under paragraph 1 of Statute 9. (Replaced 18 of 2007 s. 5)
+- 6A. The Assembly of Fellows of each College shall be responsible for-
+- (a) arranging the tutorial  instruction,  pastoral  counselling  and  studentorientated teaching of the students assigned to the College;
+- (b) the supervision of residential accommodation for certain students at the College; and
+- (c) the maintenance of discipline within the College. (Added 18 of 2007 s. 5)
+- 7. An Assembly of Fellows may make Standing Orders for the proper conduct of its business.
+
+## STATUTE 17
+
+## The Departments
+
+- 1. Each Department shall consist of the Vice-Chancellor and all the teachers assigned to the Department.
+- 2. The Chairman of each Department shall be appointed by the Council on the recommendation of the Senate for such period as may be determined by the Council.
+- 3. (1) A Board shall be established for each Department and shall consist of-
+- (a) the Vice-Chancellor;
+- (aa) the Dean of any Faculty to which the Department is affiliated; (Added L.N. 101 of 1995)
+- (b) the Chairman of the Department, who shall be Chairman of the Board; (Amended L.N. 53 of 2012)
+- (c) all  Professors, Associate Professors and Assistant Professors, and such other teachers who are determined by the Council to be of or equivalent to these grades who are assigned to the Department or School of Studies; and (Replaced L.N. 53 of 2012)
+- (d) such number of teachers as determined by the Senate, representing such teacher grades other than those specified in sub-subparagraph
+
+- (c) who are assigned to the Department or School of Studies nominated in accordance with regulations approved by the Senate from time to time. (Added L.N. 53 of 2012)
+- (2) A teacher, who contributes substantially to the teaching of students pursuing courses of study within the purview of a Department but who is not assigned to that Department, becomes a member of the Board of that Department on being nominated by that Board and approved by the Senate. (Replaced L.N. 25 of 2002)
+- (3) At the discretion of the Board of the Department, the Board may nominate such students as the Board deems fit as student members for such period as the Board may in its absolute discretion determine. (Amended L.N. 478 of 1996; L.N. 5 of 2006)
+- (4) The Senate may determine-
+- (a) whether student members of the Board are allowed to participate in that part of meetings considering reserved areas of business; and
+- (b) (if they are so allowed) the manner of their participation. (Added L.N. 5 of 2006)
+- (5) Those student members who are allowed to participate in that part of meetings considering reserved areas of business may, subject to such conditions as the Senate may determine, access and read the papers relating to those areas. (Added L.N. 5 of 2006)
+- (6) For the purposes of this Statute, reserved areas of business are the following-
+- (a) matters affecting the appointment, promotion and other affairs relating to teachers and members of the University staff as individuals;
+- (b) matters affecting the admission and academic assessment of students as individuals;
+- (c) expenditure estimates and other matters concerning the finances of the University.
+
+The Chairman of the Board may decide in any case of doubt whether or not a matter falls within a reserved area of business and his decision shall be final. (Added L.N. 5 of 2006)
+
+- (7) The Senate may-
+- (a) delegate its power under subparagraphs (4) and (5) to the Board of a Department; and
+- (b) impose conditions subject to which the delegated power may be exercised. (Added L.N. 5 of 2006)
+- 3A. The Board of a Department may make Standing Orders for the proper conduct of its business. (Added L.N. 5 of 2006)
+- 4. It is the duty of the Board of a Department to advise the Senate on the courses of study within the purview of the Department, on the appointment of internal and external examiners and on other matters that the Senate may request.
+- 5. A Department shall perform such other functions and duties as may be determined from time to time by the Council on the recommendation of the Senate. (Replaced L.N. 452 of 1994)
+
+## STATUTE 18
+
+## The Convocation
+
+- 1. There shall be a Convocation of the University which shall consist of all persons whose names appear on the Convocation roll.
+- 2. All persons who are graduates of the University shall be entitled to have their names entered on the Convocation roll:
+- Provided that persons on whom a degree honoris causa has been conferred shall  not  solely  by  reason thereof be members of Convocation, but may be elected by Convocation to be members thereof.
+- 3. Any person who obtains a diploma issued by the Post-Secondary Colleges Joint Diploma Board in the academic year of establishment of the University shall be entitled to have his name entered on the Convocation roll.
+- 3A. Any person who had been admitted as a registered student of an original College before the date of establishment of the University, pursued a course of study of not less than 4 years' duration in that original College, and obtained a diploma issued by that original College or by the Post-Secondary Colleges Joint Diploma Board on satisfactory fulfilment of all the requirements prescribed therefor may register with the Registrar of the University to have his name entered on the Convocation roll. (Added L.N. 167 of 1993)
+- 3B. Any person who has attended an approved course of study for not less than 1 academic year after admission as a registered postgraduate student to a Faculty or a School of Studies and has been awarded a postgraduate diploma by the Senate on satisfactory fulfilment of all the requirements prescribed therefor may register with the Registrar of the University to have his name entered on the Convocation roll. (Added L.N. 167 of 1993; Amended L.N. 174 of 2010)
+- 4. The Convocation shall from its own members elect a Chairman and may elect a Vice-Chairman who shall respectively hold office for such periods as the Convocation may determine. No member shall be eligible for election as Chairman or Vice-Chairman unless he is ordinarily resident in Hong Kong. Any retiring Chairman or Vice-Chairman shall be eligible for re-election. (Amended 28 of 2023 s. 15)
+- 5. In case of any casual vacancy in the office of Chairman or Vice-Chairman, the Convocation shall elect one of its members to fill the vacancy and the person so elected shall hold office for the remainder of the term for which his predecessor was appointed.
+- 6. (Repealed L.N. 243 of 1994)
+- 7. (1) Subject to subparagraph (2), the Convocation is to elect 1 member of the Convocation, in a manner to be determined by the Council, to be a member of the Council. (Replaced 28 of 2023 s. 15)
+- (2) No member of the Convocation shall be eligible for election under subparagraph (1) to serve, or continue to serve, as a member of the Council if he is or becomes a member of the University by virtue of Statute 3, unless he is such a member by virtue of paragraph (m) only, and not at the same time such a member by virtue of any other paragraph, of that Statute, but, save as aforesaid, a member of the Convocation elected under subparagraph (1) shall continue to be a member of the Council, and shall be eligible for re-
+
+election, notwithstanding his being a member of the University by virtue of paragraphs (f) and (m) of Statute 3 at the same time so long as he is such a member of the Council by virtue of paragraph 1(n) of Statute 11 only, and not at the same time a member of the Council by virtue of any other paragraph of that Statute. (Amended L.N. 327 of 1996; L.N. 481 of 1997)
+
+- 8. The Convocation shall, after a date to be determined by the Council, meet at least once in each calendar year and notice of such meeting shall be given 4 weeks before the date of meeting. Any member desiring to bring forward any business thereat shall forward a statement in writing to reach the Secretary of the Convocation at least 2 weeks before the date of meeting, setting forth in the form of motions the subject or subjects proposed for consideration. (Amended L.N. 548 of 1994)
+- 9. The quorum at any meeting of the Convocation shall be as prescribed by the Council after report from the Convocation.
+- 10. The constitution,  functions,  privileges  and  other  matters  relating  to  the Convocation shall be subject to the approval of the Council.
+
+## STATUTE 19
+
+## Academic Staff
+
+The academic staff of the University shall consist of-
+
+- (a) the Vice-Chancellor;
+- (b) the Pro-Vice-Chancellors;
+- (c) the Heads of the original Colleges and of Shaw College; (Amended 18 of 2007 s. 5)
+- (ca) the Masters of the additional Colleges; (Added 28 of 2023 s. 16)
+- (d) the teachers;
+- (e) the Librarian; and
+- (f) such other persons as the Council on the recommendation of the Senate may prescribe.
+
+## STATUTE 20
+
+(Repealed L.N. 174 of 2010)
+
+## STATUTE 21
+
+## Honorary and Emeritus Professors
+
+- 1. The Council may appoint Honorary Professors and may award the title of Emeritus Professor to any Professor who has retired from office provided that such appointment or award is recommended by the Senate.
+- 2. An Honorary or Emeritus Professor shall not ex officio be a member of the Senate or of any Faculty, Department or School of Studies. (Amended L.N. 452 of 1994; L.N. 174 of 2010)
+
+## STATUTE 22
+
+## Retirement of Certain Officers and Academic Staff
+
+All  salaried  officers  (other  than  the Vice-Chancellor and the Provost) and teachers-(Amended 28 of 2023 s. 17)
+
+- (a) shall vacate their offices or appointments by 31 July following the date on which they attain the age of 60 years unless the Council by a vote of at least two-thirds of the number of members present shall request any such person to continue in his office or appointment for such period thereafter as it shall from time to time determine; or
+- (b) may retire, or upon the direction of the Council shall retire, at any time after attaining the age of 55 and before attaining the age of 60.
+
+## STATUTE 23
+
+Resignations
+
+Any person wishing to resign from any office or membership of any body shall do so by notice in writing.
+
+## STATUTE 24
+
+## Removal from Office, Membership or Appointment
+
+(Amended 28 of 2023 s. 18)
+
+- 1. The Council may for good cause as defined in paragraph 2 remove any member of the Council other than the Chairman, the Vice-Chairman, the Treasurer and any person appointed under paragraph 1(k) and (1) of Statute 11 from his membership of the Council. (Amended 28 of 2023 s. 18)
+- 2. 'Good cause' ( 好的因由 ) in paragraph 1 means-
+- (a) conviction of any crime which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature;
+- (b) actual physical or mental incapacity which shall be judged by the Council to prevent the proper execution of the duties of the officer or membership; or
+- (c) any conduct which shall be judged by the Council to be of an immoral, scandalous or disgraceful nature.
+- 3. The Council may for good cause as defined in paragraph 5 remove from their appointments the Vice-Chancellor, the Pro-Vice-Chancellors, the Heads of the original Colleges and of Shaw College, the Masters of the additional Colleges, any of the Professors, the Secretary, the Registrar, the Librarian, the Bursar and any other person holding an academic or administrative appointment made by the Council. (Amended 18 of 2007 s. 5; L.N. 174 of 2010; 28 of 2023 s. 18)
+- 4. The Council may and shall if requested by the person concerned or by any 3 members of the Council before such removal appoint a committee consisting of the Chairman of the Council, 2 other members of the Council and 3 members of the Senate to examine the complaint and to report to the Council thereof.
+- 5. 'Good cause' ( 好的因由 ) in paragraph 3 means-
+
+- (a) conviction of any crime which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be of an immoral, scandalous or disgraceful nature;
+- (b) actual physical or mental incapacity which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to render the person concerned unfit for the execution of the duties of his office or appointment;
+- (c) conduct of an immoral, scandalous or disgraceful nature which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to render the person concerned unfit to continue to hold his office or appointment;
+- (d) conduct which the Council after consideration if necessary of a report of the committee referred to in paragraph 4 shall consider to be such as to constitute failure or inability to perform the duties of his office or appointment or to comply with the conditions of the tenure of his office or appointment.
+- 6. Subject to the terms of his appointment no person referred to in paragraph 3 shall be removed from his appointment save for good cause as defined in paragraph 5 and in pursuance of the procedure specified in paragraph 4.
+
+## STATUTE 25
+
+## The Students and Associate Students
+
+- 1. No student shall be permitted to pursue an approved course of study for a Bachelor's degree of the University unless he shall have-
+- (a) been admitted by and to the University;
+- (b) been registered as a matriculated student of the University; and
+- (c) satisfied such other requirements for admission to the course as shall have been prescribed by regulation.
+- 2. No student shall be permitted to pursue an approved course of advanced study or research leading to a certificate, diploma or higher degree of the University unless he shall have-
+- (a) been admitted by and to the University;
+- (b) been registered as an advanced student of the University; and
+- (c) satisfied such other requirements for admission to the course as shall have been prescribed by regulation.
+- 3. No student shall be permitted to pursue an approved course of study or research not leading to a degree or diploma of the University unless he shall have-
+- (a) been registered as an associate student of the University; and
+- (b) satisfied such other requirements for admission to the course as shall have been prescribed by regulation.
+- 4. Each student shall be subject to the disciplinary control of the University.
+- 5. The University may demand and receive from any student such fees as the Council may from time to time determine.
+- 6. The Senate shall from time to time determine the requirements which an applicant must fulfil for matriculation as a student of the University.
+- 7. There may be a University Students Union. The constitution shall be subject to the approval of the Council.
+
+- 8. There may be a Students Union for each College. The constitution shall be subject to the approval of the Council, on the recommendation of the Assembly of Fellows of the College concerned.
+
+## STATUTE 26
+
+## Degree and Other Awards
+
+- 1. (1) The University may confer any of the degrees with the designations prescribed in paragraph 2(1) to students who- (Amended L.N. 31 of 1981; L.N. 121 of 1989; L.N. 6 of 2006)
+- (a) have attended an approved course of study;
+- (b) have passed the appropriate examination or examinations; and
+- (c) have complied in all other respects with the requirements prescribed therefor.
+- (2) The University may confer any of the degrees with the designations prescribed in paragraph 2(2) on any person who has rendered distinguished service in the advancement of any branch of learning or who has otherwise rendered himself worthy of such a degree. (Added L.N. 31 of 1981; Amended L.N. 121 of 1989)
+- 2. The degrees which may be conferred by the University shall have the following designations-
+- (1) (a) (Repealed L.N. 6 of 2006)
+
+Bachelor of Architecture (B.Arch.) (Added L.N. 114 of 1991)
+
+Bachelor of Arts (B.A.)
+
+Bachelor of Business Administration (B.B.A.)
+
+Bachelor of Chinese Medicine (B.Chi.Med.) (Added L.N. 2 of 1999)
+
+Bachelor of Education (B.Ed.)
+
+Bachelor of Engineering (B.Eng.) (Added L.N. 114 of 1991)
+
+Bachelor of Laws (LL.B.) (Added L.N. 6 of 2006)
+
+Bachelor of Medical Sciences (B.Med.Sc.) (Added L.N. 55 of 1990)
+
+Bachelor of Medicine and Bachelor of Surgery (M.B., Ch.B.)
+
+Bachelor of Nursing (B.Nurs.) (Added L.N. 114 of 1991)
+
+Bachelor of Pharmacy (B.Pharm.) (Added L.N. 114 of 1991)
+
+Bachelor of Science (B.Sc.)
+
+Bachelor of Social Science (B.S.Sc.)
+
+- (b) (Repealed L.N. 6 of 2006)
+
+Master of Accountancy (M.Acc.) (Added L.N. 481 of 1997)
+
+Master of Architecture (M.Arch.) (Added L.N. 114 of 1991)
+
+Master of Arts (M.A.)
+
+Master of Business Administration (M.B.A.)
+
+Master of Chinese Medicine (M.Chi.Med.) (Added L.N. 357 of 2000)
+
+Master of City Planning (M.C.P.) (Added L.N. 453 of 1994)
+
+Master of Clinical Pharmacy (M.Clin.Pharm.) (Added L.N. 481 of 1997)
+
+Master of Divinity (M.Div.)
+
+Master of Education (M.Ed.)
+
+Master of Engineering (M.Eng.) (Added L.N. 114 of 1991)
+
+Master of Family Medicine (M.F.M.) (Added L.N. 114 of 2003)
+
+Master of Fine Arts (M.F.A.) (Added L.N. 453 of 1994)
+
+Master of Health Science (M.H.Sc.) (Added L.N. 38 of 2007)
+
+Master of Laws (LL.M.) (Added L.N. 6 of 2006)
+
+Master of Midwifery (M.Mid.) (Added L.N. 103 of 1999)
+
+Master of Music (M.Mus.) (Added L.N. 453 of 1994)
+
+Master of Nursing (M.Nurs.) (Added L.N. 323 of 1995)
+
+Master of Nursing Science (M.N.Sc.) (Added L.N. 174 of 2010)
+
+Master of Occupational Medicine (M.O.M.) (Added L.N. 213 of 2003)
+
+Master of Philosophy (M.Phil.)
+
+Master of Professional Accountancy (M.P.Acc.) (Added L.N. 97 of 2002)
+
+Master of Public Health (M.P.H.) (Added L.N. 573 of 1995)
+
+Master of Science (M.Sc.)
+
+Master of Social Science (M.S.Sc.)
+
+Master of Social Work (M.S.W.)
+
+- (c) Juris Doctor (J.D.) (Added L.N. 6 of 2006)
+- (d) (Repealed L.N. 6 of 2006)
+
+Doctor of Business Administration (D.B.A.)
+
+Doctor of Education (Ed.D.) (Added L.N. 481 of 1997)
+
+Doctor of Literature (D.Lit.)
+
+Doctor of Medicine (M.D.)
+
+Doctor of Music (D.Mus.) (Added L.N. 453 of 1994)
+
+Doctor of Nursing (D.Nurs.) (Added L.N. 174 of 2010)
+
+Doctor of Philosophy (Ph.D.)
+
+Doctor of Psychology (Psy.D.) (Added L.N. 6 of 2006)
+
+Doctor of Science (D.Sc.)
+
+Doctor of Social Science (D.S.Sc.) (Added L.N. 121 of 1989)
+
+## (2) Honorary Degrees
+
+Doctor of Laws honoris causa (LL.D. honoris causa )
+
+Doctor of Literature honoris causa (D.Lit. honoris causa )
+
+Doctor of Science honoris causa (D.Sc. honoris causa )
+
+Doctor of Social Science honoris causa (D.S.Sc. honoris causa ) (Added L.N. 121 of 1989)
+
+- 3. The degree of Bachelor shall not be conferred upon a student unless he shall have attended approved courses of study as a matriculated student of the University. (Amended L.N. 114 of 1991)
+- 4. The Senate may accept as part of the attendance of a student qualifying him for the conferment of the degree of Bachelor periods of attendance as a registered student at another university or institution of higher learning recognized by the Senate for this purpose: (Amended L.N. 114 of 1991; L.N. 453 of 1994)
+
+Provided that the degree of Bachelor shall not be conferred upon such student unless-
+
+- (a) he shall have attended an approved course of study as a matriculated student of the University for at least 2 academic years; and (Amended L.N. 114 of 1991; L.N. 453 of 1994; L.N. 233 of 2007)
+- (b) his total period of attendance as a matriculated student of the University and as a registered student of another university or institution of higher learning shall not be less than 3 academic years. (Replaced L.N. 453 of 1994; Amended L.N. 233 of 2007)
+- (c) (Repealed L.N. 233 of 2007)
+- 5. The Senate may accept a certificate of proficiency in any subject issued by another university or institution of higher learning recognized for this purpose by the Senate as exempting from any examination of the University in such subject for the degree of Bachelor. (Amended L.N. 453 of 1994)
+- 6. Save as provided in paragraphs 10 and 11, the degree of Master shall not be conferred upon any person in any Faculty unless he has pursued an approved course of study or research for a period of at least 12 months after satisfying the requirements for the conferment of the degree of Bachelor in the Faculty concerned or after admission as a postgraduate student in terms of paragraph 9.
+- 7. Save as provided in paragraphs 10 and 11, the degree of Doctor of Philosophy in any Faculty shall not be conferred upon any person unless he has-
+- (a) followed an approved course of research as a student of the University for a period of at least 24 months after satisfying the requirements for the conferment of the degree of Bachelor in the Faculty concerned or after admission as a postgraduate student in terms of paragraph 9; and
+- (b) submitted a thesis which is certified by examiners to make a distinct contribution to the knowlege or understanding of the subject and to afford evidence of originality shown either by the discovery of new facts or by the exercise of independent critical power.
+- 8. Save as provided in paragraphs 10 and 11, the degree of Doctor of Literature, Doctor of Science, Doctor of Social Science, Doctor of Business Administration or Doctor of Medicine shall not be conferred upon any person unless- (Amended L.N. 31 of 1981)
+- (a) he shall be a graduate of the University of not less than 7 years standing; and
+- (b) he shall have made in the opinion of the examiners a sustained contribution of distinction to the advancement of his subject.
+- 9. (1) A person who has graduated in another university or who as a registered student of Chung Chi College, The United College of Hong Kong or New Asia College has obtained before the date of establishment of the University a diploma or certificate issued by or on behalf of such Colleges may be exempted from the matriculation requirement of the University and may be admitted as a postgraduate student and may proceed to the degree of Master or Doctor under such conditions as may be prescribed by the Statutes and by decrees and regulations made thereunder.
+- (2) A person who-
+- (a) has completed a course of study in a tertiary educational institution and holds professional or similar qualifications equivalent to a degree; and
+
+- (b) has satisfied such other requirements as may be prescribed by the Statutes and by decrees and regulations made thereunder,
+- may be exempted from the matriculation requirements of the University and may be admitted to be a postgraduate student with the approval of the Senate.
+- 10. The Senate may recommend the award of the degree of Master or Doctor in any Faculty to any member of the academic staff of the University and for this purpose may exempt any such person from any of the requirements prescribed for the conferment of the degree other than the examination therefor.
+- 11. The Council may recommend the award without requiring attendance or examination of a degree of Master or Doctor honoris causa : (Amended L.N. 31 of 1981)
+- Provided that the holder of a degree which has been conferred honoris causa shall not, by the fact that he has been admitted thereto, be entitled to practise any profession.
+- 12. The Council shall not recommend the award of any degree of Master or Doctor honoris causa except after consideration of recommendations submitted by an Honorary Degrees Committee consisting of-
+- (a) the Chancellor;
+- (b) the Vice-Chancellor;
+- (c) the Heads of the original Colleges and of Shaw College; (Amended 18 of 2007 s. 5)
+- (d) the Chairman of the Council;
+- (e) 2 members of the Council nominated by the Council; and
+- (f) 4 members elected by the Senate from among its own members. (Replaced 18 of 2007 s. 5)
+- 13. The University may award diplomas and certificates-
+- (a) to students who-
+- (i) have attended an approved course of study;
+- (ii) have passed the appropriate examination or examinations; and
+- (iii) have complied in all other respects with the requirements prescribed therefor; and
+- (b) to persons other than those provided for in subparagraph (a) above who are deemed by the Senate to possess the qualification appropriate for the award of such diplomas and certificates provided that such persons-
+- (i) have pursued a course of study therefor at one or more educational institutions in Hong Kong recognized for this purpose by the Senate; and
+- (ii) have passed the appropriate examination or examinations of the University.
+- 14. Subject to the right of appeal from the decision of the Senate to the Council and from the decision of the Council to the Chancellor, the Senate may deprive any person who has been convicted of an arrestable offence or who in their opinion has been guilty of dishonourable or scandalous conduct of any degree, diploma, certificate or other award of the University.
+
+## STATUTE 27
+
+## Examinations
+
+Examinations of the University shall be conducted in accordance with regulations made by the Senate from time to time. (Replaced L.N. 233 of 2007)
+
+## STATUTE 28
+
+Citation
+
+The Statutes may be cited as the Statutes of The Chinese University of Hong Kong.
+
+## Schedule 2
+
+(Omitted as spent-E.R. 2 of 2012)
+
+## Schedule 3
+
+[s. 20(2)]
+
+(Amended 18 of 2007 s. 5)
+
+## CONSTITUTION AND POWERS OF THE BOARDS OF TRUSTEES OF THE ORIGINAL COLLEGES
+
+(Amended 59 of 1986 s. 4; 18 of 2007 s. 5)
+
+## 1. Interpretation
+
+- In this Schedule, unless the context otherwise requires-
+- 'Boards of Trustees' ( 書院校董會 ) means the Boards of Trustees of the Colleges incorporated under paragraph 2;
+- 'Chairman' ( 主席 ) means the Chairman of each Board of Trustees;
+- 'College' ( 書院 )  means an original College and 'Colleges' ( 各書院 )  shall  be construed accordingly; (59 of 1986 s.4)
+- 'Council' ( 大學校董會 ) means the Council of The Chinese University of Hong Kong.
+
+## 2. Incorporation of Board of Trustees
+
+- (1) There shall be a Board of Trustees of Chung Chi College which shall be a body corporate and shall have the name of 'The Trustees of Chung Chi College' and in that name shall have perpetual succession, and may sue and be sued, and shall have and use a common seal.
+- (2) There shall be a Board of T rustees of The United College of Hong Kong which shall be a body corporate and shall have the name of 'The T rustees of The United College of Hong Kong' and in that name shall have perpetual succession, and may sue and be sued, and shall have and use a common seal.
+- (3) There shall be a Board of Trustees of New Asia College which shall be a body corporate and shall have the name of 'The Trustees of New Asia College' and in that name shall have perpetual succession, and may sue and be sued, and shall have and use a common seal.
+
+## 3. Powers and duties of Boards of Trustees
+
+- (1) Each Board of Trustees shall hold in trust, and administer for the benefit of its College the movable property which is vested in the Board under paragraph 7; and shall hold in trust for the benefit of the University the buildings the subject of the agreements to be made under paragraph 2 of Schedule 2*.
+- (2) Subject to subparagraph (3), each Board of Trustees may, for the purpose of the trusts under subparagraph (1), exercise the powers conferred on trustees by the Trustee Ordinance (Cap. 29).
+- (3) A Board of Trustees shall not, without the prior approval of the Council, which may be subject to such conditions as the Council thinks fit, accept any gift for the benefit of the College.
+- (4) Each Board shall make written provision for its procedure in the transaction of business, the discharge of its aims and duties and the maintenance of good order at its meetings.
+- (5) The Board of Trustees of Chung Chi College shall-
+- (a) recommend to the Council, through the Administrative and Planning Committee, all appointments to the Theology Division, or whatever part of the University shall succeed the Division as being responsible for theological education, including the appointment of the Head of the Theology Division (or equivalent post) and of the warden of the Theology Hostel;
+- (b) allocate for the promotion of theological education, including the upkeep of the Theology Building, the resources made available from private funds;
+- (c) provide for and appoint the Chaplain of the Chapel; and
+- (d) advise the Senate on all major policy matters relating to theological education, and the Board of Trustees may delegate to a Theological Council appointed by it the power to discharge the functions and duties imposed on the Board by this subparagraph.
+
+## 4. Composition of Boards of Trustees
+
+- (1) The persons who, immmediately before the commencement** of this Ordinance, were members of the Board of Governors of Chung Chi College shall, on the commencement of this Ordinance, become the members of the Board of Trustees of that College incorporated under paragraph 2(1).
+- (2) The persons who, immmediately before the commencement of this Ordinance, were members of the Board of Trustees of The United College of Hong Kong shall, on the commencement of this Ordinance, become members of the Board of Trustees of that College incorporated under paragraph 2(2).
+- (3) The persons who, immmediately before the commencement of this Ordinance, were members of the Board of Governors of New Asia College shall, on the commencement of this Ordinance, become members of the Board of Trustees of that College incorporated under paragraph 2(3).
+- (4) Any person who is at the commencement of this Ordinance, or who
+
+* For text of Schedule 2, see the Revised Edition of the Laws
+
+** Commencement: 24 December 1976
+
+becomes, a member of a Board of Trustees may retire as a member of that Board of Trustees, but no person shall retire so as to reduce the number of members of the Board of Trustees below 4.
+
+- (5) Vacancies in the number of members of a Board of Trustees shall from time to time be filled by such legal means as would have been available for the appointment of new trustees if the Board of Trustees had not been incorporated, and, without prejudice to the generality of the foregoing, section 42 of the Trustee Ordinance (Cap. 29) shall apply in relation to the appointment of new Trustees. (Amended 59 of 1986 s. 4)
+
+## 5. Registration with Registrar of Companies
+
+- (1) Each Board of Trustees shall forward to the Registrar of Companies-
+- (a) notice of the address of the principal office of the Board of Trustees and any change thereof;
+- (b) a list of the names and addresses of the members of the Board of T rustees, and any change therein, certified as correct by the Chairman; and
+- (c) a copy of the written provision made under paragraph 3(4), and any change therein, certified as correct by the Chairman.
+- (2) Notification in accordance with subparagraph (1)(a) and (b) shall be made-
+- (a) within 3 months of the commencement* of this Ordinance; and
+- (b) thereafter within 28 days of any change.
+- (3) Notification under subparagraph (1)(c) shall be made within 28 days after the making of any written provision under paragraph 3(4) or the making of any change therein.
+- (4) Any person may inspect at the office of the Registrar of Companies any of the documents registered under this paragaph.
+- (5) A fee of $5 shall be payable for registering or inspecting any document referred to in this paragraph.
+
+## 6. Accounts
+
+Each Board of Trustees shall in each year, prepare and produce to the Council its audited accounts in such form and at such times as the Council may determine.
+
+## 7. Transitional provisions
+
+On the commencement* of this Ordinance-
+
+- (a) all movable property held on trust by or for each College and all immovable property held by or on behalf of the Colleges outside the precincts of the University shall vest in the Board of Trustees of the College concerned without further assurance and on the same trusts and subject to the same terms and conditions, if any, on which the same was then held;
+- (b) the Board of Trustees of each College shall succeed to all rights, privileges, obligations and liabilities of the Colleges relating to the property vested in the Board of Trustees under subparagraph (a).
+- 8. (Repealed 59 of 1986 s. 4)
+
+* Commencement: 24 December 1976
+
+## Schedule 4
+
+[s. 20(3)]
+
+## CONSTITUTION AND POWERS OF THE BOARD OF TRUSTEES OF SHAW COLLEGE
+
+(Amended 18 of 2007 s. 5)
+
+## 1. Interpretation
+
+In this Schedule, unless the context otherwise requires-
+
+- 'Board of Trustees' ( 書院校董會 ) means the Board of Trustees of Shaw College incorporated under paragraph 2;
+- 'Chairman' ( 主席 ) means the Chairman of the Board of Trustees;
+- 'Council' ( 大學校董會 ) means the Council of The Chinese University of Hong Kong;
+- 'Planning Committee' ( 籌劃委員會 ) means the Planning Committee for Shaw College established by the Council under section 10(1).
+
+## 2. Incorporation of Board of Trustees
+
+There shall be a Board of Trustees of Shaw College which shall be a body corporate and shall have the name of 'The Trustees of Shaw College' and in that name shall have perpetual succession, and may sue and be sued, and shall have and use a common seal.
+
+## 3. Powers and duties of Board of Trustees
+
+- (1) The Board of Trustees shall hold in trust and administer for the benefit of Shaw College the movable property which is vested in the Board of Trustees by the University.
+- (2) Subject to subparagraph (3), the Board of Trustees may, for the purpose of the trust under subparagraph (1), exercise the powers conferred on trustees by the Trustee Ordinance (Cap. 29).
+- (3) The Board of Trustees shall not, without the prior approval of the Council, which may be subject to such conditions as the Council thinks fit, accept any gift for the benefit of Shaw College.
+- (4) The Board of Trustees shall make written provision for its procedure in the transaction of business, the discharge of its aims and duties, the appointment and retirement of its members and the maintenance of good order at its meetings.
+- 4. (1) The persons who, immediately before the commencement* of The Chinese University of Hong Kong (Declaration of Shaw College) Ordinance (Cap. 1139), were members of the Planning Committee shall, on the commencement of that Ordinance, become members of the Board of Trustees.
+- (2) Members of the Board of Trustees who  become  such  members under subparagraph (1) shall hold office for a period of 1 year from the commencement of The Chinese University of Hong Kong (Declaration of Shaw College) Ordinance (Cap. 1139) and shall, subject to the written provision made under paragraph 3(4), be eligible for re-appointment.
+
+* Commencement: 1 August 1986
+
+- (3) Any person who on the commencement of The Chinese University of Hong Kong (Declaration of Shaw College) Ordinance (Cap. 1139) is, or who becomes, a member of the Board of Trustees may retire as a member of the Board, but no person shall retire so as to reduce the number of members of the Board of Trustees below 4.
+- (4) Vacancies in the number of members of the Board of Trustees shall from time to time be filled in accordance with the written provision made under paragraph 3(4) or by such legal means as would have been available for the appointment of new trustees if the Board of Trustees had not been incorporated, and, without prejudice to the generality of the foregoing, section 42 of the Trustee Ordinance (Cap. 29) shall apply in relation to the appointment of new Trustees.
+
+## 5. Registration with Registrar of Companies
+
+- (1) The Board of Trustees shall forward to the Registrar of Companies-
+- (a) notice of the address of the principal office of the Board of Trustees and any change thereof;
+- (b) a list of the names and addresses of the members of the Board of T rustees, and any change therein, certified as correct by the Chairman; and
+- (c) a copy of the written provision made under paragraph 3(4), and any change therein, certified as correct by the Chairman.
+- (2) Notification in accordance with subparagraph (1)(a) and (b) shall be made-
+- (a) within 3 months of the commencement* of The Chinese University of Hong Kong (Declaration of Shaw College) Ordinance (Cap. 1139); and (b) thereafter within 28 days of any change.
+- (3) Notification under subparagraph (1)(c) shall be made within 28 days after the making of any written provision under paragraph 3(4) or the making of any change therein.
+- (4) Any person may inspect at the office of the Registrar of Companies any of the documents registered under this paragraph.
+- (5) A fee of $5.00 shall be payable for registering or inspecting any document referred to in this paragraph. (Amended E.R. 3 of 2021)
+
+## 6. Accounts
+
+The Board of Trustees shall in each year, prepare and produce to the Council its audited accounts in such form and at such times as the Council may determine. (Schedule 4 added 59 of 1986 s. 4)
+
+* Commencement: 1 August 1986
+
+The Ordinance is reproduced from the Bilingual Laws Information System website ( www.elegislation.gov.hk ) as at 12 July 2024, with the permission of the Government of the Hong Kong Special Administrative Region.
+
+## The Constituent Colleges
+
+With the reorganisation of the  University  following  the  enactment  of The Chinese University of Hong Kong Ordinance 1976, the Boards of Trustees of the three original Colleges, viz. Chung Chi College, New Asia College, and The United College of Hong Kong, were reconstituted. Each college board is mainly concerned with the management of the movable property and of certain College buildings entrusted to it, as well as the promotion of scholastic and cultural activities of the College.
+
+Each College is governed by an Assembly of Fellows chaired by the College Head/Master, and this assembly is responsible for making and implementing decisions on various matters relating to the College.
+
+In January 1986 the University received a very generous donation from the Shaw Foundation (Hong Kong) Ltd. for the establishment of Shaw College with Sir Run Run Shaw as its patron. The Chinese University of Hong Kong (Declaration of Shaw College) Ordinance was enacted in July 1986. Shaw College admitted its first batch of students in 1988.
+
+In  2006,  the  University  received  very  generous  donations  from  the Morningside Foundation and Morningside Education Foundation Ltd., and from The S.H. Ho Foundation Ltd. in support of its visions to enhance the collegiate system in anticipation of the surge in undergraduate enrolment in 2012 when the University reverts to a normative four-year curriculum. In May the same year, the University Council endorsed the establishing of two new Colleges and named them respectively Morningside College and S.H. Ho College.
+
+In May 2007, C.W. Chu College and Wu Yee Sun College were established with generous donations from benefactors and Wu Yee Sun Charitable Foundation Ltd., respectively.
+
+In October 2007, the University Council further approved the establishment of  Lee Woo Sing College with very generous support from the Li Foundation (Bing Hua Tang).
+
+To give legal effect to the establishment of the five new Colleges, The Chinese University of Hong Kong (Declaration of Morningside College and S.H. Ho College as Constituent Colleges) Ordinance was enacted in July 2007, and The Chinese University of Hong Kong (Declaration of C.W. Chu College, Wu Yee Sun College and Lee Woo Sing College as Constituent Colleges) Ordinance was enacted in February 2008.
+
+## Chung Chi College
+
+<!-- image -->
+
+Chung Chi College was founded in 1951 by representatives of Protestant Churches in Hong Kong, inheriting the educational mission of the 13 Christian universities in mainland China. The College moved to its permanent site in Ma Liu Shui in 1956 and was incorporated as one of the constituent Colleges of CUHK in 1963.
+
+Integrating Christianity and Chinese cultures, the College endeavours to cultivate love for humanity, freedom and inclusiveness, nurture talent with insightful knowledge, a liberal attitude and global horizon. The College organises diversified local and overseas experiential learning programmes, ranging from art and culture, language study, to career development, community service and leadership. The College General Education, which includes the Service-Learning Programme and the Exploration and Discovery Study Scheme, etc., fosters thinking and learning from multiple perspectives, and extends students' horizon stretching beyond the scope of their major and minor studies. Moreover, scholarships are set up to recognise students' outstanding achievements in academics and balanced education, etc., while the award schemes promote their creativity and potential exploration.
+
+Situated near the MTR station, the campus was designed in a manner that blends with its beautiful natural surroundings. Elements of Christian traditions and heritage as well as the liberal attitude and respect to diverse religions are found. Chung Chi's motto In Pursuit of Excellence means the continuous strive to improve themselves for serving the society in the best way possible.
+
+<!-- image -->
+
+## New Asia College
+
+<!-- image -->
+
+New Asia College was founded in 1949 by Mr. Ch'ien Mu and a group of scholars from mainland China. It aims to promote traditional Chinese culture with the complement of Western academics, so that students can deepen their understanding of traditional Chinese culture and at the same time acquire the knowledge and skills needed in modern society.
+
+In  order to  promote cultural exchanges and broaden students' horizons, the College has established a series of study and exchange programmes where students can participate in summer courses or one-term/one-year exchange programmes at world renowned institutions at home or abroad such as Yale University and Peking University.
+
+Each year, the College organises a number of academic and cultural lectures and activities, including the 'Ch'ien Mu Lecture in History and Culture' and the 'Yu Ying-shih Lecture in History'.
+
+A wide range of College scholarships are awarded to students with outstanding performances or improvements in their studies, social services and extra-curricular activities. Bursaries are offered to those with financial difficulties. The College currently has around 3,500 students, and implements the 'Guaranteed One-year Residence Scheme' so that every student has the chance to enjoy hostel life.
+
+<!-- image -->
+
+## United College
+
+<!-- image -->
+
+With the motto Make One's Virtues Shine and Renew the People , and the spirit of 'Together We Innovate, United We Advance', United College sets out to provide a good learning environment, whole-person education and pastoral care as well as spiritual enhancement of its students.
+
+United College places strong emphasis on whole-person education and broadening the perspective of its students and enhancing their sense of social responsibility with a wide range of activities. Students are given ample opportunities to participate in overseas study tours and service learning programmes under the College's Globe-oriented Active Learning (GOAL) Programme through a wide range of scholarships. The College also organises a Service Learning Internship Programme (SLIP) to provide internship opportunities for students to work in the overseas NGOs.
+
+Various academic, social service and sports scholarships, awards and grants are established by the College, including the Hostel Residence Grant, Off-campus Residence Grant, First-in-the-family Tertiary Education Admission Scholarship, etc. In 2024-25, the total number of the College's scholarships, awards and financial aid reaches 2,000 awards and the total value reaches HK$12 million.
+
+To reach more students and provide support and assistance to them, the College strives to work on Student Wellness Programme and Career Development Facilitation  Scheme.  In  collaboration with  the  College Alumni Association, Mentorship Programme and Internship Scheme are organised for students.
+
+The College is situated on a beautiful campus with four student hostels which accommodate 1,288 students. Construction of the fifth student hostel is in progress and it is estimated to be completed in 2025 which will provide an additional 250 hostel places for students. The campus also provides a library, a gymnasium, a physical fitness room, a microcomputer laboratory and a creative media studio, non-residential halls, etc., for all students.
+
+<!-- image -->
+
+## Shaw College
+
+<!-- image -->
+
+Shaw College was established in July 1986 through the generosity of Sir Run Run Shaw, a world-renowned philanthropist who kindly accepted an invitation to become the Founding Patron of the College.
+
+The College motto, Xiude Jiangxue ,  is taken from a Confucian saying that highlights the cultivation of virtue and pursuit of knowledge. The College founding aspiration is Learning, innovation, and benefitting humankind .
+
+Shaw College organises and subsidises a wide variety of college life, student development programmes, experiential learning, service learning, and offers general education courses, College assemblies, Shaw Prize lectures, distinguished scholars lectures, etc., designed to help students adjust to university life and have whole person development, and to nurture them to become global citizens and future leaders.
+
+Through scholarship, awards and financial assistance and many other schemes, the College recognises academic and non-academic achievements of students in academic excellence, outstanding performance in extra-curricular activities, community service, sports, leadership and talents, as well as supports students with financial need.
+
+<!-- image -->
+
+## Morningside College
+
+<!-- image -->
+
+Morningside College was established in 2006 with a generous and imaginative donation from the Morningside Foundation. Morningside is fully residential and accommodates 300 students. Students take rigorous general education courses in seminar settings conducive to discussion, discursive writing and debate. These courses are designed to sharpen their intellectual acumen and equip them with the ability to engage in independent, reflective and critical thinking.
+
+The College students value ideas, diversity, creativity, individuality, and civic responsibility. The Morningside student body is one of the most diverse student bodies at the University, with residents from many countries and regions. College fellows and distinguished visitors also contribute time, energy and thought to enriching college life. The College aims to help students to develop the values, intellectual breadth and practical skills needed to play leading roles in a wide range of disciplines and professions.
+
+A sense of social responsibility and engagement is central to the Morningside ethos. All of the students take an active part in community service activities throughout their university years. These and other activities lead them to a deeper understanding of themselves and of how they can make a positive impact on the world.
+
+<!-- image -->
+
+## S.H. Ho College
+
+<!-- image -->
+
+S.H.  Ho  College was founded in 2006, with a generous donation from The S.H. Ho Foundation. The College admitted its first cohort of students in August of 2010 and accommodates 600 students on a fully residential and communal dining basis. It draws its motto, Culture, Morals, Devotion and Trustworthiness , from The Analects of Confucius , as these qualities are vital in nurturing prominent leaders who serve the community.
+
+Sitting at the heart of CUHK, the College campus is located on University Avenue. It is within easy walking distance of the University Station. The two student hostels, Ho Tim Hall and Lee Quo Wei Hall-each comprising 300 hostel places, music room, fitness room, learning commons, well-being development space 'The Wells', multi-purpose student hub and reading room 'The Oasis', play room and grass field-are together home to 600 students.
+
+To enable students to experience different cultures, acquire language skills and explore their own identities, S.H. Ho College offers a variety of overseas experience programmes. The College strives to achieve the goal that above 80% of its students have overseas experiences. This will be achieved by means of exchange programmes, summer study abroad programmes, summer language study programmes, cultural visits and service-learning.
+
+Prof. Vincent C.T. Mok is the Master of the College. He is currently Mok Hing Yiu Professor of Medicine, Division of Neurology, Department of Medicine and Therapeutics, CUHK. He is also the Co-Director of Charles Kao CUHK BEAT AD Service; the Director of Lau Tat-chuen Research Centre of Brain Degenerative Diseases in Chinese; the Director of Margaret K.L. Cheung Research Centre for Management of Parkinsonism; the Director of Therese Pei Fong Chow Research Centre for Prevention of Dementia; the Secretary of the Neurology Specialty Board, Hong Kong College of Physicians; and a member of the Expert Committee on Clinical Events Assessment Following COVID-19 Immunization, the Government of HKSAR. Professor Mok was awarded the Chief Executive's Commendation for Community Service in 2022.
+
+<!-- image -->
+
+## C.W. Chu College
+
+<!-- image -->
+
+Founded in 2007, C.W. Chu College is named after Dr. Chu Ching-wen (1906-1996), a prominent industrialist and a remarkable philanthropist who spent the larger part of his career in Hong Kong. The values which the late Dr. Chu exemplified are encapsulated in the College motto Cultus et Beneficentia (cultivating oneself and benefitting the community). The vision statement of the College embodies four elements: intimate, international, intellectual, involved ,  and aims to nurture graduates with leadership, generosity, intellectual clarity and morality.
+
+With a student membership of only 300, the College places strong emphasis on student-teacher interactions. It offers four years of undergraduate residence, and communal dining three times a week, catalysing students to build enduring bonds. The College admits no more than 75 students per year, with an expectation of 35% (including incoming exchange students) coming from outside Hong Kong. College fellows and teachers likewise come from many different backgrounds, enabling students to experience and share multicultural perspectives. Students broaden their horizon and enrich their social exposure through the mentorship scheme, which extends and realises the vision and mission of the College. Mentors are experienced and leading figures from all walks of life, including a ready network of Chu Scholars, and will offer advice and guidance on students' personal development.
+
+<!-- image -->
+
+## Wu Yee Sun College
+
+<!-- image -->
+
+Wu Yee Sun College was established in 2007 with the generous support of Wu Yee Sun Charitable Foundation Limited.
+
+The College motto is Scholarship and Perseverance ,  which is extracted from 'Chapter 20', The Doctrine of the Mean . The College aims to broaden students' horizons (scholarship) and encourage them to forge ahead (perseverance) in making contributions to society and leading a productive and rewarding life.
+
+In  support  of  the  College  mission, Entrepreneurial  Spirit  with  Social Responsibility , the College creates an intimate and dynamic learning atmosphere to drive the development of social entrepreneurship among the student-a passion for creativity and innovation, and an acumen in pursuing new projects and ideas, not just for personal gain but for the common good.
+
+House of Sunny Living and Creativity Laboratory are the unique facilities of the College, which are launched to promote healthy living and to nurture the creativity among students respectively. Diversified experiential learning is one of the characteristics of the College. Students can also learn through general education programme focusing on sustainability, cultural and overseas exchange programmes to broaden their horizons, service-learning programmes to serve and contribute to society, internship and mentorship programmes to share their experience with peers.
+
+The College has approximately 1,300 students in total, with about 300 students joining us every year. Students are guaranteed one year of hostel residence in four years of study to enjoy vibrant college life.
+
+<!-- image -->
+
+## Lee Woo Sing College
+
+<!-- image -->
+
+Lee Woo Sing College was established in 2007 with very generous support from the Li Foundation (Bing Hua Tang).
+
+The motto of Lee Woo Sing College, Wisdom, Humanity, Integrity, Harmony highlights the cultivation of virtue and pursuit of knowledge. The emblem of the College is made up of three ancient Chinese characterspeople, mountain , and harmony which embraces nurturing leaders, emphasising the interaction with the nature, and maintaining a harmonious culture. The College provides various experiential learning opportunities to facilitate the whole-person development of students. It includes a wide-range of interdisciplinary and student-oriented general education courses, various academic and cultural co-curricular activities, such as overseas exchange and mentorship programmes.
+
+The College's beautiful campus is commanding the tranquil view of Tolo Harbour. The idea of the campus design is to make the buildings blend in with the nature. The campus implements advanced technologies, such as an integrated security system. There are comprehensive learning and leisure facilities, and four catering outlets on campus.
+
+To advocate the importance of green life and sustainability, the College has implemented a number of new energy-saving technologies and measures on campus, such as the installation of the first Hong Kong Smart Meter with mobile energy monitoring app, a high-efficiency CIGS solar energy system and fresh air systems. Besides, the College's Green Ambassador Programme help to raise students' awareness of protecting the environment.
+
+<!-- image -->
+
+Part 2
+
+Establishment
+
+<!-- image -->
+
+## University Officers
+
+## Chancellor
+
+The Chief Executive of the Hong Kong Special Administrative Region the Honourable John Lee Ka-chiu 李家超
+
+## Vice-Chancellor/President
+
+Prof. Rocky S. Tuan 段崇智
+
+## Pro-Vice-Chancellors/Vice-Presidents
+
+Prof. Alan K.L. Chan
+
+陳金樑
+
+, Provost
+
+Prof. Poon Wai-yin 潘偉賢
+
+Prof. Chan Wai-yee 陳偉儀
+
+Prof. Sham Mai-har 岑美霞
+
+Prof. Anthony T.C. Chan 陳德章
+
+Prof. Nick Rawlins
+
+## Treasurer
+
+Mr. Dennis C.I. Chow 周志賢
+
+## Head of Chung Chi College
+
+Prof. Kwan Mei-po 關美寶
+
+Head of New Asia College
+
+Prof. Chan Sun-on 陳新安
+
+## Head of United College
+
+Prof. Stephen H.S. Wong 王香生
+
+Head of Shaw College
+
+Prof. Freedom Y.K. Leung 梁耀堅
+
+## Master of Morningside College
+
+Prof. Nick Rawlins
+
+## Master of S.H. Ho College
+
+Prof. Vincent C.T. Mok 莫仲棠
+
+## Master of C.W. Chu College
+
+Prof. Wong Suk-ying 王淑英
+
+## Master of Wu Yee Sun College
+
+Prof. Anthony T.C. Chan 陳德章
+
+## Master of Lee Woo Sing College
+
+Prof. Yam Yeung 任揚
+
+## Dean of the Graduate School
+
+Prof. Anthony M.C. So 蘇文藻
+
+## Dean of Arts
+
+Prof. Tang Xiaobing 唐小兵
+
+## Dean of Business Administration
+
+Prof. Zhou Lin 周林
+
+## Dean of Education
+
+Prof. Fan Xitao 范息濤
+
+## Dean of Engineering
+
+Prof. Tsang Hon-ki 曾漢奇
+
+## Dean of Law
+
+Prof. Lutz-Christian Wolff (until 29 September 2024)
+
+## Dean of Medicine
+
+Prof. Philip W.Y. Chiu 趙偉仁
+
+## Dean of Science
+
+Prof. Song Chunshan 宋春山
+
+Dean of Social Science
+
+Prof. Chiu Chi-yue 趙志裕
+
+## Secretary
+
+Mrs. Amelia Wong 黃陳慰冰
+
+## Registrar
+
+Ms. Kitty W.H. Yu 余蕙卿
+
+## Librarian
+
+Mr. Benjamin Meunier
+
+## Bursar and Director of Finance
+
+Ms. Salome Y.P. Lam 林月萍
+
+## University Dean of Students
+
+Prof. Ko Wing-hung 高永雄
+
+## The Council
+
+## Chairman
+
+Prof. John Y. Chai 查逸超
+
+## Vice-Chairman
+
+Dr. Norman T.L. Chan 陳德霖
+
+Vice-Chancellor/President
+
+Prof. Rocky S. Tuan 段崇智
+
+Provost
+
+Prof. Alan K.L. Chan 陳金樑
+
+One Pro-Vice-Chancellor (other than the Provost) as determined by the Council
+
+Prof. Poon Wai-yin 潘偉賢
+
+## Treasurer
+
+Mr. Dennis C.I. Chow 周志賢
+
+Six persons appointed by the Council on the nomination of the Boards of Trustees of the original Colleges and of Shaw College and the Committee of Overseers of the additional Colleges
+
+Mr. Eric C.B. Chan 陳早標
+
+Mr. Charles Y.W. Leung 梁英偉
+
+Ms. Lina H.Y. Yan 殷巧兒
+
+Mr. Stewart K.C. Cheng 鄭錦超
+
+Prof. Nelson Chen 陳丙驊
+
+Prof. Wong Wing-shing 黃永成
+
+Two persons elected by, and from among, the Heads of the original Colleges and of Shaw College and the Masters of the additional Colleges, in a manner to be determined by the Council
+
+Prof. Kwan Mei-po 關美寶 Prof. Anthony T.C. Chan
+
+陳德章
+
+## Two persons elected by, and from among, the Deans of the Faculties and
+
+## the Dean of the Graduate School, in a manner to be determined by the
+
+## Council
+
+Prof. Chiu Chi-yue
+
+趙志裕
+
+Prof. Anthony M.C. So 蘇文藻
+
+## Six persons appointed by the Chancellor
+
+Mr. Nicholas H.F. Chan 陳曉峰
+
+Mrs. Ann Y.C. Yeung Kung 龔楊恩慈
+
+Mr. Eric S.C. Ma 馬紹祥
+
+Ms. Melissa Kaye Pang 彭韻僖
+
+Mr. Dominic Y.T. Pang 彭一庭
+
+Mr. Symon Y.W. Wong 黃汝榮
+
+## Three persons elected by, and from among, the Members of the Legislative Council
+
+The Honourable Cheung Yu-yan 張宇人
+
+The Honourable Lau Kwok-fan 劉國勳
+
+The Honourable Tang Ka-piu 鄧家彪
+
+Not more than four persons, ordinarily resident in Hong Kong, appointed by the Council, and at least one of those persons is a graduate of the University
+
+Ms. Sonia C.M. Cheng 鄭志雯
+
+Mr. Peter Kung 龔永德
+
+Dr. Luk Che-chung 陸志聰
+
+Mr. Albert H.K. Wong 黃克強
+
+## Secretary of the Council
+
+Mrs. Amelia Wong 黃陳慰冰
+
+## Council Committees
+
+## Administrative and Planning Committee
+
+## Chairman
+
+Prof. Rocky S. Tuan 段崇智
+
+## Members
+
+Prof. Alan K.L. Chan 陳金樑
+
+Prof. Hector S.O. Chan 陳新安
+
+Prof. Anthony T.C. Chan 陳德章
+
+Prof. Chan Wai-yee 陳偉儀
+
+Mr. Kenneth W.O. Chen 陳維安 (from 16 September 2024)
+
+Prof. Chiu Chi-yue 趙志裕
+
+Prof. Philip W.Y. Chiu 趙偉仁
+
+Prof. Fan Xitao 范息濤
+
+Prof. Ko Wing-hung 高永雄
+
+Prof. Kwan Mei-po 關美寶
+
+Ms. Salome Y.P. Lam 林月萍
+
+Prof. Freedom Y.K. Leung 梁耀堅
+
+Prof. Vincent C.T. Mok 莫仲棠
+
+Prof. Poon Wai-yin 潘偉賢
+
+Prof. Nick Rawlins
+
+Prof. Sham Mai-har 岑美霞
+
+Prof. Anthony M.C. So 蘇文藻
+
+Prof. Song Chunshan 宋春山
+
+Prof. Tang Xiaobing 唐小兵
+
+Prof. Tsang Hon-ki 曾漢奇
+
+Prof. Lutz-Christian Wolff (until 29 September 2024)
+
+Prof. Stephen H.S. Wong 王香生
+
+Prof. Wong Suk-ying 王淑英
+
+Prof. Yam Yeung 任揚
+
+Ms. Kitty W.H. Yu 余蕙卿
+
+Prof. Zhou Lin 周林
+
+## Member &amp; Secretary
+
+Mrs. Amelia Wong 黃陳慰冰
+
+## Audit and Risk Management Committee
+
+## Chairman
+
+Mr. Peter Kung 龔永德
+
+## Members
+
+Council Members
+
+Mr. Nicholas H.F. Chan 陳曉峰 Dr. Luk Che-chung
+
+陸志聰
+
+Co-opted Members
+
+Mr. Arthur K.P. Chan 陳家沛
+
+Mr. Joe P.L. Wan 溫佩麟
+
+Ms. Melissa M.C. Wu 吳麗莎
+
+## Secretary
+
+Prof. Jimmy H.M. Lee 李浩文
+
+## Campus Development Committee
+
+## Chairman
+
+Mr. Eric S.C. Ma 馬紹祥
+
+## Vice-Chairman
+
+Mr. Peter Kung 龔永德
+
+## Members
+
+Council Members
+
+Prof. Nelson Chen 陳丙驊 Mr. Stewart K.C. Cheng 鄭錦超 Mr. Dominic Y.T. Pang 彭一庭
+
+Co-opted Members
+
+Mr. Barry Kwong 鄺文昌 Mrs. Sylvia K.W. Yu Lam 林余家慧
+
+Mr. Edmond K.Y. Yue 余國賢
+
+College Heads/Masters
+
+Prof. Kwan Mei-po 關美寶 , Head of Chung Chi College Prof. Vincent C.T. Mok 莫仲棠 , Master of S.H. Ho College
+
+## Ex-officio Member
+
+Pro-Vice-Chancellor in charge of campus development
+
+Mr. Kenneth W.O. Chen 陳維安 (from 16 September 2024)
+
+## Secretary
+
+Mr. Li Sing-cheung 李陞祥
+
+## Committee on Institutional Advancement and Community Relations
+
+## Chairman
+
+Mr. Eric C.B. Chan 陳早標
+
+## Members
+
+## Council Members
+
+Ms. Sonia C.M. Cheng 鄭志雯
+
+Mr. Stewart K.C. Cheng 鄭錦超
+
+Mr. Dominic Y.T. Pang 彭一庭
+
+The Honourable Tang Ka-piu 鄧家彪
+
+Prof. Wong Wing-shing 黃永成
+
+Ms. Lina H.Y. Yan 殷巧兒
+
+College Heads/Masters
+
+Prof. Stephen H.S. Wong 王香生 , Head of United College Prof. Wong Suk-ying 王淑英 , Master of C.W. Chu College
+
+## Ex-officio Members
+
+Pro-Vice-Chancellors in charge of student affairs, alumni affairs,
+
+public relations and institutional advancement
+
+Prof. Anthony T.C. Chan 陳德章
+
+Prof. Nick Rawlins
+
+Mr. Kenneth W.O. Chen 陳維安 (from 16 September 2024)
+
+## Secretary
+
+Ms. Lolitta S.F. Wong 黃淑芬
+
+## Executive Committee of the Council
+
+## Chairman
+
+Prof. John Y. Chai 查逸超
+
+## Members
+
+Mr. Eric C.B. Chan 陳早標 Mr. Nicholas H.F. Chan 陳曉峰 Prof. Alan K.L. Chan 陳金樑 Dr. Norman T.L. Chan 陳德霖 Mr. Dennis C.I. Chow 周志賢 Mr. Peter Kung 龔永德 Dr. Luk Che-chung 陸志聰 Mr. Eric S.C. Ma 馬紹祥 Prof. Rocky S. Tuan 段崇智 Mr. Symon Y.W. Wong 黃汝榮
+
+## Secretary
+
+Mrs. Amelia Wong 黃陳慰冰
+
+## Finance Committee
+
+## Chairman
+
+Mr. Dennis C.I. Chow 周志賢
+
+## Members
+
+Prof. Chan Sun-on 陳新安 Prof. Kwan Mei-po 關美寶 Mr. Charles Y. W. Leung 梁英偉 Prof. Freedom Y.K. Leung 梁耀堅 Mr. Dominic Y.T. Pang 彭一庭 Prof. Rocky S. Tuan 段崇智 Mr. Albert H.K. Wong 黃克強 Prof. Stephen H.S. Wong
+
+王香生
+
+## Secretary
+
+Ms. Salome Y.P. Lam 林月萍
+
+## Governance and Corporate Sustainability Committee
+
+## Chairman
+
+Dr. Norman T.L. Chan 陳德霖
+
+## Vice-Chairman
+
+Ms. Melissa Kaye Pang 彭韻僖
+
+## Members
+
+Council Members
+
+Mr. Eric C.B. Chan 陳早標
+
+Prof. Anthony T.C. Chan 陳德章
+
+Prof. Kwan Mei-po 關美寶
+
+The Honourable Lau Kwok-fan 劉國勳
+
+Prof. Poon Wai-yin 潘偉賢
+
+Mr. Symon Y.W. Wong 黃汝榮
+
+Co-opted Members
+
+Ms. Bonnie S.Y. Chan 陳心愉
+
+Mr. Michael S.L. Liu 劉瑞隆
+
+## Ex-officio Members
+
+Prof. Rocky S. Tuan 段崇智 , Vice-Chancellor and President of the University Prof. Alan K.L. Chan 陳金樑 , Provost of the University Mr. Kenneth W.O. Chen 陳維安 , Vice-President (Administration) (from 16 September 2024)
+
+## Secretary
+
+Mrs. Amelia Wong 黃陳慰冰
+
+## Honorary Degrees Committee
+
+## Members
+
+The Honourable John Lee Ka-chiu 李家超
+
+Prof. John Y. Chai 查逸超
+
+Prof. Alan K.L. Chan 陳金樑
+
+Prof. Chan Sun-on 陳新安
+
+Prof. Anthony T.C. Chan 陳德章 (from 28 August 2024)
+
+Prof. Kwan Mei-po 關美寶
+
+Prof. Freedom Y.K. Leung 梁耀堅
+
+Prof. Dennis Y.M. Lo 盧煜明
+
+Mr. Eric S.C. Ma 馬紹祥
+
+Prof. Poon Wai-yin 潘偉賢
+
+Prof. Rocky S. Tuan 段崇智
+
+Prof. Stephen H.S. Wong 王香生
+
+Mr. Symon Y.W. Wong 黃汝榮
+
+## Secretary
+
+Mrs. Amelia Wong 黃陳慰冰
+
+## Honorary Fellowship Committee
+
+## Chairman
+
+Prof. John Y. Chai 查逸超
+
+## Members
+
+Prof. Alan K.L. Chan 陳金樑 Prof. Anthony T.C. Chan 陳德章 Mr. Eric S.C. Ma 馬紹祥 Ms. Melissa Kaye Pang 彭韻僖 Prof. Poon Wai-yin 潘偉賢 Prof. Rocky S. Tuan 段崇智 Mr. Symon Y.W. Wong 黃汝榮
+
+## Secretary
+
+Mrs. Amelia Wong 黃陳慰冰
+
+## Human Resources Committee
+
+## Chairman
+
+Dr. Luk Che-chung 陸志聰
+
+## Members
+
+Council Members
+
+Mrs. Ann Y.C. Yeung Kung 龔楊恩慈 Prof. Wong Wing-shing 黃永成
+
+Ms. Lina H.Y. Yan 殷巧兒
+
+## Ex-officio Members
+
+Prof. Rocky S. Tuan 段崇智 , Vice-Chancellor and President of the University Prof. Alan K.L. Chan 陳金樑 , Provost of the University Mr. Kenneth W.O. Chen 陳維安 , Vice-President (Administration) (from 16 September 2024)
+
+## Secretary
+
+Ms. Corinna Lee 利順琼
+
+## Knowledge Transfer Committee
+
+## Chairman
+
+Mr. Nicholas H.F. Chan 陳曉峰
+
+## Members
+
+Council Members
+
+Mrs. Ann Y.C. Yeung Kung 龔楊恩慈 The Honourable Lau Kwok-fan 劉國勳 Mr. Albert H.K. Wong 黃克強 Prof. Wong Wing-shing 黃永成
+
+Academic Members
+
+Prof. Lam Hon-ming 林漢明
+
+Prof. Helen M.L. Meng 蒙美玲
+
+## Ex-officio Members
+
+Prof. Sham Mai-har 岑美霞 , Pro-Vice-Chancellor (Research) Prof. Chan Wai-yee , Pro-Vice-Chancellor (Strategic Developments)
+
+陳偉儀
+
+## Secretary
+
+Prof. Benny Zee 徐仲鍈
+
+## Senior Executive Affairs Committee
+
+## Chairman
+
+Prof. John Y. Chai 查逸超
+
+## Members
+
+Mr. Eric C.B. Chan 陳早標 Dr. Norman T.L. Chan 陳德霖 Mr. Dennis C.I. Chow 周志賢
+
+## Secretary
+
+Ms. Corinna Lee 利順琼
+
+## The Chinese University of Hong Kong Foundation Limited
+
+## Board of Directors
+
+Prof. Rocky S. Tuan 段崇智 (Chairman) Mr. Dennis C.I. Chow 周志賢
+
+Prof. Sham Mai-har 岑美霞
+
+## Secretary
+
+Mrs. Amelia Wong 黃陳慰冰
+
+## The Chinese University of Hong Kong (Shenzhen)
+
+## Foundation Limited
+
+## Board of Directors
+
+Prof. John Y. Chai 查逸超 Prof. Alan K.L. Chan 陳金樑 Ms. Salome Y.P. Lam 林月萍 Prof. Rocky S. Tuan 段崇智 Prof. Xu Yangsheng 徐揚生 阮德添
+
+Mr. Anthony T.T. Yuen (until 3 August, 2024)
+
+## Secretary
+
+Mrs. Amelia Wong 黃陳慰冰
+
+## CUHK Health Limited
+
+## Board of Directors
+
+Prof. John Y. Chai 查逸超 Mr. Dennis C.I. Chow 周志賢 Prof. Rocky S. Tuan
+
+段崇智
+
+## Secretary
+
+Mrs. Amelia Wong 黃陳慰冰
+
+## CUHK Innovation Limited
+
+## Board of Directors
+
+Dr. Norman T.L. Chan 陳德霖 (Chairperson) Prof. Chan Wai-yee 陳偉儀 Ms. Cindy Chow Lok Mei-ki 周駱美琪 Ms. Salome Y.P. Lam 林月萍 Mr. John Y.F. Ng 吳任輝 Prof. Sham Mai-har 岑美霞
+
+## Secretary
+
+Ms. Ellen S.M. Lee 李思敏
+
+## TR at CUHK Company Limited
+
+## Board of Directors
+
+Mrs. Ann Y.C. Yeung Kung 龔楊恩慈 (Chair)
+
+Prof. Chan Wai-yee 陳偉儀
+
+Prof. Philip W.Y. Chiu 趙偉仁
+
+Prof. Sham Mai-har 岑美霞
+
+Dr. Ambrose S.F. So 蘇樹輝
+
+Prof. Tsang Hon-ki 曾漢奇
+
+Dr. Allan C.Y. Wong 黃子欣
+
+Ms. Lina H.Y. Yan 殷巧兒
+
+## Secretary
+
+Ms. Christine Y.M. Ho 何玉明
+
+## The Senate
+
+Vice-Chancellor/President (Chairman)
+
+Prof. Rocky S. Tuan 段崇智 (until 31 December 2024)
+
+## Pro-Vice-Chancellors/Vice-Presidents
+
+Prof. Chan Kam Leung Alan 陳金樑 , Provost
+
+Prof. Poon Wai Yin 潘偉賢
+
+Prof. Chan Wai Yee 陳偉儀
+
+Prof. Sham Mai Har 岑美霞
+
+Prof. Anthony Chan 陳德章
+
+Prof. Nick Rawlins
+
+## Heads of the original Colleges and of Shaw College
+
+Prof. Kwan Mei Po 關美寶
+
+Prof. Chan Sun On 陳新安
+
+Prof. Stephen H.S. Wong 王香生
+
+Prof. Leung Yiu Kin Freedom 梁耀堅
+
+## Masters of the additional Colleges
+
+Prof. Nick Rawlins
+
+Prof. Mok Chung Tong, Vincent 莫仲棠
+
+Prof. Wong Suk Ying 王淑英
+
+Prof. Anthony Chan 陳德章
+
+Prof. Yam Yeung 任揚
+
+## Dean of each Faculty and of the Graduate School
+
+Prof. Max Xiaobing Tang 唐小兵
+
+Prof. Zhou Lin 周林
+
+Prof. Fan Xitao 范息濤
+
+Prof. Tsang Hon Ki 曾漢奇
+
+Prof. Lutz-Christian Wolff (until 29 September 2024)
+
+Prof. Xi Chao 習超 (from 30 September 2024)
+
+Prof. Philip W.Y. Chiu 趙偉仁
+
+Prof. Song Chunshan 宋春山
+
+Prof. Chiu Chi Yue 趙志裕
+
+Prof. So Man Cho, Anthony 蘇文藻
+
+Professors who carry the Chinese title of ' 講座教授 ' , or Readers and any other professors who are determined by the Council to be of a grade equivalent to or higher than Readers in each Department and each School of Studies in which there is no professor who carries the Chinese title of ' 講座教授 '
+
+Prof. Chan Kam Leung Alan 陳金樑
+
+Prof. Anthony Chan 陳德章
+
+Prof. Francis K.L. Chan 陳家亮
+
+Prof. Chan Wai Yee 陳偉儀
+
+Prof. Chen Benmei 陳本美
+
+Prof. Ching Shuk Chi Emily 程淑姿
+
+Prof. Chiu Chi Yue 趙志裕
+
+Prof. Chu Chiu Wing Winnie 朱昭穎
+
+Prof. Chu Ming Chung 朱明中
+
+Prof. Sudipto Dasgupta
+
+Prof. Fan Xitao 范息濤
+
+Prof. Fung Hoi Lam Helene 馮海嵐
+
+Prof. Anthony Fung Ying Him 馮應謙
+
+Prof. James Francis Griffith
+
+Prof. Han Bing 韓冰
+
+Prof. Heng Pheng Ann 王平安
+
+Prof. Ho Che Wah 何志華
+
+Prof. Hsu Vernon Ning 徐寧
+
+Prof. Huang Yong 黃勇
+
+Prof. Hui Shu Cheong David 許樹昌
+
+Prof. Jiang Liwen 姜里文
+
+Prof. Ann Dorothy King
+
+Prof. Irwin K.C. King 金國慶
+
+Prof. Andrew Byron Kipnis
+
+Prof. Kwan Mei Po 關美寶
+
+Prof. Lai Chi Tim 黎志添
+
+Prof. Lai Pan Chiu 賴品超
+
+Prof. Lam Hon Ming 林漢明
+
+Prof. Linda Lam Chiu Wa 林翠華
+
+Prof. Lawrence J. Lau 劉遵義
+
+Prof. Lau Yun Wong 劉潤皇
+
+Prof. Law Shing Keung 羅勝強
+
+Prof. Lee Yi Jen 李宜珍
+
+Prof. T.Y. Leung 梁德楊
+
+Prof. Li Man Chim Albert Martin 李民瞻
+
+Prof. Li Quan 李泉
+
+Prof. Liao Wei Hsin 廖維新
+
+Prof. Liu Renbao 劉仁保
+
+Prof. Liu Yunhui 劉雲輝
+
+Prof. D.Y.M. Lo 盧煜明
+
+Prof. Lo Wing Hung Carlos 盧永鴻
+
+Prof. Lui Chi Shing John 呂自成
+
+Prof. Lyu Rung Tsong Michael 呂榮聰
+
+Prof. Mao Chuanbin 毛傳斌
+
+Prof. Meng Mei Ling Helen 蒙美玲
+
+Prof. Dennis K.P. Ng 吳基培
+
+Prof. Ng Yan Yung 吳恩融
+
+Prof. Pan Haihua 潘海華
+
+- Prof. Pang Lai Kwan 彭麗君
+
+Prof. Poon Wai Yin 潘偉賢
+
+Prof. Qin Ling 秦嶺
+
+Prof. Song Chunshan 宋春山
+
+Prof. Song Zheng 宋錚
+
+Prof. Max Xiaobing Tang 唐小兵
+
+Prof. Tao Yufei 陶宇飛
+
+Prof. Tham Chee Yung Clement 譚智勇
+
+Prof. Tong Kai Yu 湯啟宇
+
+Prof. Michael Tong 唐志輝
+
+Prof. Tsang Hon Ki 曾漢奇
+
+Prof. Wing Yun Kwok 榮潤國
+
+Prof. Lutz-Christian Wolff
+
+Prof. Wong Kam Bo 黃錦波
+
+Prof. Wong Patrick Chun Man 黃俊文
+
+Prof. Stephen H.S. Wong 王香生
+
+Prof. Wong Yeung Shan Samuel 黃仰山
+
+Prof. Xin Zhouping 辛周平
+
+Prof. Xu Jianbin 許建斌
+
+Prof. Andrew C.C. Yao 姚期智
+
+Prof. Yau Shing Tung 丘成桐
+
+Prof. Raymond Yeung 楊偉豪
+
+Prof. Yip Choy Yin Virginia 葉彩燕
+
+Prof. Yu Jiu Kang 于如岡
+
+Prof. Zee Chung Ying Benny 徐仲鍈
+
+Prof. Zuo Zhong 左中
+
+## Chairman of each Department and the Directors of Studies if not a member under the last category
+
+Prof. Chai Ching Sing 蔡敬新
+
+Prof. Edwin H.Y. Chan 陳浩然
+
+Prof. Chan Jason Ying Kuen 陳英權
+
+Prof. Chan Man Lok Andrew 陳文樂
+
+Prof. Cheng Sea Ling 鄭詩靈
+
+Prof. Alan Cheung 張志強
+
+Prof. Cheung Sui Wai 張瑞威
+
+Prof. Waiman Cheung 張惠民
+
+Prof. Chien Wai Tong 錢惠堂
+
+| Prof. Chu Shun Chi Donna 朱順慈 Prof. Peter Ferretto   |
+|-----------------------------------------------------|
+| Prof. Saulius Haroldas Geniusas                     |
+| Prof. Aaron H.P. Ho 何浩培                             |
+| Prof. Ho Kwok Ming 何國明                              |
+| Prof. David Huddart                                 |
+| Prof. Margaret Ip 葉碧瑤                               |
+| Dr. Ku Kei Tat 古紀達                                  |
+| Prof. Kwong Fuk Yee 鄺福兒                             |
+| Prof. Kwong Yuk Yee Jessica 鄺玉儀                     |
+| Dr. Jose Lai 賴陳秀卿                                   |
+| Prof. Lam Wai 林偉                                    |
+| Prof. Pierre Landry                                 |
+| Prof. Lau Cheungkong Frederick 劉長江                  |
+| Prof. Lau Kit Ling 劉潔玲                              |
+| Prof. Lee Hun Tak Thomas 李行德                        |
+| Prof. Lin Zhixiu 林志秀                                |
+| Prof. Tony Mok 莫樹錦                                  |
+| Prof. Lynne Nakano                                  |
+| Prof. Ng Fei Yin 伍斐然                                |
+| Prof. Ng Siu Man, Simon 吳兆文                         |
+| Prof. Pan Victor Junnan 潘俊楠                         |
+| Prof. Poon Chiu Yee Liona 潘昭頤                       |
+| Prof. Poon Ming Kay 潘銘基                             |
+| Prof. Shu Ching Tak Chester 許正德                     |
+| Prof. Shu Tao 舒濤                                    |
+| Prof. James George St André                         |
+| Prof. Sum Kim Wai Raymond 沈劍威                       |
+| Prof. Tam Hong Wing 譚康榮                             |
+| Prof. To Siu Ming 陶兆銘                               |
+| Prof. Tse Man Kit Gary 謝文杰                          |
+| Prof. Frank Vigneron                                |
+| Prof. Wang Jianfang 王建方 Prof. Wang Junhui           |
+| Prof. Pascal O. Vontobel                            |
+| Prof. Xu Jiang 徐江                                   |
+| 王軍輝 Prof. Wong Wang Ivy 黃泓                          |
+| Prof. Yang Yong 楊勇                                  |
+| Prof. Yin Hongbiao                                  |
+| 尹弘飈 Prof. You Hoi Sze Joyce                         |
+| 姚凱詩                                                 |
+| Prof. Young Fung Yu 楊鳳如                             |
+| Prof. Yung Shu Hang Patrick 容樹恒 Prof. Zhou Xiang 周翔 |
+| Prof. Zou Jun                                       |
+
+Prof. Zou Jun 鄒軍
+
+## Director of the School of Continuing and Professional Studies
+
+Dr. Ng Man Leung Alex 伍文亮
+
+## Two Fellows of each College elected by the Colleges' Assemblies of Fellows*
+
+Prof. Edwin H.Y. Chan 陳浩然
+
+Prof. You Hoi Sze Joyce 姚凱詩
+
+Prof. Jimmy H.M. Lee 李浩文
+
+Prof. Wan Yau Heng 溫有恒
+
+Prof. Lee Hung Kay 李鴻基
+
+Prof. Tsang Suk Ying Faye 曾淑瑩
+
+Prof. Au Wing Tung Winton 區永東
+
+Prof. Wu Che Yuen Justin 胡志遠
+
+Registrar
+
+(Member &amp; Secretary)
+
+Ms. Kitty Yu 余蕙卿
+
+Librarian
+
+Mr. Benjamin Gerald Marcel Meunier
+
+University Dean of Students
+
+Prof. Ko Wing Hung 高永雄
+
+President of the University Students Union vacant
+
+One student of each Faculty of the University elected by, and from among, full-time students in that Faculty pursuing approved courses of study for a degree of the University vacant
+
+One student representing the Students Union of each College of the University elected by, and from among, full-time students pursuing approved courses of study for a degree of the University who are members of that Students Union*
+
+Miss Li Wing Lam 李穎琳
+
+(Chung Chi College) (until 28 February 2025)
+
+Mr. Chau Yeung Hoi 周楊凱
+
+(New Asia College) (until 28 February 2025)
+
+Mr. Tam Wing Cheong 譚永昌
+
+(United College) (until 28 February 2025)
+
+Miss Kwok Ka Po 郭嘉寶
+
+(Shaw College) (until 28 February 2025)
+
+*   In relation to the original Colleges and Shaw College
+
+## Senate Committees
+
+## Senate Committees
+
+The committees under the Senate are listed below:
+
+- •  Academic Planning Committee
+- •  Committee on Language Enhancement
+- •  Committee on General Education
+- •  Committee on Physical Education
+- •  Committee on Student Discipline
+- •  Staff-Student Consultative Committee
+- ·  Committee on Sub-degree, Professional and Continuing Education Programmes
+- •  Committee on Teaching and Learning
+- •  Committee on University Press
+- •  Committee on Undergraduate Admissions
+- •  Committee on University Scholarships
+- •  Undergraduate Examinations Board
+
+For the memberships of the above committees, please visit: www.cuhk.edu.hk/governance/committee/english/senate-committee.html
+
+P
+
+## Graduates Honoris Causa
+
+## Doctor of Laws (LLD)
+
+| Black, Sir Robert Brown                 |   1964 |
+|-----------------------------------------|--------|
+| Fulton, Sir John Scott                  |   1964 |
+| Kerr, Clark                             |   1964 |
+| Kwan, The Hon. Cho-yiu 關祖堯              |   1964 |
+| Lee, The Hon. Richard Charles 利銘澤       |   1964 |
+| Cox, Sir Christopher William Machell    |   1968 |
+| Fung, The Hon. Kenneth Ping-fan 馮秉芬     |   1968 |
+| Kan, The Hon. Yuet-keung 簡悅強            |   1968 |
+| Tang, The Hon. Ping-yuan 唐炳源            |   1968 |
+| Trench, Sir David Clive Crosbie         |   1968 |
+| Chern, Shiing-shen 陳省身                  |   1969 |
+| Crozier, Douglas James Smyth            |   1969 |
+| Robinson, Kenneth Ernest                |   1969 |
+| Wu, Chien-shiung 吳健雄                    |   1969 |
+| Gordon, Sidney Samuel                   |   1970 |
+| Lee, Tsung-dao 李政道                      |   1970 |
+| Li, Choh-hao 李卓皓                        |   1970 |
+| Pei, Ieoh-ming 貝聿銘                      |   1970 |
+| Philips, Cyril Henry                    |   1971 |
+| Lee, The Hon. Quo-wei 利國偉               |   1972 |
+| Lin, Tung-yen 林同棪                       |   1972 |
+| Lin, Chia-chiao 林家翹                     |   1973 |
+| Young-Herries, Michael Alexander Robert |   1973 |
+| Lee, Jung Sen 利榮森                       |   1974 |
+| Woo,The Hon. Pak Chuen 胡百全              |   1974 |
+| Yang, Ching-kun 楊慶堃                     |   1974 |
+| Yung, Chi Tung 容啟東                      |   1974 |
+| Aw, Sian 胡仙                             |   1975 |
+| Ho, Ping-ti 何炳棣                         |   1975 |
+| Lau, D.C. 劉殿爵                           |   1975 |
+
+| Ann, Tse-kai 安子介                           |   1976 |
+|--------------------------------------------|--------|
+| Li, Fang-kuei 李方桂                          |   1976 |
+| Yang, Lien-sheng 楊聯陞                       |   1976 |
+| Pao, Yue-kong 包玉剛                          |   1977 |
+| Yu, Ying-shih 余英時                          |   1977 |
+| Cheng, Bin 鄭斌                              |   1978 |
+| Li, Choh-ming 李卓敏                          |   1978 |
+| Moore, Charles Frankland                   |   1978 |
+| Szeto, The Hon. Wai 司徒惠                    |   1978 |
+| The Rt. Hon. Lord Todd of Trumpington      |   1982 |
+| Chung, The Hon. Sir Sze-yuen 鍾士元           |   1983 |
+| Haddon-Cave, The Hon. Sir Philip           |   1983 |
+| Dunn, The Hon. Lydia 鄧蓮如                   |   1984 |
+| Yang, The Hon. Justice T.L. 楊鐵樑            |   1984 |
+| Li, The Hon. Justice Simon Fook-sean 李福善   |   1986 |
+| Choa, G.H. 蔡永業                             |   1987 |
+| Ma, Lin 馬臨                                 |   1987 |
+| Akers-Jones, Sir David                     |   1988 |
+| Poon, The Hon. Peter Wing-cheung 潘永祥       |   1988 |
+| The Rt. Hon. Lord Butterfield of Stechford |   1989 |
+| Fang, Harry Sin-yang 方心讓                   |   1989 |
+| Tam, The Hon. Maria Wai-chu 譚惠珠            |   1989 |
+| Kung, James Z.M. 孔祥勉                       |   1990 |
+| Lee, Allen Peng-fei 李鵬飛                    |   1990 |
+| Li, Kwoh-ting 李國鼎                          |   1991 |
+| Tao, Edwin H.C. 陶學祁                        |   1991 |
+| Lam, Alice Kiu-yue 林李翹如                    |   1992 |
+| Wang, Wilson T.S. 王澤森                      |   1992 |
+| Cheung, Thomas Huen-cheong 張煊昌             |   1993 |
+| Lord Wilson of Tillyorn                    |   1995 |
+| Lee, Hon-chiu 利漢釗                          |   1996 |
+| Wong, The Hon. Rosanna Yick-ming 王䓪鳴       |   1996 |
+| Li, Ka-shing 李嘉誠                           |   1997 |
+| Tsang, The Hon. Donald Yam-kuen 曾蔭權        |   1999 |
+| Lee, Kuan Yew 李光耀                          |   2000 |
+| Chan, The Hon. Anson 陳方安生                  |   2001 |
+| Kwok, Raymond P.L. 郭炳聯                     |   2003 |
+| Li, Arthur K.C. 李國章                        |   2003 |
+| Neoh, Anthony Francis 梁定邦                  |   2003 |
+| King, Ambrose Yeo Chi 金耀基                  |   2005 |
+
+| Lien, Chan 連戰                     | 2005   |
+|-----------------------------------|--------|
+| Wang, Daohan 汪道涵                  | 2005   |
+| Fok, Henry Ying-tung 霍英東          | 2006   |
+| Li, Andrew Kwok-nang 李國能          | 2006   |
+| Tung, Chee Hwa 董建華                | 2007   |
+| Fung, Victor Kwok-king 馮國經        | 2008   |
+| Song, Jian 宋健                     | 2009   |
+| Tang, The Hon. Henry Ying-yen 唐英年 | 2009   |
+| Cheng, Edgar W.K. 鄭維健             | 2010   |
+| Levin, Richard Charles            | 2012   |
+| Hamilton, Andrew David            | 2013   |
+| Wong, The Hon. Yan-lung 黃仁龍       | 2013   |
+| Lau, Lawrence Juen-yee 劉遵義        | 2014   |
+| Reif, Leo Rafael                  | 2015   |
+| Ma, The Hon. Geoffrey Tao-li 馬道立  | 2016   |
+| Smith, Sir Steve Murray           | 2020   |
+| Hao, Ping 郝平                      | 2022   |
+| Sung, Joseph Jao-yiu 沈祖堯          | 2022   |
+| Block, Gene D.                    | 2024   |
+| Doctor of Literature (DLit)       |        |
+| Cheng, Tung-choy 鄭棟材              | 1979   |
+| Wong, Yung-chow 黃用諏               | 1979   |
+| Cheng, Te-k'un 鄭德坤                | 1981   |
+| Li, Fei-kan (Ba Jin) 李芾甘 （巴金）     | 1984   |
+| Watson, William                   | 1984   |
+| Wu, Qingyuan 吳清源                  | 1986   |
+| Lu, Shuxiang 呂叔湘                  | 1987   |
+| Yu, Zhen-fei 俞振飛                  | 1988   |
+| Ma, Yo-yo 馬友友                     | 1993   |
+| Zao, Wou-ki 趙無極                   | 1993   |
+| Spence, Jonathan D.               | 1995   |
+| Malmqvist, Nils Göran David       | 1998   |
+| Gao, Xingjian 高行健                 | 2001   |
+| Ji, Xianlin 季羨林                   | 2002   |
+| Jao, Tsung-i 饒宗頤                  | 2003   |
+| Yu, Kwang-chung 余光中               | 2003   |
+| Lao, Yungwei 勞榮瑋                  | 2004   |
+| Wu, Guanzhong 吳冠中                 | 2006   |
+
+| Hsu, Cho-yun 許倬雲                         | 2008   |
+|------------------------------------------|--------|
+| Pai, Kenneth Hsien-yung 白先勇              | 2009   |
+| Ju, Ming 朱銘                              | 2011   |
+| Yung, Bell 榮鴻曾                           | 2012   |
+| Mo, Yan 莫言                               | 2014   |
+| Wu, Weishan 吳為山                          | 2015   |
+| Au, Ho-nien 歐豪年                          | 2016   |
+| Chan, Shuk-leung 陳淑良 （ Pak Suet-sin 白雪仙） | 2017   |
+| Doctor of Science (DSc)                  |        |
+| Trethowan, William Henry                 | 1979   |
+| Yau, Shing-tung 丘成桐                      | 1980   |
+| Cullen, Alexander Lamb                   | 1981   |
+| Kan, Yuet-wai 簡悅威                        | 1981   |
+| Hua, Luogeng 華羅庚                         | 1982   |
+| Arnott, Sir William Melville             | 1983   |
+| Needham, Joseph                          | 1983   |
+| Chen, The Hon. S.L. 陳壽霖                  | 1985   |
+| Kao, Charles Kuen 高錕                     | 1985   |
+| Thrower, L.B.                            | 1985   |
+| Forrest, Sir Andrew Patrick McEwen       | 1986   |
+| Ting, Samuel Chao Chung 丁肇中              | 1987   |
+| Chu, Paul Ching-wu 朱經武                   | 1988   |
+| Zhao, Zhong-xian 趙忠賢                     | 1988   |
+| Lee, Yuan-tseh 李遠哲                       | 1989   |
+| Todd, David 達安輝                          | 1990   |
+| Zhou, Guangzhao 周光召                      | 1991   |
+| Tsui, Lap-chee 徐立之                       | 1992   |
+| Ash, Sir Eric                            | 1994   |
+| Tang, Au-chin 唐敖慶                        | 1994   |
+| Atiyah, Sir Michael                      | 1996   |
+| Wu, Jie-ping 吳階平                         | 1997   |
+| Yang, Chen-ning 楊振寧                      | 1997   |
+| Chu, Steven 朱棣文                          | 1998   |
+| Zhang, Cunhao 張存浩                        | 1998   |
+| Tsui, Daniel Chee 崔琦                     | 1999   |
+| Chen, Jia'er 陳佳洱                         | 2000   |
+| Yuan, Longping 袁隆平                       | 2001   |
+| Murad, Ferid                             | 2002   |
+
+| Lu, Yongxiang 路甬祥                | 2003   |
+|----------------------------------|--------|
+| Yang, Liwei 楊利偉                  | 2004   |
+| Roberts, Richard J.              | 2005   |
+| Chen, Shupeng 陳述彭                | 2006   |
+| Yao, Andrew Chi-chih 姚期智         | 2006   |
+| Ignarro, Louis J.                | 2008   |
+| Yang, Henry Tzu-yow 楊祖佑          | 2008   |
+| Tsien, Roger Y. 錢永健              | 2009   |
+| Xu, Guanhua 徐冠華                  | 2010   |
+| Marshall, Barry James            | 2013   |
+| Yang, Fujia 楊福家                  | 2013   |
+| Zhong, Nanshan 鍾南山               | 2013   |
+| Merton, Robert Cox               | 2014   |
+| Zhou, Ji 周濟                      | 2014   |
+| Bai, Chunli 白春禮                  | 2015   |
+| Yamanaka, Shinya 山中伸彌            | 2015   |
+| Schekman, Randy Wayne            | 2016   |
+| Warshel, Arieh                   | 2017   |
+| Zhou, Jianping 周建平               | 2017   |
+| Qiu, Yong 邱勇                     | 2018   |
+| Balasubramanian, Sir Shankar     | 2020   |
+| Bell, Sir John Irving            | 2020   |
+| Lodish, Harvey F.                | 2020   |
+| Marmot, Sir Michael G.           | 2022   |
+| Karikó, Katalin                  | 2023   |
+| Nurse, Paul M.                   | 2024   |
+| Pan, Jianwei 潘建偉                 | 2024   |
+| Doctor of Social Science (DSSc)  |        |
+| Ho, Sin-hang 何善衡                 | 1971   |
+| Bremridge, John Henry            | 1980   |
+| Li, The Hon. Fook-wo 李福和         | 1980   |
+| Shaw, Sir Run Run 邵逸夫            | 1981   |
+| Ho, Tim 何添                       | 1982   |
+| Hsing, Mo-huan 邢慕寰               | 1982   |
+| Tien, The Hon. Francis Y.H. 田元灝  | 1983   |
+| Li, Dak-sum 李達三                  | 1984   |
+| Lam, Ying-ho 林英豪                 | 1985   |
+| Tse, The Hon. Daniel Chi Wai 謝志偉 | 1986   |
+
+| Brown, W.C.L.                |   1987 |
+|------------------------------|--------|
+| Leung, Kau Kui 梁銶琚           |   1987 |
+| Lee, Esther Yewpick 利黃瑤璧     |   1988 |
+| Chang, Kwang-chih 張光直        |   1990 |
+| Chiang, Chen 蔣震              |   1991 |
+| Vogel, Ezra F.               |   1992 |
+| Cheng, Yu Tung 鄭裕彤           |   1993 |
+| Lee, Shau Kee 李兆基            |   1993 |
+| Shih, The Rev. Cheng-yen 釋證嚴 |   1993 |
+| Sin, David Wai-kin 冼為堅       |   1994 |
+| Woo, Peter Kwong Ching 吳光正   |   1994 |
+| Chen, Thomas Tseng-tao 陳曾燾   |   1995 |
+| Tang, Hsiang-chien 唐翔千       |   1995 |
+| Lee Rudgard, Deanna 利德蓉      |   1997 |
+| Chen, Din-hwa 陳廷驊            |   1998 |
+| Chow, Kwen-lim 周君廉           |   1998 |
+| Fong, Yun-wah 方潤華            |   1998 |
+| Fei, Xiaotong 費孝通            |   1999 |
+| Li Woo, Daisy Tse-ha 李胡紫霞    |   1999 |
+| Sen, Amartya Kumar           |   1999 |
+| Ikeda, Daisaku 池田大作          |   2000 |
+| Tin, Ka Ping 田家炳             |   2000 |
+| Hung, George Hon Cheung 熊翰章  |   2001 |
+| Wong, Eleanor 王培麗            |   2001 |
+| Lee, Lai Shan 李麗珊            |   2002 |
+| Lui, Che Woo 呂志和             |   2002 |
+| Selten, Reinhard             |   2003 |
+| Mirrlees, Sir James          |   2004 |
+| Mong, William M.W. 蒙民偉       |   2004 |
+| Cheng, Vincent Hoi Chuen 鄭海泉 |   2005 |
+| Li, Yihyuan 李亦園              |   2005 |
+| Ho, David Tzu-cho 何子焯        |   2006 |
+| Jorgenson, Dale W.           |   2007 |
+| Kwong, Kong Kit 鄺廣傑          |   2007 |
+| Yasumoto, Alex K. 康本健守       |   2007 |
+| Richard, Alison F.           |   2009 |
+| Wu, Michael Po-ko 伍步高        |   2009 |
+| Chan, Gerald L. 陳樂宗          |   2010 |
+| Mok, Hing-yiu 莫慶堯            |   2010 |
+| Ho, Tzu-leung 何子樑            |   2011 |
+
+| Lee, Woo-sing 李和聲                                    |   2011 |
+|------------------------------------------------------|--------|
+| Yu, Yue-hong 余宇康                                     |   2011 |
+| Deignan, Alfred Joseph                               |   2012 |
+| Chan, Ronnie Chichung 陳啟宗                            |   2013 |
+| Li, The Hon. Sir David Kwok-po 李國寶                   |   2013 |
+| Tu, The Hon. Elsie 杜葉錫恩                              |   2013 |
+| Yang Leung, Katie Yin-fong (Fong Yim Fun) 楊梁燕芳 （芳艷芬） |   2013 |
+| Chen, Vivien Wai Wai 陳慧慧                             |   2014 |
+| Koo, Joseph 顧嘉煇                                      |   2014 |
+| Wang, Shu 王澍                                         |   2014 |
+| Liu, Mingkang 劉明康                                    |   2015 |
+| Stiglitz, Joseph Eugene                              |   2016 |
+| Hsing Yun 星雲                                         |   2016 |
+| Lee, Chien 利乾                                        |   2017 |
+| Lee Yick, Hoi-lun Helen 利易海倫                         |   2017 |
+| Ip, Simon Sik-on 葉錫安                                 |   2018 |
+| Yam, The Hon. Joseph Chi-kwong 任志剛                   |   2018 |
+| Chen, Charles Yidan 陳一丹                              |   2020 |
+| Shen, Jinkang 沈金康                                    |   2020 |
+| Cordeiro, Reinaldo Maria 郭利民                         |   2022 |
+| Lee, Irene Yun-lien 利蘊蓮                              |   2022 |
+| Sachs, Jeffrey D.                                    |   2023 |
+| Chan, Norman Tak-lam 陳德霖                             |   2023 |
+| Leung, Norman Nai-pang 梁乃鵬                           |   2023 |
+| Nowotny, Helga                                       |   2023 |
+| Heckman, James J.                                    |   2024 |
+
+## Honorary Fellows
+
+| Cheng, Vincent Hoi-chuen 鄭海泉     |   2002 |
+|----------------------------------|--------|
+| Hobbs, Kenneth Edward Frederick  |   2002 |
+| Hu, Shiu-ying 胡秀英                |   2002 |
+| Lee, Shau-kee 李兆基                |   2002 |
+| Li, The Hon. Simon Fook-sean 李福善 |   2002 |
+| Liu, Richard Shang-chien 劉尚儉     |   2002 |
+| Chan, Norman Tak-lam 陳德霖         |   2003 |
+| Chen, Tien-chi 陳天機               |   2003 |
+| Cheung, Man-yee 張敏儀              |   2003 |
+| Lee, Chien 利乾                    |   2003 |
+| Lee, Fei 李棐                      |   2003 |
+| Li, The Hon. Eric Ka-cheung 李家祥  |   2003 |
+| Ma, Lin 馬臨                       |   2003 |
+| Shum, Choi-sang 岑才生              |   2003 |
+| Sung, Sheung-hong 宋常康            |   2003 |
+| Tam, Chung-ding 譚宗定              |   2003 |
+| Chan Wong, Shui Pamela 陳黃穗       |   2004 |
+| Chen, Thomas Tseng-tao 陳曾燾       |   2004 |
+| Lee, Dick Ming-kwai 李明逵          |   2004 |
+| Pang, Joseph Yuk-wing 彭玉榮        |   2004 |
+| Tarn, John Nelson                |   2004 |
+| Yung, Kung-hing 容拱興              |   2004 |
+| Cheung, Thomas Huen-cheong 張煊昌   |   2005 |
+| Chou, Vincent Wen-hsien 周文軒      |   2005 |
+| Lee, Kam-chung 李金鐘               |   2005 |
+| Lee, Woo-sing 李和聲                |   2005 |
+| Li, Fook-hing 李福慶                |   2005 |
+| Mong, David T.Y. 蒙德揚             |   2005 |
+| Mun, Kin-chok 閔建蜀                |   2005 |
+| Wang, Charles Cheung-tze 汪長智     |   2005 |
+| Yan, Lina Hau-yee 殷巧兒            |   2005 |
+| Chen, Fong-ching 陳方正             |   2006 |
+
+| Cheng, Paul Ming-fun 鄭明訓      |   2006 |
+|-------------------------------|--------|
+| Fok, Ian Chun-wan 霍震寰         |   2006 |
+| Ho, Man-sum 何萬森               |   2006 |
+| Ho, Tzu-leung 何子樑             |   2006 |
+| Hui, Stanley Hon-chung 許漢忠    |   2006 |
+| Lau, Sai-yung 劉世鏞             |   2006 |
+| Lee, Peter Ting-chang 利定昌     |   2006 |
+| Chapman, Nancy E.             |   2007 |
+| Fung, Tony Wing-cheung 馮永祥    |   2007 |
+| Heung, Shu-fai 香樹輝            |   2007 |
+| Ho, Hamilton Hau-hay 何厚浠      |   2007 |
+| Lee, Shiu 李韶                  |   2007 |
+| Lee, Tunney F. 李燦輝            |   2007 |
+| Liang, Thomas Cheung-biu 梁祥彪  |   2007 |
+| Mok, Sau-hing 莫秀馨             |   2007 |
+| Hui, Dennis Yiu-kwan 許耀君      |   2008 |
+| Leung, Ping-chung 梁秉中         |   2008 |
+| Watt, James C.Y. 屈志仁          |   2008 |
+| Yeung, Yue-man 楊汝萬            |   2008 |
+| Cheung, Man-kwong 張文光         |   2009 |
+| Chung, Leslie Wing-kok 鍾永珏    |   2009 |
+| Kuan, Hsin-chi 關信基            |   2009 |
+| Lee, Shiu-hung 李紹鴻            |   2009 |
+| Mok, Christopher Wah-chiu 莫華釗 |   2009 |
+| Lee, Rance Pui-leung 李沛良      |   2010 |
+| Leung, Charles Ying-wai 梁英偉   |   2010 |
+| Mak, Thomas Chung-wai 麥松威     |   2010 |
+| Sun, Samuel Sai-ming 辛世文      |   2010 |
+| Tam, Wah-ching 譚華正            |   2010 |
+| Wu, Weishan 吳為山               |   2010 |
+| Chan, Patrick Siu-oi 陳兆愷      |   2011 |
+| Cheng, Edwin Shing-lung 鄭承隆   |   2011 |
+| Chow, Chung-kong 周松崗          |   2011 |
+| Leung, Hung-kee 梁雄姬           |   2011 |
+| Liu, Yingli 劉應力               |   2011 |
+| Lo, Wai-luen 盧瑋鑾              |   2011 |
+| Tam, Sheung-wai 譚尚渭           |   2011 |
+| Tchou, Larry Ming-kong 朱民康    |   2011 |
+| Chang, Shu-ting 張樹庭           |   2012 |
+| Fung, Clement Sui-to 馮兆滔      |   2012 |
+
+| Jin, Serena Sheng-hwa 金聖華   |   2012 |
+|-----------------------------|--------|
+| Lee, Hon-ching 利漢楨          |   2012 |
+| Lo, Peter Tak-shing 羅德承     |   2012 |
+| Yeung, Ming-biu 楊明標         |   2012 |
+| Chan, Warren Chee-hoi 陳志海   |   2013 |
+| Chan, Sui-kau 陳瑞球           |   2013 |
+| Huen, Patrick Wing-ming 禤永明 |   2013 |
+| Lee, Kam-hon 李金漢            |   2013 |
+| Lee, Rebecca Lok-sze 李樂詩    |   2013 |
+| Leong, Edwin Siu-hung 梁紹鴻   |   2013 |
+| McConville, Mike            |   2013 |
+| Chan, Terence Chun-wing 陳鎮榮 |   2014 |
+| Chu, David En-yue 朱恩餘       |   2014 |
+| Koo, Ti-hua 顧鐵華             |   2014 |
+| Lam, Bill Wing-tak 林榮德      |   2014 |
+| Leung, Anita Fung-yee 梁鳳儀   |   2014 |
+| Wang, Chi 王冀                |   2014 |
+| Wong, Kwai-lam 黃桂林          |   2014 |
+| Choi, Park-lai 蔡伯勵          |   2015 |
+| Lau, Chor-tak 劉佐德           |   2015 |
+| Li, Walton Wai-tat 李維達      |   2015 |
+| Yau, William Ying-sum 游應森   |   2015 |
+| Yu, Yui-chiu 余銳超            |   2015 |
+| Chow, Therese Pei-fong 周佩芳  |   2016 |
+| Fan, Hamen Shi-hoo 范思浩      |   2016 |
+| Li, Donald Kwok-tung 李國棟    |   2016 |
+| Liu, Pak-wai 廖柏偉            |   2016 |
+| Nagahara, Akihiro 長原彰弘      |   2016 |
+| Chu, Peter Ka-lok 朱嘉樂       |   2017 |
+| Kao, Mayching 高美慶           |   2017 |
+| Kwok, Karl Chi-leung 郭志樑    |   2017 |
+| Li, Kenneth Benjamin 李本俊    |   2017 |
+| Wong, Michael Yick-kam 黃奕鑑  |   2017 |
+| Young, Kenneth 楊綱凱          |   2017 |
+| Chan, Chi-sun 陳志新           |   2018 |
+| Hui, Ming 許銘                |   2018 |
+| Law, Kwok-hung 羅國雄          |   2018 |
+| Siu, Wing-tai 蕭永泰           |   2018 |
+| Tan, Siu-lin 陳守仁            |   2018 |
+| Lam, Colin Ko-yin 林高演       |   2019 |
+
+| Lee, Charlie Chun-kee 李俊駒    |   2019 |
+|------------------------------|--------|
+| Lee, William Tak-lun 李德麟     |   2019 |
+| Wong, Denny Man-yin 王文彥      |   2019 |
+| Chan, Raymond Wai-man 陳偉文    |   2021 |
+| Cheung, Karen Tih-loh 張添珞    |   2021 |
+| Hung, Peter Hak-hip 洪克協      |   2021 |
+| Ng, Yuet-lau 伍月柳             |   2021 |
+| Cheng, Arthur Chuen-hon 鄭傳漢  |   2022 |
+| Lam, Enders Wai-hung 林偉雄     |   2022 |
+| Li, Aubrey Kwok-sing 李國星     |   2022 |
+| Wong, Henry Nai-ching 黃乃正    |   2022 |
+| Yu, Chui-yee 余翠怡             |   2022 |
+| Chai, Sunny Ngai-chiu 查毅超    |   2023 |
+| Cheng, Jack Chun-yiu 鄭振耀     |   2023 |
+| Cheng, Stewart Kam-chiu 鄭錦超  |   2023 |
+| Cheung, Joseph Wang-ngai 張宏毅 |   2023 |
+| Choi, Janice 蔡關頴琴            |   2023 |
+| Kitamura, Takanori 北村隆則      |   2023 |
+| Fok, Tai-fai 霍泰輝             |   2024 |
+| Hui, Michael King-man 許敬文    |   2024 |
+| Kwok, Barbara Pik-lin 郭碧蓮    |   2024 |
+| Lee, Simon Kwok-chung 李國忠    |   2024 |
+| Lee, Harry Nai-shee 李乃熺      |   2024 |
+| Leung, Yuen-sang 梁元生         |   2024 |
+| Luk, Roger Koon-hoo 陸觀豪      |   2024 |
+
+Part 3
+
+Fees
+
+<!-- image -->
+
+## Fees
+
+(for the academic year 2024-2025)
+
+## Fees for Various Programmes
+
+## Undergraduate Programmes n
+
+## Tuition fees
+
+| (per annum)                                                                                                                                                 | HK$      |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| Full-time local students...........................................................................................                                         | 42,100   |
+| Full-time non-local students 2013-14 to 2016-17 intakes...............................................................................                      | 120,000  |
+| 2017-18 intake and beyond..............................................................................                                                     | 145,000  |
+| Double degree programmes/ Double degree options Local students                                                                                              |          |
+| (First of double degree).................................................................................                                                   | 42,100   |
+| 2013-14 to 2016-17 intakes ....................................................................                                                             | 120,000  |
+| 2017-18 intake and beyond....................................................................                                                               | 145,000  |
+| Non-local students                                                                                                                                          |          |
+| 2013-14 to 2016-17 intakes ....................................................................                                                             | 120,000  |
+| 2017-18 intake and beyond....................................................................                                                               | 145,000  |
+| (Second of double degree) 2013-14                                                                                                                           | 120,000  |
+| 2017-18 intake and beyond....................................................................                                                               | 145,000  |
+| Collaborative Dual Degree Programmes Local students........................................................................................................ | 42,100   |
+| Non-local students 1 ...................................................................... Programme                                                       | Specific |
+| Local and non-local associate students (Not applicable to the Divinity School of Chung Chi College)                                                         |          |
+| < 9 units in a term (per unit)........................................................................                                                      | 4,700    |
+| ≥ 9 units in a term (per term)......................................................................                                                        | 72,500   |
+
+1 Non-local students admitted to Collaborative Dual Degree Programme (CDDP) by CUHK after their first year of studies will be billed for the tuition fees difference between the normal rate (HK$145,000 per annum) and the rate of CDDP for the year(s) before their admission to the CDDP.
+
+| Students beyond normative study period                                                                 |                                                              |
+|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Full-time programmes                                                                                   |                                                              |
+| < 9 units in a term                                                                                    |                                                              |
+| (1 Degree, 1 Major)                                                                                    |                                                              |
+| Local students                                                                                         |                                                              |
+| Not yet completed First Degree (per unit) ............................                                 | 1,400                                                        |
+| Already completed First Degree (per unit) ...........................                                  | 4,700                                                        |
+| Non-local students (per unit)...........................................................               | 4,700                                                        |
+| (1 Degree, Double Major Options)                                                                       |                                                              |
+| Local students                                                                                         |                                                              |
+| Not yet completed First Major                                                                          |                                                              |
+| Course(s) of unfulfilled First Major (per unit) ...................                                    | 1,400                                                        |
+| Other course(s) (per unit)..........................................................                   | 4,700                                                        |
+| Already completed First Major (per unit)...............................                                | 4,700                                                        |
+| Non-local students (per unit)...........................................................               | 4,700                                                        |
+| (Specially Curated Double Major Programmes and Collaborative                                           | (Specially Curated Double Major Programmes and Collaborative |
+| Double Major Programmes)                                                                               |                                                              |
+| Local students                                                                                         |                                                              |
+| Not yet completed the graduation requirements                                                          |                                                              |
+| Course(s) of unfulfilled graduation requirements                                                       |                                                              |
+| (per unit) ........................................................................................... | 1,400                                                        |
+| Other course(s) (per unit) .........................................................                   | 4,700                                                        |
+| Already completed the graduation requirements (per unit)                                               |                                                              |
+| ................................................................................................       | 4,700                                                        |
+| Non-local students (per unit)...........................................................               | 4,700                                                        |
+| (2 Degrees)                                                                                            |                                                              |
+| Local students (per unit).....................................................................         | 4,700                                                        |
+| Non-local students (per unit)...........................................................               | 4,700                                                        |
+| (Collaborative Dual Degree Programmes)                                                                 |                                                              |
+| Local students (per unit).....................................................................         | 1,400                                                        |
+| Non-local students........................................................ Programme                   | Specific                                                     |
+| ≥ 9 units in a term                                                                                    |                                                              |
+| (1 Degree, 1 Major)                                                                                    |                                                              |
+| Local students                                                                                         |                                                              |
+| Not yet completed First Degree (per term) ..........................                                   | 21,050                                                       |
+| Already completed First Degree (per term)..........................                                    | 72,500                                                       |
+| Non-local students (per term).........................................................                 | 72,500                                                       |
+| (1 Degree, Double Major Options)                                                                       |                                                              |
+| Local students                                                                                         |                                                              |
+| Not yet completed First Major                                                                          |                                                              |
+| Course(s) of unfulfilled First Major (per unit) ...................                                    | 1,400                                                        |
+| Other course(s) (per unit)..........................................................                   | 4,700                                                        |
+| (Max. 72,500 per term)                                                                                 | (Max. 72,500 per term)                                       |
+| Already completed First Major (per term).............................                                  | 72,500                                                       |
+
+Non-local students
+
+Not yet completed First Major (per unit) ............................  ...
+
+4,700
+
+(Max. 72,500 per term)
+
+Already completed First Major (per term) ........................ ....
+
+72,500
+
+(Specially Curated Double Major Programmes and Collaborative
+
+Double Major Programmes)
+
+Local students
+
+Not yet completed the graduation requirements
+
+(per term)  ...............................................................................................
+
+21,050
+
+Already completed the graduation requirements
+
+(per term)  ...............................................................................................
+
+72,500
+
+Non-local students ...............................................................................
+
+72,500
+
+(2 Degrees)
+
+Local students (per term)  ...................................................................
+
+72,500
+
+Non-local students (per term) .........................................................
+
+72,500
+
+(Collaborative Dual Degree Programmes)
+
+Local students (per term)  ...................................................................
+
+21,050
+
+Non-local students  ........................................................
+
+Programme Specific
+
+## Application fees
+
+Full-time students (Non-JUPAS)
+
+Paper-form application ......................................................................................
+
+Online application  .................................................................................................
+
+Associate students ...................................................................................................
+
+## Other fees 2
+
+Fee for retention of place (per term)
+
+Full-time Programmes with two terms  .......................................................
+
+Caution money 3   ..........................................................................................................
+
+Graduation fee 3   ...........................................................................................................
+
+College Graduating Class Activities Fee  ........................................................
+
+Transcript/Letter of Certification fee (per copy) ..........................................
+
+Fee for certifying degree certificate/diploma (per copy)  ........................
+
+450
+
+450
+
+450
+
+300
+
+450
+
+450
+
+380
+
+50
+
+50
+
+Certificate of Graduation (per copy) .................................................................
+
+50
+
+2 Students admitted by the partner universities under the Collaborative Dual Degree Programmes will pay tuition fee to their home universities. However, they may need to pay other applicable fees to CUHK, including caution money which will be converted into graduation fee eventually.
+
+3 Caution money shall be payable as a deposit to make good any outstanding debts to the University incurred in, for example, damages to University property. This sum less any deductions made for outstanding debts shall be refunded on discontinuation or withdrawal of studies at the University. For graduating students, caution money shall be converted into graduation fee, which shall be payable by all students on completion of their studies.
+
+| Report on curriculum details / Report on teaching timetable details (per application) First copy...................................................................................................................                 | 150       |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| Each subsequent copy......................................................................................                                                                                                                          | 50        |
+| Fine for fee payment in arrears ...........................................................................                                                                                                                         | 200       |
+| Fee for replacement of CU Link Card (each card).....................................                                                                                                                                                | 130       |
+| Fee for application for course and unit exemption....................................                                                                                                                                               | 160       |
+| Fee for reinstatement of studentship...............................................................                                                                                                                                 | 430       |
+| Fee for replacement of degree certificate (per copy)...............................                                                                                                                                                 | 800       |
+| Experiential Learning Activities ('ELA') Reports (extra copy) University ELA Report (per copy) ..................................................................                                                                   | 25        |
+| Student ELA Report (per copy) ......................................................................                                                                                                                                | 25        |
+| Delivery of degree certificate/transcript/letter of certification and other official documents (SpeedPost) Hong Kong............................................................................................................... | 65        |
+| Other areas Mainland and other Asian countries/regions.....................................                                                                                                                                         | 200       |
+| Other countries.................................................................................................                                                                                                                    | 300       |
+| n Postgraduate Programmes                                                                                                                                                                                                           |           |
+| Tuition fees                                                                                                                                                                                                                        |           |
+| (per annum)                                                                                                                                                                                                                         | HK$       |
+| Full-time students admitted to UGC-funded research and taught programmes                                                                                                                                                            |           |
+| Local students........................................................................................................                                                                                                              | 42,100    |
+| Non-local students                                                                                                                                                                                                                  |           |
+| Research programmes..................................................................................                                                                                                                               | 42,100    |
+| Taught programmes.......................................................................................                                                                                                                            | 145,000   |
+| Joint PhD training programme Without Funding Support from Partner Institution...............................                                                                                                                        | 42,100    |
+| With Funding Support from Partner Institution......................................                                                                                                                                                 | 84,200    |
+| Part-time research postgraduate programmes..........................................                                                                                                                                                | 42,100    |
+| Full-time Postgraduate Diploma in Education Programme Local students........................................................................................................                                                        | 42,100    |
+| Non-local students ..............................................................................................                                                                                                                   | 145,000   |
+| Part-time Postgraduate Diploma in Education Programme                                                                                                                                                                               |           |
+| Local students........................................................................................................                                                                                                              | 21,050    |
+| Non-local students ..............................................................................................                                                                                                                   | 72,500    |
+| (per programme)                                                                                                                                                                                                                     | HK$       |
+| Doctor of Business Administration (Chinese) Programme                                                                                                                                                                               |           |
+| Part-time....................................................................................................................                                                                                                       | 1,800,000 |
+
+| Doctor of Business Administration (Chinese) Programme- Greater Bay Area (GBA) Class Part-time....................................................................................................................                                                                              | 1,800,000                                                                                                                                                                                         |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Doctor of Education Programme Full-time.....................................................................................................................                                                                                                                                   | 335,700                                                                                                                                                                                           |
+| Part-time....................................................................................................................                                                                                                                                                                  | 319,600                                                                                                                                                                                           |
+| Doctor of Nursing Part-time....................................................................................................................                                                                                                                                                | 310,000                                                                                                                                                                                           |
+| Doctor of Psychology Programme in Clinical Psychology Part-time....................................................................................................................                                                                                                            | 319,020                                                                                                                                                                                           |
+| Doctor of Social Science Programme in Applied Social Science Full-time/Part-time...............................................................................................                                                                                                                | 360,000                                                                                                                                                                                           |
+| Dual Degree Programme-MSc in Applied Economics (CUHK) and MS in Social and Economic Policy (Northwestern University) Full-time.....................................................................................................................                                            | 465,000                                                                                                                                                                                           |
+| Dual LLB-JD Degree Programme-LLB (King's College London) and JD (CUHK) JD Component Full-time................................................................................................................                                                                                  | 380,760                                                                                                                                                                                           |
+| Executive Master of Professional Accountancy Programme [Shanghai] Part-time.......................................................................................................... RMB 368,000                                                                                              | Executive Master of Professional Accountancy Programme [Shanghai] Part-time.......................................................................................................... RMB 368,000 |
+| Executive MBA(Chinese) Programme Part-time....................................................................................................................                                                                                                                                 | 760,000                                                                                                                                                                                           |
+| Executive MBAProgramme Part-time....................................................................................................................                                                                                                                                           | 720,000                                                                                                                                                                                           |
+| JD Programme Full-time/Part-time...............................................................................................                                                                                                                                                                | 480,960                                                                                                                                                                                           |
+| BBA-JD Double Degree Programme JD Component Full-time................................................................................................................                                                                                                                          | 240,480                                                                                                                                                                                           |
+| JD/MBA Double Degree Programme MBAComponent Full-time................................................................................................................ Part-time............................................................................................................... | 462,650                                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                                                                | 344,660                                                                                                                                                                                           |
+| JD Component Full-time/Part-time..........................................................................................                                                                                                                                                                     | 400,800                                                                                                                                                                                           |
+| LLM Programme in Chinese Business Law Full-time/Part-time...............................................................................................                                                                                                                                       | 160,320                                                                                                                                                                                           |
+| LLM Programme in Common Law Full-time/Part-time...............................................................................................                                                                                                                                                 | 160,320                                                                                                                                                                                           |
+| LLM Programme in Energy and Environmental Law Full-time/Part-time...............................................................................................                                                                                                                               | 160,320                                                                                                                                                                                           |
+
+| LLM Programme in International Economic Law Full-time/Part-time...............................................................................................                             | 160,320   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| LLM Programme in Legal History Full-time/Part-time...............................................................................................                                          | 160,320   |
+| MAProgramme in Anthropology Full-time/Part-time...............................................................................................                                             | 145,500   |
+| MAProgramme in Buddhist Studies Full-time/Part-time...............................................................................................                                         | 120,800   |
+| MAProgramme in Chinese Language and Literature Part-time....................................................................................................................               | 120,000   |
+| MAProgramme in Chinese Language Education Part-time....................................................................................................................                    | 123,000   |
+| MAProgramme in Chinese Linguistics and Language Acquisition Full-time..................................................................................................................... | 167,400   |
+| MAProgramme in Chinese Studies Full-time.....................................................................................................................                              | 155,000   |
+| MAProgramme in Christian Studies Full-time/Part-time...............................................................................................                                        | 118,000   |
+| MAProgramme in Comparative and Public History Full-time/Part-time...............................................................................................                           | 150,000   |
+| MAProgramme in Cultural Management Full-time/Part-time...............................................................................................                                      | 135,000   |
+| MAProgramme in Early Childhood Education Full-time.....................................................................................................................                    | 129,000   |
+| Part-time....................................................................................................................                                                              | 123,000   |
+| MAProgramme in English (Applied English Linguistics) Full-time/Part-time...............................................................................................                    | 120,000   |
+| MAProgramme in English (Literary Studies) Full-time/Part-time...............................................................................................                               | 120,000   |
+| MAProgramme in English Language Teaching Part-time....................................................................................................................                     | 123,000   |
+| MAProgramme in Family Counselling and Family Education Part-time....................................................................................................................       | 164,000   |
+| MAProgramme in Fine Arts Part-time....................................................................................................................                                     | 133,000   |
+| MAProgramme in Gender Studies Full-time/Part-time...............................................................................................                                           | 156,900   |
+| MAProgramme in Global Communication Full-time.....................................................................................................................                         | 165,000   |
+
+| MAProgramme in Intercultural Studies Full-time/Part-time...............................................................................................                                       | 135,000   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| MAProgramme in Japanese Studies                                                                                                                                                               |           |
+| Full-time.....................................................................................................................                                                                | 121,000   |
+| Part-time....................................................................................................................                                                                 | 121,000   |
+| MAProgramme in Journalism Full-time.....................................................................................................................                                      | 162,000   |
+| Part-time....................................................................................................................                                                                 | 120,000   |
+| MAProgramme in Linguistics Full-time/Part-time...............................................................................................                                                 | 167,400   |
+| MAProgramme in Music Full-time/Part-time...............................................................................................                                                       | 128,000   |
+| MAProgramme in Philosophy Part-time....................................................................................................................                                       | 116,000   |
+| MAProgramme in Psychology Full-time.....................................................................................................................                                      | 148,650   |
+| Part-time....................................................................................................................                                                                 | 167,200   |
+| MAProgramme in Religious Studies Full-time/Part-time...............................................................................................                                           | 118,000   |
+| MAProgramme in School Guidance and Counselling Part-time....................................................................................................................                  | 143,500   |
+| MAProgramme in School Improvement and Leadership Part-time....................................................................................................................                | 123,000   |
+| MAProgramme in Social Policy Full-time.....................................................................................................................                                   | 179,000   |
+| MAProgramme in Social Service Management Full-time.....................................................................................................................                       | 179,000   |
+| MAProgramme in Sociology Full-time/Part-time...............................................................................................                                                   | 165,000   |
+| MAProgramme in Translation Full-time/Part-time...............................................................................................                                                 | 148,000   |
+| MAProgramme in Teaching English to Speakers of Other Languages Full-time..................................................................................................................... | 129,000   |
+| Part-time....................................................................................................................                                                                 | 123,000   |
+| Master of Accountancy Programme Full-time.....................................................................................................................                                | 390,000   |
+| Part-time....................................................................................................................                                                                 | 300,000   |
+| Master of Architecture Programme Full-time.....................................................................................................................                               | 380,000   |
+
+| Master of Chinese Medicine Programme Full-time.....................................................................................................................                                    | 708,216   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| Master of Clinical Pharmacy Programme Part-time....................................................................................................................                                    | 152,000   |
+| Master of Divinity Programme Full-time.....................................................................................................................                                            | 126,300   |
+| Master of Education Programme Full-time.....................................................................................................................                                           | 165,000   |
+| Part-time....................................................................................................................                                                                          | 159,000   |
+| Master of Nursing Programme Part-time....................................................................................................................                                              | 132,600   |
+| Master of Nursing Science (Pre-registration) Programme Full-time.....................................................................................................................                  | 435,000   |
+| Master of Public Health Programme Full-time/Part-time...............................................................................................                                                   | 198,000   |
+| Master of Social Work Programme Full-time.....................................................................................................................                                         | 179,000   |
+| Part-time....................................................................................................................                                                                          | 159,000   |
+| MBAProgramme Full-time.....................................................................................................................                                                            | 605,000   |
+| Part-time....................................................................................................................                                                                          | 470,000   |
+| MBAProgramme in Finance Part-time....................................................................................................................                                                  | 555,000   |
+| MSc Programme in Accreditation Chemistry Full-time/Part-time...............................................................................................                                            | 143,000   |
+| MSc Programme in Actuarial Science and Insurance Analytics Full-time.....................................................................................................................              | 330,000   |
+| MSc Programme in Advanced Studies in Statistics and Data Science Full-time/Part-time...............................................................................................                    | 198,000   |
+| MSc Programme in Biochemical and Biomedical Sciences Full-time/Part-time...............................................................................................                                | 150,000   |
+| MSc Programme in Biomedical Engineering Full-time/Part-time...............................................................................................                                             | 198,000   |
+| MSc Programme in Business Analytics Full-time.....................................................................................................................                                     | 340,000   |
+| MSc Programme in Cardiology (Advanced Cardiology Practice Concentration) Part-time.................................................................................................................... | 221,953   |
+| MSc Programme in Cardiology (Essential Cardiology Concentration) Part-time....................................................................................................................         | 158,538   |
+
+| MSc Programme in Chinese Medicine Part-time....................................................................................................................                                         | 174,000   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| MSc Programme in Computer Science Full-time.....................................................................................................................                                        | 264,000   |
+| Part-time....................................................................................................................                                                                           | 228,800   |
+| MSc Programme in Data Science and Business Statistics Part-time....................................................................................................................                     | 171,600   |
+| MSc Programme in E-Commerce and Logistics Technologies Full-time/Part-time...............................................................................................                               | 200,000   |
+| MSc Programme in Economics Full-time.....................................................................................................................                                               | 298,000   |
+| MSc Programme in Electronic Engineering Full-time/Part-time...............................................................................................                                              | 174,960   |
+| MSc Programme in Environmental Information, Health and Public Management Full-time..................................................................................................................... | 159,600   |
+| Part-time....................................................................................................................                                                                           | 162,400   |
+| MSc Programme in Epidemiology and Biostatistics Full-time/Part-time...............................................................................................                                      | 198,000   |
+| MSc Programme in Finance Full-time.....................................................................................................................                                                 | 420,000   |
+| Part-time....................................................................................................................                                                                           | 350,000   |
+| MSc Programme in Financial Technology Full-time/Part-time...............................................................................................                                                | 340,000   |
+| MSc Programme in Gastroenterology Full-time/Part-time...............................................................................................                                                    | 158,000   |
+| MSc Programme in Genomics and Bioinformatics Full-time/Part-time...............................................................................................                                         | 139,200   |
+| MSc Programme in GeoInformation Science and Smart Cities Full-time/Part-time...............................................................................................                             | 155,000   |
+| MSc Programme in Health Services Management Part-time....................................................................................................................                               | 198,000   |
+| MSc Programme in Information and Technology Management Part-time....................................................................................................................                    | 190,000   |
+| MSc Programme in Information Science and Technology Management Full-time.....................................................................................................................           | 290,000   |
+| MSc Programme in Information Engineering Full-time/Part-time...............................................................................................                                             | 220,500   |
+| MSc Programme in Management Full-time.....................................................................................................................                                              | 365,000   |
+
+| MSc Programme in Sustainable Global Business Full-time.....................................................................................................................                                                                                                             | 270,000 200,000   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| Part-time.................................................................................................................... MSc Programme in Medical Laboratory Sciences                                                                                                              |                   |
+| Part-time....................................................................................................................                                                                                                                                                           | 143,000           |
+| MSc Programme in Marketing Full-time.....................................................................................................................                                                                                                                               | 320,000           |
+| MSc Programme in Mathematics Full-time/Part-time...............................................................................................                                                                                                                                         | 135,000           |
+| MSc Programme in Mathematics Education Part-time....................................................................................................................                                                                                                                    | 123,000           |
+| MSc Programme in Maternal Fetal Medicine Part-time....................................................................................................................                                                                                                                  | 178,000           |
+| MSc Programme in Mechanical and Automation Engineering Full-time/Part-time...............................................................................................                                                                                                               | 186,480           |
+| MSc Programme in Medical Genetics Part-time....................................................................................................................                                                                                                                         | 168,000           |
+| MSc Programme in Musculoskeletal Medicine, Rehabilitation and Geriatric Orthopaedics Full-time/Part-time...............................................................................................                                                                                 | 180,000           |
+| MSc Programme in New Media Full-time..................................................................................................................... Part-time.................................................................................................................... | 165,000 126,000   |
+| MSc Programme in Nutrition, Food Science and Technology Full-time/Part-time...............................................................................................                                                                                                              | 150,000           |
+| MSc Programme in Obstetric and Midwifery Care Part-time....................................................................................................................                                                                                                             | 149,000           |
+| MSc Programme in Physics Full-time/Part-time...............................................................................................                                                                                                                                             | 120,000           |
+| MSc Programme in Prehospital and Emergency Care Part-time....................................................................................................................                                                                                                           | 170,000           |
+| MSc Programme in Real Estate Full-time.....................................................................................................................                                                                                                                             | 260,000           |
+| MSc Programme in Reproductive Medicine and Clinical Embryology Part-time....................................................................................................................                                                                                            | 165,000           |
+| MSc Programme in Research Medicine Full-time.....................................................................................................................                                                                                                                       | 115,992           |
+| MSc Programme in Risk Management Science and Data Analytics Full-time.....................................................................................................................                                                                                              | 178,000           |
+| MSc Programme in Speech-Language Pathology Full-time.....................................................................................................................                                                                                                               | 490,000           |
+
+| MSc Programme in Sports Medicine and Health Science Full-time/Part-time...............................................................................................               | 193,000   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| MSc Programme in Sports Science and Physical Activity Full-time..................................................................................................................... | 160,000   |
+| Part-time....................................................................................................................                                                        | 140,000   |
+| MSc Programme in Stroke and Clinical Neurosciences Part-time....................................................................................................................     | 160,000   |
+| MSc Programme in Systems Engineering and Engineering Management Full-time/Part-time...............................................................................................   | 200,000   |
+| MSc Programme in Urban Design Full-time.....................................................................................................................                         | 220,000   |
+| MSSc Programme in Advertising Full-time.....................................................................................................................                         | 162,000   |
+| Part-time....................................................................................................................                                                        | 120,000   |
+| MSSc Programme in Corporate Communication Full-time.....................................................................................................................             | 165,000   |
+| Part-time....................................................................................................................                                                        | 126,000   |
+| MSSc Programme in Global Political Economy Full-time/Part-time...............................................................................................                        | 170,000   |
+| MSSc Programme in Government and Politics (Greater China) Full-time/Part-time...............................................................................................         | 170,000   |
+| MSSc Programme in Public Policy Full-time/Part-time...............................................................................................                                   | 170,000   |
+| MSSc Programme in Social Work Full-time.....................................................................................................................                         | 302,500   |
+| Part-time....................................................................................................................                                                        | 282,000   |
+| MSSc Programme in Sustainable Tourism Full-time/Part-time...............................................................................................                             | 155,000   |
+| PGD Programme in Epidemiology and Biostatistics Part-time....................................................................................................................        | 99,000    |
+| PGD Programme in Financial Technology Full-time/Part-time...............................................................................................                             | 170,000   |
+| PGD Programme in Prehospital and Emergency Care Part-time....................................................................................................................        | 85,000    |
+| PGD Programme in Public Health Part-time....................................................................................................................                         | 88,000    |
+| Postgraduate Certificate Programme in Laws Full-time.....................................................................................................................            | 219,580   |
+
+Associate students 4  (per annum)
+
+Continuing students 4  (per term)
+
+| Application fee 5 ....................................................................................................                                                                                                                                                                               | 300      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| Other fees                                                                                                                                                                                                                                                                                           |          |
+| Fee for retention of place (per term)                                                                                                                                                                                                                                                                |          |
+| Programme with four terms.............................................................................                                                                                                                                                                                               | 150      |
+| Programme with three terms..........................................................................                                                                                                                                                                                                 | 200      |
+| Other programmes...............................................................................................                                                                                                                                                                                      | 300      |
+| Continuation fee (per term)                                                                                                                                                                                                                                                                          |          |
+| UGC-funded programmes 6 No course taken.............................(Approx.1/8                                                                                                                                                                                                                      |          |
+| Any course taken 7 .......................................... (1/2 of current annual tuition Self-financed programmes...............(Determined by respective programmes) Caution money 8 .......................................................................................................... | fee) 450 |
+| Graduation fee 8 ...........................................................................................................                                                                                                                                                                         | 450      |
+| Transcript/Letter of Certification fee (per copy)..........................................                                                                                                                                                                                                          | 50       |
+| Fee for certifying graduate certificate/diploma (per copy)....................                                                                                                                                                                                                                       | 50       |
+| Certificate of Graduation (per copy) .................................................................                                                                                                                                                                                               | 50       |
+| Report on curriculum details / Report on teaching timetable details (per application)                                                                                                                                                                                                                |          |
+| First copy...................................................................................................................                                                                                                                                                                        | 150      |
+| Each subsequent copy......................................................................................                                                                                                                                                                                           | 50       |
+| Fine for fee payment in arrears ...........................................................................                                                                                                                                                                                          | 200      |
+| Fee for replacement of CU Link Card (each card).....................................                                                                                                                                                                                                                 | 130      |
+| Fee for application for course and unit exemption....................................                                                                                                                                                                                                                | 160      |
+| Fee for replacement of graduate certificate (per                                                                                                                                                                                                                                                     | 800      |
+| copy)...........................                                                                                                                                                                                                                                                                     |          |
+
+4 Follows the fees of respective programmes.
+
+5 Individual postgraduate programmes may charge different rates of application fee as approved by the University.
+
+6 The continuation fee is charged on a full-term basis for studies per term or part of a term.
+
+7 Students will be charged at 1/2 of current annual tuition fee if they take any course(s) without 'zero billing factor' (refer to the 'course attribute' under Course Catalog in the Chinese University Student Information System (CUSIS)). If they only take course(s) with 'zero billing factor', they will be charged at approximately 1/8 of current annual tuition fee.
+
+8 Caution money shall be payable as a deposit to make good any outstanding debts to the University incurred in, for example, damages to University property. This sum less any deductions made for outstanding debts shall be refunded on discontinuation of studies at the University. For graduating students, caution money shall be converted into graduation fee, which shall be payable by all students on completion of their study programmes.
+
+| Fees for postgraduate studies 1. Registration                                                                                                                                 | 42,100   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| 2. Thesis/Portfolio examination                                                                                                                                               |          |
+| Doctor of Science.......................................................................................                                                                      | 9,000    |
+| Doctor of Medicine.....................................................................................                                                                       | 5,000    |
+| Other doctoral programmes..................................................................                                                                                   | 2,400    |
+| Research master's programmes.........................................................                                                                                         | 2,000    |
+| 3. Re-submission of thesis in revised form (payable on submission of revised version                                                                                          |          |
+| Doctoral programmes..............................................................................                                                                             | 2,400    |
+| Research master's programmes.........................................................                                                                                         | 2,000    |
+| 4. Administrative fee for award of taught postgraduate degree to PhD students................................................................................................ | 8,000    |
+| 5. Visa handling fee for non-local postgraduate students................                                                                                                      | 450      |
+| Delivery of graduate certificate/transcript/letter of certification and other official documents (SpeedPost)                                                                  |          |
+| Hong Kong...............................................................................................................                                                      | 65       |
+| Other areas                                                                                                                                                                   |          |
+| Mainland and other Asian countries/regions.....................................                                                                                               | 200      |
+| Other countries.................................................................................................                                                              | 300      |
+
+## Yale-China Chinese Language Academy Courses n
+
+## Tuition fees
+
+HK$
+
+| Individual Short Courses (tailor-made for students with special needs)                                                                             | Individual Short Courses (tailor-made for students with special needs)   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| (per study hour)..............................................................................................                                     | 1,730 to 2,425                                                           |
+| Group Classes (per study hour)..............................................................................................                       | 185 to 295                                                               |
+| Full-time Course (per credit unit) ...............................................................................................                 | 2,045                                                                    |
+| Online non-award-bearing course (per course)...................................................................................................... | 2,655                                                                    |
+
+## International Asian Studies Programme n
+
+## Tuition fees
+
+HK$
+
+Programme fees for associate undergraduate students 9
+
+Academic year (two terms: September to May) ....................................
+
+145,000
+
+First or second term only ..................................................................................
+
+72,500
+
+Programme fees for associate postgraduate students 9
+
+Academic year (two terms: September to May) ....................................
+
+145,000
+
+First term or second term only .......................................................................
+
+72,500
+
+9 The programme fee covers tuition, basic medical care, transcript and approved Chinese language courses. But it does not cover fees for hostel accommodation and related expenses, students union membership, orientation programme and cultural activities.
+
+| Application fee ......................................................................................................   |   400 |
+|--------------------------------------------------------------------------------------------------------------------------|-------|
+| Extension application fee ................................................................................               |   400 |
+
+## Hostel Fees
+
+Students who have been allocated hostel places are required to pay the following hostel fees which normally cover a two-term (September to May) residence period. Except for Postgraduate Halls, hostel fees are payable in two instalments and are for lodging only.
+
+| Hostels                                                                                                                                            | HK$    |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| Chung Chi College hostels                                                                                                                          |        |
+| Single room..............................................................................................................                          | 21,118 |
+| Regular room...........................................................................................................                            | 16,244 |
+| Special room...........................................................................................................                            | 12,996 |
+| NewAsia College hostels                                                                                                                            |        |
+| Standard double and triple room..................................................................                                                  | 16,942 |
+| Converted triple room........................................................................................                                      | 11,300 |
+| United College hostels                                                                                                                             |        |
+| Single room..............................................................................................................                          | 21,476 |
+| Standard room (double/triple)........................................................................                                              | 16,522 |
+| Converted room (double/triple).....................................................................                                                | 11,563 |
+| Shaw College hostels                                                                                                                               |        |
+| Double room...........................................................................................................                             | 17,536 |
+| Triple room and Quadruple room..................................................................                                                   | 11,694 |
+| Morningside College hostels Double room........................................................................................................... | 19,894 |
+| S.H. Ho College hostels Double room...........................................................................................................     | 14,961 |
+| C.W. Chu College hostels                                                                                                                           |        |
+| Double room...........................................................................................................                             | 17,090 |
+| WuYee Sun College hostels Double room...........................................................................................................   | 16,056 |
+| Lee Woo Sing College hostels                                                                                                                       |        |
+| Double room...........................................................................................................                             | 16,502 |
+| Triple room................................................................................................................                        | 12,376 |
+| International House (For undergraduates)                                                                                                           |        |
+| Single room..............................................................................................................                          | 22,554 |
+| Double room and Triple room.........................................................................                                               | 17,088 |
+| Quadruple room....................................................................................................                                 | 11,012 |
+
+Madam S.H. Ho Hostel for Medical Students
+
+Double room ...........................................................................................................
+
+18,146
+
+Double room with bunk bed  ............................................................................
+
+15,422
+
+Jockey Club Postgraduate Halls 1 to 3 (per month)
+
+Single room  ..............................................................................................................
+
+3,900
+
+Shared room (two to three persons)  ............................................................
+
+2,580
+
+Postgraduate Halls 4 to 6 (per month)
+
+Single room  ......................................................................................................
+
+3,280-3,510
+
+Shared room (two persons) .....................................................................
+
+1,945-2,580
+
+## Cost of University Education
+
+In addition to the prescribed fees listed above, all full-time students are advised to set aside money for other items including meals, books, transport and other expenses.
+
+Part 4
+
+University Almanac
+
+<!-- image -->
+
+## Calendar 2024-2025
+
+## Teaching Terms
+
+## Full-time Undergraduate Programmes n
+
+## (Except MBChB Programme)
+
+First term
+
+2 September - 30 November 2024
+
+Second term
+
+6 January - 20 April 2024
+
+Summer session
+
+13 May - 29 June 2024
+
+## MBChB Programme (6-year curriculum)
+
+Year 1
+
+First term
+
+4 September - 2 December 2023
+
+Second term
+
+8 January - 20 April 2024
+
+Year 2
+
+First term
+
+4 September - 2 December 2023
+
+Second term
+
+8 January - 20 April 2024
+
+Year 3
+
+First term
+
+4 September - 2 December 2023
+
+Second term
+
+8 January - 14 June 2024
+
+Year 4
+
+Teaching period
+
+3 July 2023 - 13 May 2024
+
+Year 5
+
+Teaching period
+
+3 July 2023 - 26 April 2024
+
+Year 6
+
+Teaching period
+
+27 May 2023 - 28 June 2024
+
+## Postgraduate Programmes* n
+
+## Two-term Programmes
+
+First term
+
+4 September - 2 December 2023
+
+Second term
+
+8 January - 20 April 2024
+
+Summer term
+
+13 May - 28 June 2024
+
+## Three-term Programmes
+
+Type A
+
+First term
+
+4 September - 2 December 2023
+
+Second term
+
+8 January - 6 April 2024
+
+Third term
+
+8 April - 15 June 2024
+
+Summer term
+
+17 June - 27 July 2024
+
+Type B
+
+First term
+
+4 September - 2 December 2023
+
+Second term
+
+4 December 2023 - 2 March 2024
+
+Third term
+
+4 March - 15 June 2024
+
+Summer term
+
+17 June - 27 July 2024
+
+## Four-term Programmes
+
+First term
+
+4 September - 11 November 2023
+
+Second term
+
+13 November 2023 - 17 February 2024
+
+Third term
+
+19 February - 11 May 2024
+
+Fourth term
+
+13 May - 27 July 2024
+
+Some programmes may have different term dates. Please refer to the Graduate School homepage ( www.gs.cuhk.edu.hk ) for details
+
+*
+
+## Meetings, Events &amp; Holidays
+
+## 2 0 2 4
+
+| AUGUST   | AUGUST   | AUGUST   | AUGUST   | AUGUST   | AUGUST   | AUGUST   |
+|----------|----------|----------|----------|----------|----------|----------|
+| S        | M        | T        | W        | T        | F        | S        |
+|          |          |          |          | 1        | 2        | 3        |
+| 4        | 5        | 6        | 7        | 8        | 9        | 10       |
+| 11       | 12       | 13       | 14       | 15       | 16       | 17       |
+| 18       | 19       | 20       | 21       | 22       | 23       | 24       |
+| 25       | 26       | 27       | 28       | 29       | 30       | 31       |
+
+<!-- image -->
+
+| SEPTEMBER   |    |    |    |    |    |    |
+|-------------|----|----|----|----|----|----|
+| S           | M  | T  | W  | T  | F  | S  |
+| 1           | 2  | 3  | 4  | 5  | 6  | 7  |
+| 8           | 9  | 10 | 11 | 12 | 13 | 14 |
+| 15          | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22          | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29          | 30 |    |    |    |    |    |
+
+<!-- image -->
+
+| OCTOBER   | OCTOBER   | OCTOBER   | OCTOBER   | OCTOBER   | OCTOBER   | OCTOBER   |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| S         | M         | T         | W         | T         | F         | S         |
+|           |           | 1         | 2         | 3         | 4         | 5         |
+| 6         | 7         | 8         | 9         | 10        | 11        | 12        |
+| 13        | 14        | 15        | 16        | 17        | 18        | 19        |
+| 20        | 21        | 22        | 23        | 24        | 25        | 26        |
+| 27        | 28        | 29        | 30        | 31        |           |           |
+
+- 2 Inauguration Ceremony for Undergraduates
+- 18 Public holiday-The day following Chinese Mid-Autumn Festival
+- 20 Executive Committee of Graduate Council meeting
+- 25 Faculty Board of Law meeting
+- 27 Faculty Board of Engineering meeting
+- 1 National Day
+
+9
+
+- Faculty Board of Social Science meeting
+- 11 Chung Yeung Festival
+- 15 Faculty Board of Education meeting
+- 16 Senate meeting
+- 19 Orientation Day for Undergraduate Admissions
+- 24 Faculty Board of Arts meeting
+- 30 Faculty Board of Science meeting
+
+<!-- image -->
+
+| NOVEMBER   | NOVEMBER   | NOVEMBER   | NOVEMBER   | NOVEMBER   | NOVEMBER   | NOVEMBER   |
+|------------|------------|------------|------------|------------|------------|------------|
+| S          | M          | T          | W          | T          | F          | S          |
+|            |            |            |            |            | 1          | 2          |
+| 3          | 4          | 5          | 6          | 7          | 8          | 9          |
+| 10         | 11         | 12         | 13         | 14         | 15         | 16         |
+| 17         | 18         | 19         | 20         | 21         | 22         | 23         |
+| 24         | 25         | 26         | 27         | 28         | 29         | 30         |
+
+<!-- image -->
+
+## 2 0 2 5
+
+<!-- image -->
+
+| J ANUARY   | J ANUARY   | J ANUARY   | J ANUARY   | J ANUARY   | J ANUARY   | J ANUARY   |
+|------------|------------|------------|------------|------------|------------|------------|
+| S          | M          | T          | W          | T          | F          | S          |
+|            |            |            | 1          | 2          | 3          | 4          |
+| 5          | 6          | 7          | 8          | 9          | 10         | 11         |
+| 12         | 13         | 14         | 15         | 16         | 17         | 18         |
+| 19         | 20         | 21         | 22         | 23         | 24         | 25         |
+| 26         | 27         | 28         | 29         | 30         | 31         |            |
+
+- 14-16 94 th Congregation for Conferment of Degrees
+- 22 Graduate Council and its Executive Committee meeting
+- 23 Alumni Homecoming Day
+- 27 Faculty Board of Business Administration meeting
+- 4 Senate meeting
+- 10 Faculty Board of Education meeting
+- 25 Public holiday-Christmas Day
+- 26 Public holiday-The first weekday after Christmas Day
+- 1 Public holiday-The first weekday of January
+
+29-31 Public holiday-Lunar New Year
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+| APRIL   | APRIL   | APRIL   | APRIL   | APRIL   | APRIL   | APRIL   |
+|---------|---------|---------|---------|---------|---------|---------|
+| S       | M       | T       | W       | T       | F       | S       |
+|         |         | 1       | 2       | 3       | 4       | 5       |
+| 6       | 7       | 8       | 9       | 10      | 11      | 12      |
+| 13      | 14      | 15      | 16      | 17      | 18      | 19      |
+| 20      | 21      | 22      | 23      | 24      | 25      | 26      |
+| 27      | 28      | 29      | 30      |         |         |         |
+
+- 7 Faculty Board of Engineering meeting
+- 12 Faculty Board of Law meeting
+- 19 · Faculty Board of Business Administration meeting
+- • Faculty Board of Science meeting
+- • Faculty Board of Social Science meeting
+- 24 Faculty Board of Medicine meeting
+- 25 Faculty Board of Education meeting
+- 28 Executive Committee of Graduate Council meeting
+- 6 Undergraduate Examinations Board meeting
+- 26 Faculty Board of Business Administration meeting
+- 2 Faculty Board of Law meeting
+- 4 Public holiday-Ching Ming Festival
+- 9 Senate meeting
+- 11 Faculty Board of Engineering meeting
+
+16
+
+- Faculty Board of Social Science meeting
+- 18-21 Public holiday-Easter
+
+<!-- image -->
+
+<!-- image -->
+
+| J UNE   | J UNE   | J UNE   | J UNE   | J UNE   | J UNE   | J UNE   |
+|---------|---------|---------|---------|---------|---------|---------|
+| S       | M       | T       | W       | T       | F       | S       |
+| 1       | 2       | 3       | 4       | 5       | 6       | 7       |
+| 8       | 9       | 10      | 11      | 12      | 13      | 14      |
+| 15      | 16      | 17      | 18      | 19      | 20      | 21      |
+| 22      | 23      | 24      | 25      | 26      | 27      | 28      |
+| 29      | 30      |         |         |         |         |         |
+
+<!-- image -->
+
+- 1 Public holiday-Labour Day
+- 5 Public holiday-The Birthday of the Buddha
+- 8 Faculty Board of Arts meeting
+- 23 Executive Committee of Graduate Council meeting
+- 28 Faculty Board of Science meeting
+- 31 Public holiday-Tuen Ng Festival
+- 3 Faculty Board of Education meeting
+- 4 Senate meeting
+- 18 · Faculty Board of Medicine meeting
+- • Faculty Board of Social Science meeting
+- 1 Public holiday-Hong Kong Special Administrative Region Establishment Day
+- 11 Undergraduate Examinations Board meeting
+- 25 Executive Committee of Graduate Council meeting

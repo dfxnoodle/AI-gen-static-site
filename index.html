@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The Chinese University of Hong Kong Academic Calendar 2024-2025 - Official comprehensive information about CUHK's academic programs, administration, colleges, and important dates with authentic university styling.">
+    <meta name="keywords" content="CUHK, Chinese University Hong Kong, Academic Calendar, 2024-2025, University, Higher Education, Hong Kong">
+    <meta name="author" content="The Chinese University of Hong Kong">
+    <meta property="og:title" content="CUHK Academic Calendar 2024-2025">
+    <meta property="og:description" content="Comprehensive academic calendar and information for The Chinese University of Hong Kong 2024-2025 academic year.">
+    <meta property="og:type" content="website">
+    <title>CUHK Academic Calendar 2024-2025</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%237B4397'/><text y='70' font-size='60' fill='%23FFD700' text-anchor='middle' x='50' font-family='serif' font-weight='bold'>中</text></svg>">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>CUHK</h1>
+                    <span>Academic Calendar 2024-2025</span>
+                </div>
+                <nav class="nav">
+                    <ul class="nav-list">
+                        <li><a href="#home" class="nav-link active">Home</a></li>
+                        <li><a href="#general-info" class="nav-link">General Information</a></li>
+                        <li><a href="#establishment" class="nav-link">Establishment</a></li>
+                        <li><a href="#fees" class="nav-link">Fees & Colleges</a></li>
+                        <li><a href="#almanac" class="nav-link">Almanac</a></li>
+                        <li><a href="#search" class="nav-link">Search</a></li>
+                    </ul>
+                </nav>
+                <button class="mobile-menu-toggle" aria-label="Toggle mobile menu">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Mobile Navigation -->
+    <nav class="mobile-nav">
+        <ul class="mobile-nav-list">
+            <li><a href="#home" class="mobile-nav-link">Home</a></li>
+            <li><a href="#general-info" class="mobile-nav-link">General Information</a></li>
+            <li><a href="#establishment" class="mobile-nav-link">Establishment</a></li>
+            <li><a href="#fees" class="mobile-nav-link">Fees & Colleges</a></li>
+            <li><a href="#almanac" class="mobile-nav-link">Almanac</a></li>
+            <li><a href="#search" class="mobile-nav-link">Search</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>The Chinese University of Hong Kong</h1>
+                <h2>Academic Calendar 2024-2025</h2>
+                <p>Comprehensive information about CUHK's academic programs, administration, and calendar for the 2024-2025 academic year.</p>
+                <div class="hero-meta">
+                    <p><i class="fas fa-calendar-alt"></i> Accurate as of September 16, 2024</p>
+                    <p><i class="fas fa-copyright"></i> The Chinese University of Hong Kong 2024</p>
+                </div>
+                <div class="hero-actions">
+                    <a href="#general-info" class="btn btn-primary">Explore Calendar</a>
+                    <a href="#search" class="btn btn-secondary">Search Content</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Search Section -->
+    <section id="search" class="search-section">
+        <div class="container">
+            <h2>Search Calendar Content</h2>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search through all calendar content..." />
+                <button id="searchBtn"><i class="fas fa-search"></i></button>
+            </div>
+            <div id="searchResults" class="search-results"></div>
+        </div>
+    </section>
+
+    <!-- General Information Section -->
+    <section id="general-info" class="content-section">
+        <div class="container">
+            <div class="section-header">
+                <h2><i class="fas fa-info-circle"></i> General Information</h2>
+                <p>University origin, ordinance, and academic structure</p>
+            </div>
+            <div class="content-grid">
+                <div class="content-card">
+                    <h3>Origin & History</h3>
+                    <div id="origin-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>The University has its origin in three post-secondary colleges: New Asia College (founded 1949), Chung Chi College (founded 1951), and The United College of Hong Kong (founded 1956)...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="origin-content">View Details</button>
+                    </div>
+                </div>
+                
+                <div class="content-card">
+                    <h3>The Ordinance</h3>
+                    <div id="ordinance-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>In November 1975, the Chancellor appointed an external commission to review constitutional arrangements. The second Fulton Report was submitted in March 1976...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="ordinance-content">View Details</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>Academic Structure</h3>
+                    <div id="academic-structure-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>CUHK is a comprehensive research university with 8 Faculties, 60 departments/schools offering 85 major programmes and 76 minor programmes...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="academic-structure-content">View Details</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>Undergraduate Studies</h3>
+                    <div id="undergraduate-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>The University provides a wide variety of programmes to meet changing societal needs. In 2024-25, one major and three minor programmes are introduced...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="undergraduate-content">View Details</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>Postgraduate Studies</h3>
+                    <div id="postgraduate-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>149 master's programmes, 26 doctoral programmes, 44 MPhil-PhD programmes, plus postgraduate diploma and certificate programmes...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="postgraduate-content">View Details</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>General Education</h3>
+                    <div id="general-education-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>General Education equips students with intellectual capacity for understanding critical issues and prepares them as lifelong learners...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="general-education-content">Read More</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Establishment Section -->
+    <section id="establishment" class="content-section">
+        <div class="container">
+            <div class="section-header">
+                <h2><i class="fas fa-university"></i> Establishment</h2>
+                <p>University governance, officers, and administrative structure</p>
+            </div>
+            <div class="content-grid">
+                <div class="content-card">
+                    <h3>University Officers</h3>
+                    <div id="officers-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>The University is led by key officers including the Chancellor, Pro-Chancellor, Vice-Chancellor, Pro-Vice-Chancellors, and Treasurer...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="officers-content">Read More</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>The Council</h3>
+                    <div id="council-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>The University Council serves as the governing body, responsible for strategic direction and oversight...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="council-content">Read More</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>The Senate</h3>
+                    <div id="senate-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>The Senate regulates instruction, education and research across all faculties and departments...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="senate-content">Read More</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>Council Committees</h3>
+                    <div id="council-committees-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>Various specialized committees support the Council's work in different areas of university governance...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="council-committees-content">Read More</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>Senate Committees</h3>
+                    <div id="senate-committees-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>Senate committees oversee academic policies, curriculum development, and educational standards...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="senate-committees-content">Read More</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>Honorary Degrees & Fellows</h3>
+                    <div id="honorary-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>Distinguished individuals who have been honored by the University with honorary degrees and fellowships...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="honorary-content">Read More</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Fees & Colleges Section -->
+    <section id="fees" class="content-section">
+        <div class="container">
+            <div class="section-header">
+                <h2><i class="fas fa-coins"></i> Fees & Colleges</h2>
+                <p>College information, fees, scholarships, and student support</p>
+            </div>
+            <div class="content-grid">
+                <div class="content-card">
+                    <h3>New Asia College</h3>
+                    <div id="new-asia-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>Founded in 1949 by Mr. Ch'ien Mu, promoting traditional Chinese culture with Western academics. Currently around 3,500 students...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="new-asia-content">Read More</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>United College</h3>
+                    <div id="united-college-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>With motto "Make One's Virtues Shine and Renew the People", emphasizing whole-person education and global perspective...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="united-college-content">Read More</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>Shaw College</h3>
+                    <div id="shaw-college-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>Established in 1986 through Sir Run Run Shaw's generosity, with motto "Xiude Jiangxue" - cultivation of virtue and pursuit of knowledge...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="shaw-college-content">Read More</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>Morningside College</h3>
+                    <div id="morningside-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>Established in 2006, fully residential accommodating 300 students with diverse international community...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="morningside-content">Read More</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>S.H. Ho College</h3>
+                    <div id="sh-ho-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>Founded in 2006, accommodating 600 students on fully residential basis with motto "Culture, Morals, Devotion and Trustworthiness"...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="sh-ho-content">Read More</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>Additional Colleges</h3>
+                    <div id="additional-colleges-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>Information about Chung Chi College, C.W. Chu College, Wu Yee Sun College, and Lee Woo Sing College...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="additional-colleges-content">Read More</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Almanac Section -->
+    <section id="almanac" class="content-section">
+        <div class="container">
+            <div class="section-header">
+                <h2><i class="fas fa-calendar-alt"></i> University Almanac</h2>
+                <p>Academic calendar, important dates, and schedules for 2024-2025</p>
+            </div>
+            <div class="content-grid">
+                <div class="content-card">
+                    <h3>Academic Calendar 2024-2025</h3>
+                    <div id="calendar-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>Key academic dates, semester schedules, examination periods, and important deadlines for the 2024-2025 academic year...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="calendar-content">Read More</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>Important Dates</h3>
+                    <div id="important-dates-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>Registration periods, add/drop deadlines, examination schedules, and graduation ceremonies...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="important-dates-content">Read More</button>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h3>Semester Schedule</h3>
+                    <div id="semester-schedule-content" class="expandable-content">
+                        <div class="content-preview">
+                            <p>Term 1, Term 2, and Summer term schedules with detailed weekly breakdowns...</p>
+                        </div>
+                        <div class="content-full" style="display: none;">
+                            <!-- Full content will be loaded here -->
+                        </div>
+                        <button class="expand-btn" data-target="semester-schedule-content">Read More</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>The Chinese University of Hong Kong</h3>
+                    <p>Shatin, New Territories<br>
+                       Hong Kong Special Administrative Region<br>
+                       The People's Republic of China</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Contact Information</h3>
+                    <p><i class="fas fa-phone"></i> (852) 3943 6000</p>
+                    <p><i class="fas fa-fax"></i> (852) 3943 7000</p>
+                    <p><i class="fas fa-globe"></i> www.cuhk.edu.hk</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="#general-info">General Information</a></li>
+                        <li><a href="#establishment">Establishment</a></li>
+                        <li><a href="#fees">Fees & Colleges</a></li>
+                        <li><a href="#almanac">Almanac</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 The Chinese University of Hong Kong. All rights reserved.</p>
+                <p>Academic Calendar 2024-2025 - Accurate as of September 16, 2024</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Content Modal for Full-Page Display -->
+    <div id="contentModal" class="content-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modalTitle" class="modal-title"></h3>
+                <button id="modalClose" class="modal-close" aria-label="Close modal">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div id="modalBody" class="modal-body">
+                <!-- Content will be dynamically loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="content-data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+# Calendar 2024-25 - Chunk 199
+
+<!-- Chunk tokens: 507, Enriched tokens: 514 -->
+
+Doctor of Laws (LLD)
+Lien, Chan 連戰, 1 = 2005. Wang, Daohan 汪道涵, 1 = 2005. Fok, Henry Ying-tung 霍英東, 1 = 2006. Li, Andrew Kwok-nang 李國能, 1 = 2006. Tung, Chee Hwa 董建華, 1 = 2007. Fung, Victor Kwok-king 馮國經, 1 = 2008. Song, Jian 宋健, 1 = 2009. Tang, The Hon. Henry Ying-yen 唐英年, 1 = 2009. Cheng, Edgar W.K. 鄭維健, 1 = 2010. Levin, Richard Charles, 1 = 2012. Hamilton, Andrew David, 1 = 2013. Wong, The Hon. Yan-lung 黃仁龍, 1 = 2013. Lau, Lawrence Juen-yee 劉遵義, 1 = 2014. Reif, Leo Rafael, 1 = 2015. Ma, The Hon. Geoffrey Tao-li 馬道立, 1 = 2016. Smith, Sir Steve Murray, 1 = 2020. Hao, Ping 郝平, 1 = 2022. Sung, Joseph Jao-yiu 沈祖堯, 1 = 2022. Block, Gene D., 1 = 2024. Doctor of Literature (DLit), 1 = . Cheng, Tung-choy 鄭棟材, 1 = 1979. Wong, Yung-chow 黃用諏, 1 = 1979. Cheng, Te-k'un 鄭德坤, 1 = 1981. Li, Fei-kan (Ba Jin) 李芾甘 （巴金）, 1 = 1984. Watson, William, 1 = 1984. Wu, Qingyuan 吳清源, 1 = 1986. Lu, Shuxiang 呂叔湘, 1 = 1987. Yu, Zhen-fei 俞振飛, 1 = 1988. Ma, Yo-yo 馬友友, 1 = 1993. Zao, Wou-ki 趙無極, 1 = 1993. Spence, Jonathan D., 1 = 1995. Malmqvist, Nils Göran David, 1 = 1998. Gao, Xingjian 高行健, 1 = 2001. Ji, Xianlin 季羨林, 1 = 2002. Jao, Tsung-i 饒宗頤, 1 = 2003. Yu, Kwang-chung 余光中, 1 = 2003. Lao, Yungwei 勞榮瑋, 1 = 2004. Wu, Guanzhong 吳冠中, 1 = 2006

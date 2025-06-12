@@ -1,0 +1,7 @@
+# Calendar 2024-25 - Chunk 103
+
+<!-- Chunk tokens: 272, Enriched tokens: 278 -->
+
+C.W. Chu College
+Founded in 2007, C.W. Chu College is named after Dr. Chu Ching-wen (1906-1996), a prominent industrialist and a remarkable philanthropist who spent the larger part of his career in Hong Kong. The values which the late Dr. Chu exemplified are encapsulated in the College motto Cultus et Beneficentia (cultivating oneself and benefitting the community). The vision statement of the College embodies four elements: intimate, international, intellectual, involved ,  and aims to nurture graduates with leadership, generosity, intellectual clarity and morality.
+With a student membership of only 300, the College places strong emphasis on student-teacher interactions. It offers four years of undergraduate residence, and communal dining three times a week, catalysing students to build enduring bonds. The College admits no more than 75 students per year, with an expectation of 35% (including incoming exchange students) coming from outside Hong Kong. College fellows and teachers likewise come from many different backgrounds, enabling students to experience and share multicultural perspectives. Students broaden their horizon and enrich their social exposure through the mentorship scheme, which extends and realises the vision and mission of the College. Mentors are experienced and leading figures from all walks of life, including a ready network of Chu Scholars, and will offer advice and guidance on students' personal development.

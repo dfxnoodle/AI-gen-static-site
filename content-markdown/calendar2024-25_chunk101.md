@@ -1,0 +1,8 @@
+# Calendar 2024-25 - Chunk 101
+
+<!-- Chunk tokens: 231, Enriched tokens: 234 -->
+
+Morningside College
+Morningside College was established in 2006 with a generous and imaginative donation from the Morningside Foundation. Morningside is fully residential and accommodates 300 students. Students take rigorous general education courses in seminar settings conducive to discussion, discursive writing and debate. These courses are designed to sharpen their intellectual acumen and equip them with the ability to engage in independent, reflective and critical thinking.
+The College students value ideas, diversity, creativity, individuality, and civic responsibility. The Morningside student body is one of the most diverse student bodies at the University, with residents from many countries and regions. College fellows and distinguished visitors also contribute time, energy and thought to enriching college life. The College aims to help students to develop the values, intellectual breadth and practical skills needed to play leading roles in a wide range of disciplines and professions.
+A sense of social responsibility and engagement is central to the Morningside ethos. All of the students take an active part in community service activities throughout their university years. These and other activities lead them to a deeper understanding of themselves and of how they can make a positive impact on the world.

@@ -1,0 +1,10 @@
+# Calendar 2024-25 - Chunk 99
+
+<!-- Chunk tokens: 369, Enriched tokens: 371 -->
+
+United College
+With the motto Make One's Virtues Shine and Renew the People , and the spirit of 'Together We Innovate, United We Advance', United College sets out to provide a good learning environment, whole-person education and pastoral care as well as spiritual enhancement of its students.
+United College places strong emphasis on whole-person education and broadening the perspective of its students and enhancing their sense of social responsibility with a wide range of activities. Students are given ample opportunities to participate in overseas study tours and service learning programmes under the College's Globe-oriented Active Learning (GOAL) Programme through a wide range of scholarships. The College also organises a Service Learning Internship Programme (SLIP) to provide internship opportunities for students to work in the overseas NGOs.
+Various academic, social service and sports scholarships, awards and grants are established by the College, including the Hostel Residence Grant, Off-campus Residence Grant, First-in-the-family Tertiary Education Admission Scholarship, etc. In 2024-25, the total number of the College's scholarships, awards and financial aid reaches 2,000 awards and the total value reaches HK$12 million.
+To reach more students and provide support and assistance to them, the College strives to work on Student Wellness Programme and Career Development Facilitation  Scheme.  In  collaboration with  the  College Alumni Association, Mentorship Programme and Internship Scheme are organised for students.
+The College is situated on a beautiful campus with four student hostels which accommodate 1,288 students. Construction of the fifth student hostel is in progress and it is estimated to be completed in 2025 which will provide an additional 250 hostel places for students. The campus also provides a library, a gymnasium, a physical fitness room, a microcomputer laboratory and a creative media studio, non-residential halls, etc., for all students.

@@ -1,0 +1,6 @@
+# Calendar 2024-25 - Chunk 202
+
+<!-- Chunk tokens: 451, Enriched tokens: 453 -->
+
+Honorary Fellows
+Cheng, Vincent Hoi-chuen 鄭海泉, 1 = 2002. Hobbs, Kenneth Edward Frederick, 1 = 2002. Hu, Shiu-ying 胡秀英, 1 = 2002. Lee, Shau-kee 李兆基, 1 = 2002. Li, The Hon. Simon Fook-sean 李福善, 1 = 2002. Liu, Richard Shang-chien 劉尚儉, 1 = 2002. Chan, Norman Tak-lam 陳德霖, 1 = 2003. Chen, Tien-chi 陳天機, 1 = 2003. Cheung, Man-yee 張敏儀, 1 = 2003. Lee, Chien 利乾, 1 = 2003. Lee, Fei 李棐, 1 = 2003. Li, The Hon. Eric Ka-cheung 李家祥, 1 = 2003. Ma, Lin 馬臨, 1 = 2003. Shum, Choi-sang 岑才生, 1 = 2003. Sung, Sheung-hong 宋常康, 1 = 2003. Tam, Chung-ding 譚宗定, 1 = 2003. Chan Wong, Shui Pamela 陳黃穗, 1 = 2004. Chen, Thomas Tseng-tao 陳曾燾, 1 = 2004. Lee, Dick Ming-kwai 李明逵, 1 = 2004. Pang, Joseph Yuk-wing 彭玉榮, 1 = 2004. Tarn, John Nelson, 1 = 2004. Yung, Kung-hing 容拱興, 1 = 2004. Cheung, Thomas Huen-cheong 張煊昌, 1 = 2005. Chou, Vincent Wen-hsien 周文軒, 1 = 2005. Lee, Kam-chung 李金鐘, 1 = 2005. Lee, Woo-sing 李和聲, 1 = 2005. Li, Fook-hing 李福慶, 1 = 2005. Mong, David T.Y. 蒙德揚, 1 = 2005. Mun, Kin-chok 閔建蜀, 1 = 2005. Wang, Charles Cheung-tze 汪長智, 1 = 2005. Yan, Lina Hau-yee 殷巧兒, 1 = 2005. Chen, Fong-ching 陳方正, 1 = 2006

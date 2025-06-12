@@ -1,0 +1,26 @@
+{
+  "totalChunks": 254,
+  "sections": [
+    {
+      "name": "generalInformation",
+      "blocks": 0,
+      "approximateLength": 0
+    },
+    {
+      "name": "establishment",
+      "blocks": 187,
+      "approximateLength": 139989
+    },
+    {
+      "name": "fees",
+      "blocks": 50,
+      "approximateLength": 60925
+    },
+    {
+      "name": "almanac",
+      "blocks": 17,
+      "approximateLength": 9142
+    }
+  ],
+  "totalContentLength": 210564
+}

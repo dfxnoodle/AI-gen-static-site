@@ -1,0 +1,6 @@
+# Calendar 2024-25 - Chunk 227
+
+<!-- Chunk tokens: 885, Enriched tokens: 888 -->
+
+Other fees 2
+Full-time....................................................................................................................., 1 = 330,000. MSc Programme in Advanced Studies in Statistics and Data Science Full-time/Part-time..............................................................................................., 1 = 198,000. MSc Programme in Biochemical and Biomedical Sciences Full-time/Part-time..............................................................................................., 1 = 150,000. MSc Programme in Biomedical Engineering Full-time/Part-time..............................................................................................., 1 = 198,000. MSc Programme in Business Analytics Full-time....................................................................................................................., 1 = 340,000. MSc Programme in Cardiology (Advanced Cardiology Practice Concentration) Part-time...................................................................................................................., 1 = 221,953. MSc Programme in Cardiology (Essential Cardiology Concentration) Part-time...................................................................................................................., 1 = 158,538

@@ -1,0 +1,6 @@
+# Calendar 2024-25 - Chunk 228
+
+<!-- Chunk tokens: 896, Enriched tokens: 899 -->
+
+Other fees 2
+MSc Programme in Chinese Medicine Part-time...................................................................................................................., 1 = 174,000. MSc Programme in Computer Science Full-time....................................................................................................................., 1 = 264,000. Part-time...................................................................................................................., 1 = 228,800. MSc Programme in Data Science and Business Statistics Part-time...................................................................................................................., 1 = 171,600. MSc Programme in E-Commerce and Logistics Technologies Full-time/Part-time..............................................................................................., 1 = 200,000. MSc Programme in Economics Full-time....................................................................................................................., 1 = 298,000. MSc Programme in Electronic Engineering Full-time/Part-time..............................................................................................., 1 = 174,960. MSc Programme in Environmental Information, Health and Public Management
