@@ -120,7 +120,7 @@ body {
 .hero {
     background: linear-gradient(135deg, #8B5A96 0%, #9966CC 50%, #7B4397 100%);
     color: white;
-    padding: 120px 0 80px;
+    padding: 160px 0 80px;
     text-align: center;
     position: relative;
     overflow: hidden;
