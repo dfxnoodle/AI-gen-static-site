@@ -962,36 +962,7 @@ body {
     }
 }
 
-/* Dark mode support */
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: #1a1a1a;
-        color: #e2e8f0;
-    }
-    
-    .content-section {
-        background-color: #1a1a1a;
-    }
-    
-    .content-card {
-        background: #2d3748;
-        border-color: #4a5568;
-        color: #e2e8f0;
-    }
-    
-    .content-card h3 {
-        color: #fbd38d;
-    }
-    
-    .search-section {
-        background: #2d3748;
-    }
-    
-    #searchInput {
-        background: #4a5568;
-        color: #e2e8f0;
-    }
-}
+/* Dark mode support removed - site now defaults to light theme */
 
 /* Modal Styles for Full-Page Content Display */
 .content-modal {

@@ -1,6 +1,6 @@
 # Almanac Content
 
-The Chinese University of Hong Kong Calendar 2024-2025
+The Chinese University of Hong Kong Calendar 2025-2026
 Unless otherwise specified, the information in this Calendar is accurate as at 16 September 2024.
 
 © The Chinese University of Hong Kong 2024

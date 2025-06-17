@@ -197,10 +197,10 @@ const contentData = {
 // Calendar and almanac content
 const calendarData = {
     'calendar-content': {
-        title: 'Academic Calendar 2024-2025',
+        title: 'Academic Calendar 2025-2026',
         content: `
             <h4>Term Structure</h4>
-            <p>The 2024-2025 academic year follows a two-term structure with additional summer term options:</p>
+            <p>The 2025-2026 academic year follows a two-term structure with additional summer term options:</p>
             
             <div class="calendar-terms">
                 <div class="term-block">

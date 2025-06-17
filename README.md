@@ -1,6 +1,6 @@
-# CUHK Academic Calendar 2024-2025 Website (Trial)
+# CUHK Academic Calendar 2025-2026 Website (Trial)
 
-A modern, responsive website for The Chinese University of Hong Kong's Academic Calendar 2024-2025, featuring comprehensive information about the university's academic programs, administration, colleges, and important dates.
+A modern, responsive website for The Chinese University of Hong Kong's Academic Calendar 2025-2026, featuring comprehensive information about the university's academic programs, administration, colleges, and important dates.
 
 ## Features
 
@@ -106,7 +106,7 @@ The website is built with modern web standards and follows best practices for:
 
 ## Content
 
-Content is sourced from the official CUHK Academic Calendar 2024-2025 and organized into logical sections for easy navigation and reference.
+Content is sourced from the official CUHK Academic Calendar 2025-2026 and organized into logical sections for easy navigation and reference.
 
 ## License
 

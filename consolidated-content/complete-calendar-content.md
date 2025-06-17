@@ -1,6 +1,6 @@
-# CUHK Academic Calendar 2024-2025 - Complete Content
+# CUHK Academic Calendar 2025-2026 - Complete Content
 
-The Chinese University of Hong Kong Calendar 2024-2025
+The Chinese University of Hong Kong Calendar 2025-2026
 Unless otherwise specified, the information in this Calendar is accurate as at 16 September 2024.
 
 © The Chinese University of Hong Kong 2024
@@ -12,7 +12,7 @@ Communications and Public Relations Office The Chinese University of Hong Kong S
 www.cuhk.edu.hk
 
 Contents
-Part 1, 1 = General Information. Part 1, 2 = General Information. Part 1, 3 = 1. Part 2, 1 = Establishment. Part 2, 2 = Establishment. Part 2, 3 = 59. , 1 = 61. , 2 = University Officers. , 3 = . , 1 = 64. , 2 = The Council. , 3 = . , 1 = 66. , 2 = Council Committees. , 3 = . , 1 = 76. , 2 = The Senate. , 3 = . , 1 = 81. , 2 = Senate Committees. , 3 = . , 1 = 82. , 2 = Graduates Honoris Causa. , 3 = . , 1 = 89. , 2 = Honorary Fellows. , 3 = . Part 3, 1 = Fees. Part 3, 2 = Fees. Part 3, 3 = 93. Part 4, 1 = University Almanac. Part 4, 2 = University Almanac. Part 4, 3 = 111. , 1 = 113. , 2 = Calendar 2024-2025. , 3 = 
+Part 1, 1 = General Information. Part 1, 2 = General Information. Part 1, 3 = 1. Part 2, 1 = Establishment. Part 2, 2 = Establishment. Part 2, 3 = 59. , 1 = 61. , 2 = University Officers. , 3 = . , 1 = 64. , 2 = The Council. , 3 = . , 1 = 66. , 2 = Council Committees. , 3 = . , 1 = 76. , 2 = The Senate. , 3 = . , 1 = 81. , 2 = Senate Committees. , 3 = . , 1 = 82. , 2 = Graduates Honoris Causa. , 3 = . , 1 = 89. , 2 = Honorary Fellows. , 3 = . Part 3, 1 = Fees. Part 3, 2 = Fees. Part 3, 3 = 93. Part 4, 1 = University Almanac. Part 4, 2 = University Almanac. Part 4, 3 = 111. , 1 = 113. , 2 = Calendar 2025-2026. , 3 = 
 Part 1
 General Information
 
@@ -1615,7 +1615,7 @@ Part 3
 Fees
 
 Fees
-(for the academic year 2024-2025)
+(for the academic year 2025-2026)
 
 Tuition fees
 Full-time local students..........................................................................................., HK$ = 42,100. Full-time non-local students 2013-14 to 2016-17 intakes..............................................................................., HK$ = 120,000. 2017-18 intake and beyond.............................................................................., HK$ = 145,000. Double degree programmes/ Double degree options Local students, HK$ = . (First of double degree)................................................................................., HK$ = 42,100. 2013-14 to 2016-17 intakes ...................................................................., HK$ = 120,000. 2017-18 intake and beyond...................................................................., HK$ = 145,000. Non-local students, HK$ = . 2013-14 to 2016-17 intakes ...................................................................., HK$ = 120,000. 2017-18 intake and beyond...................................................................., HK$ = 145,000. (Second of double degree) 2013-14, HK$ = 120,000. 2017-18 intake and beyond...................................................................., HK$ = 145,000. Collaborative Dual Degree Programmes Local students........................................................................................................, HK$ = 42,100. Non-local students 1

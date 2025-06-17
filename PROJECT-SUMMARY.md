@@ -1,4 +1,4 @@
-# CUHK Academic Calendar 2024-2025 - Final Project Summary
+# CUHK Academic Calendar 2025-2026 - Final Project Summary
 
 ## 🎯 Project Completion Status: ✅ COMPLETE
 
@@ -8,7 +8,7 @@
 **Result**: All expandable content sections now work perfectly with smooth animations
 
 ### 🎨 Color Scheme Update - OFFICIAL CUHK THEME
-Successfully updated the website to match the official CUHK Academic Calendar 2024-2025 design:
+Successfully updated the website to match the official CUHK Academic Calendar 2025-2026 design:
 
 - **Primary Purple**: `#7B4397` → `#9966CC` (Official CUHK gradient)
 - **Secondary Purple**: `#8B5A96` (Complementary shade)
@@ -96,7 +96,7 @@ Successfully updated the website to match the official CUHK Academic Calendar 20
   - Lee Woo Sing College
 
 #### 4. University Almanac
-- Academic calendar 2024-2025
+- Academic calendar 2025-2026
 - Important dates and deadlines
 - Term schedules (Fall, Spring, Summer)
 - Examination periods
@@ -118,7 +118,7 @@ Successfully updated the website to match the official CUHK Academic Calendar 20
 - ✅ Custom CUHK favicon
 
 ### 🎭 Theme Consistency
-The website now perfectly matches the official CUHK Academic Calendar 2024-2025 design with:
+The website now perfectly matches the official CUHK Academic Calendar 2025-2026 design with:
 - Authentic purple gradient backgrounds
 - Official gold accents and highlights
 - Professional typography and spacing
@@ -133,7 +133,7 @@ The website now perfectly matches the official CUHK Academic Calendar 2024-2025 
 - **SEO Optimized**: Complete meta data
 
 ### 🎯 Final Result
-A comprehensive, modern, and accessible website that authentically represents CUHK's Academic Calendar 2024-2025 with the official university purple and gold theme. The site provides an excellent user experience across all devices while maintaining the professional aesthetic of the official calendar design.
+A comprehensive, modern, and accessible website that authentically represents CUHK's Academic Calendar 2025-2026 with the official university purple and gold theme. The site provides an excellent user experience across all devices while maintaining the professional aesthetic of the official calendar design.
 
 ---
 **Project Status**: ✅ **COMPLETE AND READY FOR DEPLOYMENT**

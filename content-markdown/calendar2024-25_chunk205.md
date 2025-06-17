@@ -3,4 +3,4 @@
 <!-- Chunk tokens: 11, Enriched tokens: 12 -->
 
 Fees
-(for the academic year 2024-2025)
+(for the academic year 2025-2026)

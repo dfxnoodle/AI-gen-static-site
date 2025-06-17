@@ -1,0 +1,24 @@
+[Unit]
+Description=AI Generated Static Site Server
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+User=root
+Group=root
+WorkingDirectory=/home/dinochlai/AI-gen-static-site
+ExecStart=/usr/bin/python3 /home/dinochlai/AI-gen-static-site/serve.py 80
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+# Security settings
+NoNewPrivileges=true
+
+# Environment
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target

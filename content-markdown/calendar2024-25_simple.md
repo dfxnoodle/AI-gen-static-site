@@ -8,7 +8,7 @@
 
 <!-- image -->
 
-The Chinese University of Hong Kong Calendar 2024-2025
+The Chinese University of Hong Kong Calendar 2025-2026
 
 <!-- image -->
 
@@ -52,7 +52,7 @@ www.cuhk.edu.hk
 |          | 89                    | Honorary Fellows        |     |
 | Part 3   | Fees                  | Fees                    | 93  |
 | Part 4   | University Almanac    | University Almanac      | 111 |
-|          | 113                   | Calendar 2024-2025      |     |
+|          | 113                   | Calendar 2025-2026      |     |
 
 Part 1
 
@@ -2846,7 +2846,7 @@ Fees
 
 ## Fees
 
-(for the academic year 2024-2025)
+(for the academic year 2025-2026)
 
 ## Fees for Various Programmes
 
@@ -3393,7 +3393,7 @@ University Almanac
 
 <!-- image -->
 
-## Calendar 2024-2025
+## Calendar 2025-2026
 
 ## Teaching Terms
 
